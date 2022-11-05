@@ -1,0 +1,109 @@
+text;success;reference;tags
+um cinco quatro três dois sete seis cinco quatro oito sete oito;False;U1 U5 U4 U3 U2 U7 U6 U5 U4 U8 U7 U8;D01 D05 D04 D03 D02 D07 D06 D05 D04 D08 D07 D08
+quatro dois zero nove sete seis zero cinco;False;U4 U2 U0 U9 U7 U6 U0 U5;D04 D02 D00 D09 D07 D06 D00 D05
+cinco zero um zero quatro três três;False;U5 U0 U1 U0 U4 U3 U3;D05 D00 D01 D00 D04 D03 D03
+cinco zero sete oito nove um três;False;U5 U0 U7 U8 U9 U1 U3;D05 D00 D07 D08 D09 D01 D03
+dez nove oito sete seis cinco quatro três dois um zero;False;D10 U9 U8 U7 U6 U5 U4 U3 U2 U1 U0;D09 D08 D07 D06 D05 D04 D03 D02 D01 D00
+três dois dois quatro quatro zero zero zero;False;U3 U2 U2 U4 U4 U0 U0 U0;D03 D02 D02 D04 D04 D00 D00 D00
+meia dúzia oito sete quatro três sete meia;False;U6 U8 U7 U4 U3 U7 U6;D06 D08 D07 D04 D03 D07 D06
+zero dois zero seis um nove meia cinco;False;U0 U2 U0 U6 U1 U9 U6 U5;D00 D02 D00 D06 D01 D09 D06 D05
+um nove nove três um dois zero oito;False;U1 U9 U9 U3 U1 U2 U0 U8;D01 D09 D09 D03 D01 D02 D00 D08
+dois quatro seis oito zero;False;U2 U4 U6 U8 U0;D02 D04 D06 D08 D00
+um três cinco sete nove;False;U1 U3 U5 U7 U9;D01 D03 D05 D07 D09
+nove quatro três cinco oito zero seis um sete dois;False;U9 U4 U3 U5 U8 U0 U6 U1 U7 U2;D09 D04 D03 D05 D08 D00 D06 D01 D07 D02
+trezentos e doze;False;C3 D1 U2;
+oito mil cento e quinze;False;U8 THOUSAND C1 D1 U5;D08
+nove sete um nove;False;U9 U7 U1 U9;D09 D07 D01 D09
+dois três um sete zero seis nove oito cinco quatro;False;U2 U3 U1 U7 U0 U6 U9 U8 U5 U4;D02 D03 D01 D07 D00 D06 D09 D08 D05 D04
+um três cinco seis oito dois sete zero nove quatro;False;U1 U3 U5 U6 U8 U2 U7 U0 U9 U4;D01 D03 D05 D06 D08 D02 D07 D00 D09 D04
+cinco sete seis zero nove dois três quatro oito um;False;U5 U7 U6 U0 U9 U2 U3 U4 U8 U1;D05 D07 D06 D00 D09 D02 D03 D04 D08 D01
+quatro oito nove sete dois um zero três cinco seis;False;U4 U8 U9 U7 U2 U1 U0 U3 U5 U6;D04 D08 D09 D07 D02 D01 D00 D03 D05 D06
+quatro mil e quinhentos e dez;False;U4 THOUSAND C5 D1 U0;D04
+dois um quatro sete meia nove três oito cinco zero;False;U2 U1 U4 U7 U6 U9 U3 U8 U5 U0;D02 D01 D04 D07 D06 D09 D03 D08 D05 D00
+quatro oito cinco dois nove um meia zero três sete;False;U4 U8 U5 U2 U9 U1 U6 U0 U3 U7;D04 D08 D05 D02 D09 D01 D06 D00 D03 D07
+dois mil oitocentos e treze;False;U2 THOUSAND C8 D1 U3;D02
+cinco oito nove seis três sete zero um dois quatro;False;U5 U8 U9 U6 U3 U7 U0 U1 U2 U4;D05 D08 D09 D06 D03 D07 D00 D01 D02 D04
+trinta e seis e cem;False;D3 U6 THOUSAND C100;D06
+dois zero três nove sete oito um cinco quatro meia;False;U2 U0 U3 U9 U7 U8 U1 U5 U4 U6;D02 D00 D03 D09 D07 D08 D01 D05 D04 D06
+dois meia zero;False;U2 U6 U0;D02 D06 D00
+três um cinco zero dois oito seis sete quatro nove;False;U3 U1 U5 U0 U2 U8 U6 U7 U4 U9;D03 D01 D05 D00 D02 D08 D06 D07 D04 D09
+sessenta e três;False;D6 U3;D03
+seis mil  seiscentos e dezoito;False;U6 THOUSAND C6 D1 U8;D06
+um seis quatro dois zero oito três nove sete cinco;False;U1 U6 U4 U2 U0 U8 U3 U9 U7 U5;D01 D06 D04 D02 D00 D08 D03 D09 D07 D05
+zero quatro nove meia dois sete três oito um cinco;False;U0 U4 U9 U6 U2 U7 U3 U8 U1 U5;D00 D04 D09 D06 D02 D07 D03 D08 D01 D05
+nove mil oitocentos e dezenove;False;U9 THOUSAND C8 D1 U9;D09
+sete três seis zero oito cinco dois um nove quatro;False;U7 U3 U6 U0 U8 U5 U2 U1 U9 U4;D07 D03 D06 D00 D08 D05 D02 D01 D09 D04
+zero oito três cinco seis nove sete um dois quatro;False;U0 U8 U3 U5 U6 U9 U7 U1 U2 U4;D00 D08 D03 D05 D06 D09 D07 D01 D02 D04
+quinhentos e quarenta e oito;False;C5 D4 U8;D08
+zero nove um cinco quatro oito meia sete dois três;False;U0 U9 U1 U5 U4 U8 U6 U7 U2 U3;D00 D09 D01 D05 D04 D08 D06 D07 D02 D03
+três três oito;False;U3 U3 U8;D03 D03 D08
+oito mil quinhentos e doze;False;U8 THOUSAND C5 D1 U2;D08
+cinco mil duzentos e treze;False;U5 THOUSAND C2 D1 U3;D05
+um cinco oito meia zero dois três nove sete quatro;False;U1 U5 U8 U6 U0 U2 U3 U9 U7 U4;D01 D05 D08 D06 D00 D02 D03 D09 D07 D04
+seis sete dois oito quatro um cinco três nove zero;False;U6 U7 U2 U8 U4 U1 U5 U3 U9 U0;D06 D07 D02 D08 D04 D01 D05 D03 D09 D00
+um ponto trezentos e doze;False;U1 Y3 W1 Z2;D01
+nove sete um;False;U9 U7 U1;D09 D07 D01
+sete cinco seis um nove dois três oito zero quatro;False;U7 U5 U6 U1 U9 U2 U3 U8 U0 U4;D07 D05 D06 D01 D09 D02 D03 D08 D00 D04
+sete quatro um nove dois três cinco oito sete seis;False;U7 U4 U1 U9 U2 U3 U5 U8 U7 U6;D07 D04 D01 D09 D02 D03 D05 D08 D07 D06
+vinte e seis cem;False;D2 U6 THOUSAND C100;D06
+dois zero oito cinco um três quatro nove seis sete;False;U2 U0 U8 U5 U1 U3 U4 U9 U6 U7;D02 D00 D08 D05 D01 D03 D04 D09 D06 D07
+setecentos e noventa e quatro;False;C7 D9 U4;D04
+mil trezentos e um;False;THOUSAND C3 U1;D01
+nove meia oito;False;U9 U6 U8;D09 D06 D08
+quarenta quarenta e um;False;D40 D4 U1;D01
+cinco zero oito um dois quatro sete seis nove três;False;U5 U0 U8 U1 U2 U4 U7 U6 U9 U3;D05 D00 D08 D01 D02 D04 D07 D06 D09 D03
+seis oito sete um cinco quatro zero três dois nove;False;U6 U8 U7 U1 U5 U4 U0 U3 U2 U9;D06 D08 D07 D01 D05 D04 D00 D03 D02 D09
+dois nove seis três sete quatro zero oito um cinco;False;U2 U9 U6 U3 U7 U4 U0 U8 U1 U5;D02 D09 D06 D03 D07 D04 D00 D08 D01 D05
+três seis quatro nove cinco oito um dois sete zero;False;U3 U6 U4 U9 U5 U8 U1 U2 U7 U0;D03 D06 D04 D09 D05 D08 D01 D02 D07 D00
+setecentos e noventa e um;False;C7 D9 U1;D01
+quinze mil e cem;False;D1 U5 THOUSAND C100;
+quinhentos e sessenta;False;C5 D60;
+nove quatro zero oito dois três sete cinco um seis;False;U9 U4 U0 U8 U2 U3 U7 U5 U1 U6;D09 D04 D00 D08 D02 D03 D07 D05 D01 D06
+duzentos e  trinta e três;False;C2 D3 U3;D03
+nove oito sete três seis cinco quatro um zero dois;False;U9 U8 U7 U3 U6 U5 U4 U1 U0 U2;D09 D08 D07 D03 D06 D05 D04 D01 D00 D02
+oito mil quatrocentos e dezoito;False;U8 THOUSAND C4 D1 U8;D08
+mil duzentos e onze;False;THOUSAND C2 D1 U1;
+oitocentos e setenta e cinco;False;C8 D7 U5;D05
+sete nove dois um três oito quatro cinco zero meia;False;U7 U9 U2 U1 U3 U8 U4 U5 U0 U6;D07 D09 D02 D01 D03 D08 D04 D05 D00 D06
+vinte e nove mil e cem;False;D2 U9 THOUSAND C100;D09
+oito sete um dois zero quatro;False;U8 U7 U1 U2 U0 U4;D08 D07 D01 D02 D00 D04
+dois mil quinhentos e catorze;False;U2 THOUSAND C5 D1 U4;D02
+quatro zero dois um meia oito cinco sete três nove;False;U4 U0 U2 U1 U6 U8 U5 U7 U3 U9;D04 D00 D02 D01 D06 D08 D05 D07 D03 D09
+um sete zero três dois nove cinco quatro oito meia;False;U1 U7 U0 U3 U2 U9 U5 U4 U8 U6;D01 D07 D00 D03 D02 D09 D05 D04 D08 D06
+dois oito seis um quatro zero nove sete três cinco;False;U2 U8 U6 U1 U4 U0 U9 U7 U3 U5;D02 D08 D06 D01 D04 D00 D09 D07 D03 D05
+mil trezentos e onze;False;THOUSAND C3 D1 U1;
+três mil duzentos e dezenove;False;U3 THOUSAND C2 D1 U9;D03
+sete zero quatro dois seis um oito nove cinco três;False;U7 U0 U4 U2 U6 U1 U8 U9 U5 U3;D07 D00 D04 D02 D06 D01 D08 D09 D05 D03
+mil quatrocentos e doze;False;THOUSAND C4 D1 U2;
+vinte e três mil e cem;False;D2 U3 THOUSAND C100;D03
+quatro sete nove oito seis três dois um cinco zero;False;U4 U7 U9 U8 U6 U3 U2 U1 U5 U0;D04 D07 D09 D08 D06 D03 D02 D01 D05 D00
+zero um quatro nove cinco oito seis dois três sete;False;U0 U1 U4 U9 U5 U8 U6 U2 U3 U7;D00 D01 D04 D09 D05 D08 D06 D02 D03 D07
+dois mil oitocentos e dezessete;False;U2 THOUSAND C8 D1 U7;D02
+novecentos e quarenta e um;False;C9 D4 U1;D01
+oito nove zero um sete quatro cinco três dois seis;False;U8 U9 U0 U1 U7 U4 U5 U3 U2 U6;D08 D09 D00 D01 D07 D04 D05 D03 D02 D06
+quatro um um;False;U4 U1 U1;D04 D01 D01
+sete três nove meia dois um cinco oito quatro zero;False;U7 U3 U9 U6 U2 U1 U5 U8 U4 U0;D07 D03 D09 D06 D02 D01 D05 D08 D04 D00
+quarenta e sete;False;D4 U7;D07
+sete zero oito nove um três dois cinco quatro meia;False;U7 U0 U8 U9 U1 U3 U2 U5 U4 U6;D07 D00 D08 D09 D01 D03 D02 D05 D04 D06
+seis nove cinco três quatro sete dois um zero oito;False;U6 U9 U5 U3 U4 U7 U2 U1 U0 U8;D06 D09 D05 D03 D04 D07 D02 D01 D00 D08
+sete oito quatro um nove três cinco zero dois meia;False;U7 U8 U4 U1 U9 U3 U5 U0 U2 U6;D07 D08 D04 D01 D09 D03 D05 D00 D02 D06
+trezentos e cinquenta;False;C3 D50;
+dois quatro zero sete cinco oito nove um meia três;False;U2 U4 U0 U7 U5 U8 U9 U1 U6 U3;D02 D04 D00 D07 D05 D08 D09 D01 D06 D03
+um três sete meia nove dois cinco zero oito quatro;False;U1 U3 U7 U6 U9 U2 U5 U0 U8 U4;D01 D03 D07 D06 D09 D02 D05 D00 D08 D04
+quatro;False;U4;D04
+seis três nove sete oito cinco zero dois um quatro;False;U6 U3 U9 U7 U8 U5 U0 U2 U1 U4;D06 D03 D09 D07 D08 D05 D00 D02 D01 D04
+sete zero oito cinco seis três dois nove quatro um;False;U7 U0 U8 U5 U6 U3 U2 U9 U4 U1;D07 D00 D08 D05 D06 D03 D02 D09 D04 D01
+cinco nove três dois meia zero um oito quatro sete;False;U5 U9 U3 U2 U6 U0 U1 U8 U4 U7;D05 D09 D03 D02 D06 D00 D01 D08 D04 D07
+seis mil trezentos e quinze;False;U6 THOUSAND C3 D1 U5;D06
+treze;False;D1 U3;
+trinta e três mil e cem;False;D3 U3 THOUSAND C100;D03
+setenta e quatro;False;D7 U4;D04
+dois mil setecentos e doze;False;U2 THOUSAND C7 D1 U2;D02
+quatro três um;False;U4 U3 U1;D04 D03 D01
+cinquenta mil e treze;False;D5 U0 THOUSAND D1 U3;
+seis zero quatro três cinco oito sete um nove dois;False;U6 U0 U4 U3 U5 U8 U7 U1 U9 U2;D06 D00 D04 D03 D05 D08 D07 D01 D09 D02
+quatro cinco um três dois sete seis zero oito nove;False;U4 U5 U1 U3 U2 U7 U6 U0 U8 U9;D04 D05 D01 D03 D02 D07 D06 D00 D08 D09
+dois três zero sete meia quatro cinco oito um nove;False;U2 U3 U0 U7 U6 U4 U5 U8 U1 U9;D02 D03 D00 D07 D06 D04 D05 D08 D01 D09
+sete zero cinco três oito seis quatro dois nove um;False;U7 U0 U5 U3 U8 U6 U4 U2 U9 U1;D07 D00 D05 D03 D08 D06 D04 D02 D09 D01
+um sete dois quatro meia três cinco oito zero nove;False;U1 U7 U2 U4 U6 U3 U5 U8 U0 U9;D01 D07 D02 D04 D06 D03 D05 D08 D00 D09
+duzentos e dezoito;False;C2 D1 U8;

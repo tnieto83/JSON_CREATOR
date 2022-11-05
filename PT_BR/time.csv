@@ -1,0 +1,54 @@
+text;success;reference;tags
+seis horas da tarde;True;H06 TR;H06 TR
+duas e meia;True;H02 M30;H02 M30
+dezenove e quarenta e quatro;True;H19 M44;H19 M44
+dezessete horas e vinte minutos;True;H17 M20;H17 M20
+dezesseis e trinta e dois;True;H16 M32;H16 M32
+dez e dezessete;True;H10 M17;H10 M17
+doze e cinco;True;H12 M05;H12 M05
+cinco e meia da tarde;True;H05 M30 TR;H05 M30 TR
+são dez e meia da manhã;True;H10 M30 MR;H10 M30 MR
+seis horas da tarde;True;H06 TR;H06 TR
+duas e cinquenta da manhã;True;H02 M50 MR;H02 M50 MR
+duas e quinze da manhã;True;H02 M15 MR;H02 M15 MR
+sete e cinquenta e três da noite;True;H07 M53 NT;H07 M53 NT
+são dez horas da manhã;True;H10 MR;H10 MR
+cinco para as três;True;M05 L H03;M05 L H03
+uma e meia da tarde;True;H01 M30 TR;H01 M30 TR
+seis e dez da tarde;True;H06 M10 TR;H06 M10 TR
+onze e meia da noite;True;H11 M30 NT;H11 M30 NT
+vinte horas e quinze minutos;True;H20 M15;H20 M15
+dezenove e quarenta e cinco;True;H19 M45;H19 M45
+dezoito horas e cinco minutos;True;H18 M05;H18 M05
+vinte pras quatro;True;M20 L H04;M20 L H04
+dez pra uma;False;M10 L H01;H10
+seis e meia da tarde;True;H06 M30 TR;H06 M30 TR
+meia-noite e três;False;MN M03;H03
+meia-noite;False;MN;
+três e meia da tarde;True;H03 M30 TR;H03 M30 TR
+são dez horas da noite;True;H10 NT;H10 NT
+quinze pras oito;True;M15 L H08;M15 L H08
+dezoito e cinquenta;True;H18 M50;H18 M50
+dezessete horas e trinta e cinco minutos;True;H17 M35;H17 M35
+vinte e duas horas;False;H22;H20 M02
+dez pras sete;True;M10 L H07;M10 L H07
+vinte para as oito;True;M20 L H08;M20 L H08
+vinte para as duas;True;M20 L H02;M20 L H02
+catorze minutos;False;M14;H14
+dezenove minutos;False;M19;H19
+umas e seis da tarde;False;H01 M06 TR;H06 TR
+dez pras onze;True;M10 L H11;M10 L H11
+é onze horas e quinze minutos;True;H11 M15;H11 M15
+cinco para as três;True;M05 L H03;M05 L H03
+seis e meia;True;H06 M30;H06 M30
+vinte e duas horas e trinta e quatro minutos;False;H22 M34;H02 M34
+oito e vinte;True;H08 M20;H08 M20
+oito hora oito e dez;True;H08 M10;H08 M10
+dezenove e quarenta e cinco;True;H19 M45;H19 M45
+vinte e cinco minutos;False;M25;H20 M05
+;False;H15 M42;
+quinze e quarenta e dois;True;H15 M42;H15 M42
+dezoito minutos;False;M18;H18
+treze horas e cinquenta e oito minutos;True;H13 M58;H13 M58
+treze horas quarenta e cinco minutos;True;H13 M45;H13 M45
+onze horas e dezoito minutos;True;H11 M18;H11 M18

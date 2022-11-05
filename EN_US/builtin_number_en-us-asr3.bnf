@@ -1,0 +1,305 @@
+#ABNF 1.0 ISO8859-1;
+
+root $number = (($garbageList {}*) [the | a] {} [number] {} [is] {} $numberComplete ($garbageList {})*);
+
+$numberComplete = ($integer [$decimalPart]);
+$decimalPart= (with | point | decimal) {} $decimal;
+
+
+$SIL = "[SIL]" {};
+
+
+$integer = ($billions | $millions | $thousands | $hundred | $ten | $unit);
+
+
+$billions = ($unit (billion|billions|"thousand million"|"thousand millions") {BILLION} [($millions | $thousands)]);
+$millions = ($minimalBlock  (million|millions) {MILLION} [$thousands]);
+$thousands = ($minimalBlock (thousand|thousands) {THOUSAND} [$optional_and] [$minimalBlock]);
+$minimalBlock = ($hundred | $ten | $unit);
+$hundred = ($hundredPosition [($ten | $unit)]);
+$ten = ($tenAlone | $tenPosition [$unit]);
+
+
+
+$decimal = ($decimalHundred | $decimalTen | $decimalUnit+);
+$decimalTen = ($decimalTenAlone | $decimalTenPosition [$decimalUnit]);
+$decimalHundred = ($decimalHundredPosition [$decimalTensOrUnits]);
+$decimalTensOrUnits = [$decimalTen] [$decimalUnit];
+
+
+$hundredPosition = (
+	("one hundred"|"a hundred") {C1} |
+	"two hundred" {C2}    |
+	"three hundred" {C3}   |
+	"four hundred" {C4} |
+	"five hundred" {C5}    |
+	"six hundred" {C6}   |
+	"seven hundred" {C7}   |
+	"eight hundred" {C8}   |
+	"nine hundred" {C9}
+) [$optional_and];
+
+$optional_and = and {};
+
+$tenAlone = (
+	ten {D1}            |
+    eleven {D1 U1}          |
+    twelve {D1 U2}          |
+    thirteen {D1 U3}         |
+    fourteen {D1 U4}       |
+    fifteen {D1 U5}        |
+    sixteen {D1 U6}     |
+    seventeen {D1 U7}    |
+    eighteen {D1 U8}     |
+    nineteen {D1 U9}
+    );
+
+$tenPosition = (
+	twenty {D2}    	  |
+    thirty {D3}    	  |
+    forty {D4}   	  | 
+    fifty {D5}  	  | 
+    sixty {D6}    	  | 
+    seventy {D7}    	  | 
+    eighty {D8}    	  | 
+    ninety {D9}  
+    );
+    
+
+$unit = (
+    one {U1}       |
+    two {U2}       |
+    three {U3}      |
+    four {U4}    |
+    five {U5}     |
+    six {U6}      |
+    seven {U7}     |
+    eight {U8}      |
+    nine {U9}     |
+    (zero | o) {U0} 
+    );
+	
+
+
+$decimalHundredPosition = (
+	("one hundred"|"a hundred") {X1} |
+	"two hundred" {X2}    |
+	"three hundred" {X3}   |
+	"four hundred" {X4} |
+	"five hundred" {X5}    |
+	"six hundred" {X6}   |
+	"seven hundred" {X7}   |
+	"eight hundred" {X8}   |
+	"nine hundred" {X9}
+	) [$optional_and];
+
+
+$decimalTenAlone = (
+    ten {Y1}             |
+    eleven {Y1 Z1}       |
+    twelve {Y1 Z2}       |
+    thirteen {Y1 Z3}     |
+    fourteen {Y1 Z4}     |
+    fifteen {Y1 Z5}      |
+    sixteen {Y1 Z6}      |
+    seventeen {Y1 Z7}    |
+    eighteen {Y1 Z8}     |
+    nineteen {Y1 Z9}
+    );
+
+$decimalTenPosition = (
+    twenty {Y2}    	  |
+    thirty {Y3}    	  |
+    forty {Y4}   	  |
+    fifty {Y5}  	  |
+    sixty {Y6}    	  |
+    seventy {Y7}	  |
+    eighty {Y8}    	  |
+    ninety {Y9}
+);
+    
+
+$decimalUnit = (
+    one {Z1}       |
+    two {Z2}       |
+    three {Z3}      |
+    four {Z4}    |
+    five {Z5}     |
+    six {Z6}      |
+    seven {Z7}     |
+    eight {Z8}      |
+    nine {Z9}     |
+    (zero | o) {Z0} 
+);
+
+
+$garbageList =
+ace |
+acres |
+ant |
+back |
+bag |
+band |
+bash |
+bed |
+best |
+blank |
+blind |
+boat |
+boat |
+born |
+brain |
+bread |
+call |
+cap |
+cart |
+cat |
+cents |
+choke |
+clock |
+close |
+club |
+coat |
+crew |
+crop |
+cry |
+cut |
+cute |
+dive |
+dorm |
+draw |
+drew |
+dump |
+dust |
+dwell |
+east |
+feed |
+first |
+fish |
+flag |
+flap |
+flesh |
+flow |
+for |
+gate |
+gear |
+gel |
+glaze |
+green |
+grow |
+hack |
+hall |
+ham |
+hang |
+hat |
+hat |
+hate |
+head |
+heal |
+heart |
+heat |
+here |
+high |
+hours |
+hunt |
+ice |
+inch |
+ink |
+jug |
+keep |
+key |
+kind |
+lamp |
+land |
+learn |
+less |
+lie |
+light |
+lip |
+long |
+look |
+look |
+lump |
+mail |
+man |
+match |
+miles |
+milk |
+mind |
+mint |
+mode |
+mush |
+net |
+noise |
+old |
+orange |
+over |
+park |
+pear |
+peg |
+plant |
+play |
+point |
+poor |
+price |
+print |
+proud |
+proud |
+pull |
+quick |
+rag |
+rail |
+reach |
+red |
+rest |
+ring |
+ripe |
+robe |
+rock |
+roll |
+room |
+root |
+rope |
+rule |
+run |
+seam |
+seat |
+seize |
+shark |
+sharp |
+sheet |
+shoe |
+shop |
+show |
+shy |
+sick |
+side |
+size |
+skirt |
+slope |
+smoke |
+smooth |
+sold |
+tax |
+tell |
+time |
+toe |
+toll |
+tons |
+top |
+trade |
+trick |
+vase |
+vent |
+verse |
+void |
+wait |
+waste |
+why |
+will |
+wood |
+work |
+worm |
+worn |
+yards;
+

@@ -1,0 +1,15 @@
+#ABNF 1.0 ISO8859-1;
+
+// Yes/No Built-in
+// Copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+
+root $yesno = 
+		( $yes | $no )
+		[ please {} | "thank you" {}] ;
+// gramáticas auxiliares
+
+$yes = yes*{}(yes [please] | yeah | yep | okay | alright | ["that's" | "that is"] right  | ["that's" | "that is"] correct | "it is" | "I do" | "I would"  | "I am" | sure | exactly | affirmative | absolutely | indeed | true) {true};
+
+$no =  no*{}(no ["thank you" | thanks] | nope | ["that's" | "that is"] wrong | "that's not right" | ["that's" | "that is"] incorrect | "it is not" | "it isn't" | "I do not" | "I don't" | "I would not" | "I am not" | "no way" | negative | "absolutely not" | "not at all" | false) {false};
+
+

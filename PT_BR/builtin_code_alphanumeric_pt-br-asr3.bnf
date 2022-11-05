@@ -1,0 +1,168 @@
+#ABNF 1.0 ISO8859-1;
+
+language pt-br;
+
+
+root $code = $GARBAGE* ($number | $alphabet)* $GARBAGE* ;
+
+
+$SIL =  "[SIL]" {};
+
+
+$alphabet =
+"a"       {A} | "á" {A} | "ah" {A} | "ãh" {A} |
+"b"       {B} |
+"c"       {C} |
+"cedilha" {Ç} |
+"d"       {D} |
+"e"       {E} | "é" {E} |
+"f"       {F} |
+"g"       {G} |
+"h"       {H} |
+"i"       {I} | "í" {I} |
+"j"       {J} |
+"k"       {K} |
+"l"       {L} |
+"ême"     {M} |
+"n"       {N} |
+"o"       {O} | "ó" {O} |
+"p"       {P} |
+"q"       {Q} |
+"r"       {R} |
+"s"       {S} |
+"t"       {T} |
+"u"       {U} |
+"vê"      {V} |
+"w"       {W} |
+"x"       {X} |
+"y"       {Y} |
+"z"       {Z};
+
+
+$number = ($thousand | $hundred | $ten | $unit); 
+
+
+$thousand = ($thousandAlone | $thousandAssembled);
+$hundred = ($hundredAlone | $hundredAssembled);
+$ten = ($tenAlone | $tenAssembled);
+
+
+$thousandAssembled = (
+    ($thousandPosition ($hundredAlone | $tenAlone | $unitWithoutZero)) |
+    ($thousandPosition $hundredAssembled) |
+    ($thousandPosition $tenAssembled)
+);
+
+$thousandAlone = (
+    "mil" {K1000} |
+    "dois mil" {K2000} |
+    "três mil" {K3000} |
+    "quatro mil" {K4000} |
+    "cinco mil" {K5000} |
+    "seis mil" {K6000} |
+    "sete mil" {K7000} |
+    "oito mil" {K8000} |
+    "nove mil" {K9000}
+);
+
+$thousandPosition = (
+    "mil e" {K1} |
+    "dois mil e" {K2} |
+    "três mil e" {K3} |
+    "quatro mil e" {K4} |
+    "cinco mil e" {K5} |
+    "seis mil e" {K6} |
+    "sete mil e" {K7} |
+    "oito mil e" {K8} |
+    "nove mil e" {K9}
+);
+
+
+$hundredAssembled = ($hundredPosition $tenAlone | $hundredPosition $tenAssembled | $hundredPosition $unitWithoutZero);
+
+$hundredAlone = (
+    cem {C100} |
+    duzentos {C200} |
+    trezentos {C300} |
+    quatrocentos {C400} |
+    quinhentos {C500} |
+    seiscentos {C600} |
+    setecentos {C700} |
+    oitocentos {C800} |
+    novecentos {C900}
+);
+
+$hundredPosition = (
+    "cento e" {C1} |
+    "duzentos e" {C2} |
+    "trezentos e" {C3} |
+    "quatrocentos e" {C4} |
+    "quinhentos e" {C5} |
+    "seiscentos e" {C6} |
+    "setecentos e" {C7} |
+    "oitocentos e" {C8} |
+    "novecentos e" {C9}
+);
+
+
+$tenAssembled = ($tenPosition $unitWithoutZero);
+
+$tenAlone =
+    dez         {D10}           |
+    onze        {D1 U1}         |
+    doze        {D1 U2}         |
+    treze       {D1 U3}         |
+    catorze     {D1 U4}         |
+    quinze      {D1 U5}         |
+    dezesseis   {D1 U6}         |
+    dezessete   {D1 U7}         |
+    dezoito     {D1 U8}         |
+    dezenove    {D1 U9}         |
+    vinte       {D20} $SIL      |
+    trinta      {D30} $SIL      |
+    quarenta    {D40} $SIL      |
+    cinquenta   {D50} $SIL      |
+    sessenta    {D60} $SIL      |
+    setenta     {D70} $SIL      |
+    oitenta     {D80} $SIL      |
+    noventa     {D90} $SIL      ;
+
+$tenPosition = (
+    "vinte e" {D2} |
+    "trinta e" {D3} |
+    "quarenta e" {D4} |
+    "cinquenta e" {D5} |
+    "sessenta e" {D6} |
+    "setenta e" {D7} |
+    "oitenta e" {D8} |
+    "noventa e" {D9}
+);
+
+
+$unitWithoutZero = (
+    um {U1} |
+    dois {U2} |
+    três {U3} |
+    quatro {U4} |
+    cinco {U5} |
+    seis {U6} |
+    meia {U6} |
+    sete {U7} |
+    oito {U8} |
+    nove {U9}
+);
+
+$unit = (
+    zero {U0} |
+    um {U1} |
+    dois {U2} |
+    três {U3} |
+    quatro {U4} |
+    cinco {U5} |
+    seis {U6} |
+    meia {U6} |
+    sete {U7} |
+    oito {U8} |
+    nove {U9}
+);
+

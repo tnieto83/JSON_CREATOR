@@ -1,0 +1,211 @@
+text;success;reference;tags
+march ninth;True;M03 D09;M03 D09
+march ninth;True;M03 D09;M03 D09
+march eighth;True;M03 D08;M03 D08
+march eighth;True;M03 D08;M03 D08
+march seventh;True;M03 D07;M03 D07
+march seventh;True;M03 D07;M03 D07
+march sixth;True;M03 D06;M03 D06
+march sixth;True;M03 D06;M03 D06
+march fifth;True;M03 D05;M03 D05
+march fifth;True;M03 D05;M03 D05
+may eleventh;True;M05 D11;M05 D11
+may eleventh;True;M05 D11;M05 D11
+may tenth;True;M05 D10;M05 D10
+may tenth;True;M05 D10;M05 D10
+may ninth;True;M05 D09;M05 D09
+may ninth;True;M05 D09;M05 D09
+march fourth;True;M03 D04;M03 D04
+march fourth;True;M03 D04;M03 D04
+may eighth;True;M05 D08;M05 D08
+may eighth;True;M05 D08;M05 D08
+may seventh;True;M05 D07;M05 D07
+may seventh;True;M05 D07;M05 D07
+may sixth;True;M05 D06;M05 D06
+may sixth;True;M05 D06;M05 D06
+may fifth;True;M05 D05;M05 D05
+may fifth;True;M05 D05;M05 D05
+may fourth;True;M05 D04;M05 D04
+may fourth;True;M05 D04;M05 D04
+may third;True;M05 D03;M05 D03
+may third;True;M05 D03;M05 D03
+may second;True;M05 D02;M05 D02
+may second;True;M05 D02;M05 D02
+may first;True;M05 D01;M05 D01
+may first;True;M05 D01;M05 D01
+march thirty-first;True;M03 D31;M03 D31
+march thirty-first;True;M03 D31;M03 D31
+march thirtieth;True;M03 D30;M03 D30
+march thirtieth;True;M03 D30;M03 D30
+march third;True;M03 D03;M03 D03
+march third;True;M03 D03;M03 D03
+march twenty-ninth;True;M03 D29;M03 D29
+march twenty-nineth;False;M03 D29;
+march twenty-eighth;True;M03 D28;M03 D28
+march twenty-eighth;True;M03 D28;M03 D28
+march twenty-seventh;True;M03 D27;M03 D27
+march twenty-seventh;True;M03 D27;M03 D27
+march twenty-sixth;True;M03 D26;M03 D26
+march twenty-sixth;True;M03 D26;M03 D26
+march twenty-fifth;True;M03 D25;M03 D25
+march twenty-fifth;True;M03 D25;M03 D25
+march twenty-fourth;True;M03 D24;M03 D24
+march twenty-fourth;True;M03 D24;M03 D24
+march twenty-third;True;M03 D23;M03 D23
+march twenty-third;True;M03 D23;M03 D23
+march twenty-second;True;M03 D22;M03 D22
+march twenty-second;True;M03 D22;M03 D22
+march twenty-first;True;M03 D21;M03 D21
+march twenty-first;True;M03 D21;M03 D21
+march twentieth;True;M03 D20;M03 D20
+march twentieth;True;M03 D20;M03 D20
+march second;True;M03 D02;M03 D02
+march second;True;M03 D02;M03 D02
+march nineteenth;True;M03 D19;M03 D19
+march nineteenth;True;M03 D19;M03 D19
+march eighteenth;True;M03 D18;M03 D18
+march eighteenth;True;M03 D18;M03 D18
+march seventeenth;True;M03 D17;M03 D17
+march seventeenth;True;M03 D17;M03 D17
+march sixteenth;True;M03 D16;M03 D16
+march sixteenth;True;M03 D16;M03 D16
+march fifteenth;True;M03 D15;M03 D15
+march fifteenth;True;M03 D15;M03 D15
+march fourteenth;True;M03 D14;M03 D14
+march fourteenth;True;M03 D14;M03 D14
+march thirteenth;True;M03 D13;M03 D13
+march thirteenth;True;M03 D13;M03 D13
+march twelfth;True;M03 D12;M03 D12
+march twelfth;True;M03 D12;M03 D12
+march eleventh;True;M03 D11;M03 D11
+march eleventh;True;M03 D11;M03 D11
+march tenth;True;M03 D10;M03 D10
+march tenth;True;M03 D10;M03 D10
+march first;True;M03 D01;M03 D01
+march first;True;M03 D01;M03 D01
+I don't know it's the twenty-eighth of august I think;True;D28 M08;D28 M08
+I don't know it's the twenty-eighth of august I think;True;D28 M08;D28 M08
+august twenty-third;True;M08 D23;M08 D23
+august twenty-third;True;M08 D23;M08 D23
+the twenty-fifth;True;D25;D25
+the twenty-fifth;True;D25;D25
+the twenty-sixth;True;D26;D26
+the twenty-sixth;True;D26;D26
+july twenty-first;True;M07 D21;M07 D21
+july twenty-first;True;M07 D21;M07 D21
+august twenty-seventh;True;M08 D27;M08 D27
+august twenty-seventh;True;M08 D27;M08 D27
+august twenty-third;True;M08 D23;M08 D23
+august twenty-third;True;M08 D23;M08 D23
+nine months ago;False;- MC09;
+last month;False;- MC01;
+in two weeks;False;+ DC14;
+next month;False;+ MC01;
+one week ago;False;- DC07;
+in five days;False;+ DC05;
+yesterday;False;- DC01;
+tomorrow;False;+ DC01;
+today;False;DC00;
+;False;;
+it's been two days;False;;
+;False;- DC02;
+it's been two days;False;- DC02;
+march ninth;True;M03 D09;M03 D09
+march ninth;True;M03 D09;M03 D09
+march eighth;True;M03 D08;M03 D08
+march eighth;True;M03 D08;M03 D08
+march seventh;True;M03 D07;M03 D07
+march seventh;True;M03 D07;M03 D07
+march sixth;True;M03 D06;M03 D06
+march sixth;True;M03 D06;M03 D06
+march fifth;True;M03 D05;M03 D05
+march fifth;True;M03 D05;M03 D05
+may eleventh;True;M05 D11;M05 D11
+may eleventh;True;M05 D11;M05 D11
+may tenth;True;M05 D10;M05 D10
+may tenth;True;M05 D10;M05 D10
+may ninth;True;M05 D09;M05 D09
+may ninth;True;M05 D09;M05 D09
+march fourth;True;M03 D04;M03 D04
+march fourth;True;M03 D04;M03 D04
+may eighth;True;M05 D08;M05 D08
+may eighth;True;M05 D08;M05 D08
+may seventh;True;M05 D07;M05 D07
+may seventh;True;M05 D07;M05 D07
+may sixth;True;M05 D06;M05 D06
+may sixth;True;M05 D06;M05 D06
+may fifth;True;M05 D05;M05 D05
+may fifth;True;M05 D05;M05 D05
+may fourth;True;M05 D04;M05 D04
+may fourth;True;M05 D04;M05 D04
+may third;True;M05 D03;M05 D03
+may third;True;M05 D03;M05 D03
+may second;True;M05 D02;M05 D02
+may second;True;M05 D02;M05 D02
+may first;True;M05 D01;M05 D01
+may first;True;M05 D01;M05 D01
+march thirty-first;True;M03 D31;M03 D31
+march thirty-first;True;M03 D31;M03 D31
+march thirtieth;True;M03 D30;M03 D30
+march thirtieth;True;M03 D30;M03 D30
+march third;True;M03 D03;M03 D03
+march third;True;M03 D03;M03 D03
+march twenty-ninth;True;M03 D29;M03 D29
+march twenty-nineth;False;M03 D29;
+march twenty-eighth;True;M03 D28;M03 D28
+march twenty-eighth;True;M03 D28;M03 D28
+march twenty-seventh;True;M03 D27;M03 D27
+march twenty-seventh;True;M03 D27;M03 D27
+march twenty-sixth;True;M03 D26;M03 D26
+march twenty-sixth;True;M03 D26;M03 D26
+march twenty-fifth;True;M03 D25;M03 D25
+march twenty-fifth;True;M03 D25;M03 D25
+march twenty-fourth;True;M03 D24;M03 D24
+march twenty-fourth;True;M03 D24;M03 D24
+march twenty-third;True;M03 D23;M03 D23
+march twenty-third;True;M03 D23;M03 D23
+march twenty-second;True;M03 D22;M03 D22
+march twenty-second;True;M03 D22;M03 D22
+march twenty-first;True;M03 D21;M03 D21
+march twenty-first;True;M03 D21;M03 D21
+march twentieth;True;M03 D20;M03 D20
+march twentieth;True;M03 D20;M03 D20
+march second;True;M03 D02;M03 D02
+march second;True;M03 D02;M03 D02
+march nineteenth;True;M03 D19;M03 D19
+march nineteenth;True;M03 D19;M03 D19
+march eighteenth;True;M03 D18;M03 D18
+march eighteenth;True;M03 D18;M03 D18
+march seventeenth;True;M03 D17;M03 D17
+march seventeenth;True;M03 D17;M03 D17
+march sixteenth;True;M03 D16;M03 D16
+march sixteenth;True;M03 D16;M03 D16
+march fifteenth;True;M03 D15;M03 D15
+march fifteenth;True;M03 D15;M03 D15
+march fourteenth;True;M03 D14;M03 D14
+march fourteenth;True;M03 D14;M03 D14
+march thirteenth;True;M03 D13;M03 D13
+march thirteenth;True;M03 D13;M03 D13
+march twelfth;True;M03 D12;M03 D12
+march twelfth;True;M03 D12;M03 D12
+march eleventh;True;M03 D11;M03 D11
+march eleventh;True;M03 D11;M03 D11
+march tenth;True;M03 D10;M03 D10
+march tenth;True;M03 D10;M03 D10
+march first;True;M03 D01;M03 D01
+march first;True;M03 D01;M03 D01
+I don't know it's the twenty-eighth of august I think;True;D28 M08;D28 M08
+I don't know it's the twenty-eighth of august I think;True;D28 M08;D28 M08
+august twenty-third;True;M08 D23;M08 D23
+august twenty-third;True;M08 D23;M08 D23
+the twenty-fifth;True;D25;D25
+the twenty-fifth;True;D25;D25
+the twenty-sixth;True;D26;D26
+the twenty-sixth;True;D26;D26
+july twenty-first;True;M07 D21;M07 D21
+july twenty-first;True;M07 D21;M07 D21
+august twenty-seventh;True;M08 D27;M08 D27
+august twenty-seventh;True;M08 D27;M08 D27
+eight twenty-two wait a second one moment;False;M08 D22;D02
+august twenty-third;True;M08 D23;M08 D23
+august twenty-third;True;M08 D23;M08 D23

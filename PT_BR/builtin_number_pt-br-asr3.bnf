@@ -1,0 +1,146 @@
+#ABNF 1.0 ISO8859-1;
+
+
+root $number = $GARBAGE*
+    [
+        ( $hundredsIntegerpart | ["cento e um" {C1 D01} | "cento e uma" {C1 D01}])
+        [ mil {M} [e {}] [ $hundredsIntegerpart ] ] |
+        mil {M} [e {}] [ $hundredsIntegerpart ] |
+	[$tensIntegerPart $SIL | $unitsOtherIntegerPart $SIL] |
+        zero {D00}
+    ]
+    [(ponto {} | com {} | vírgula {}) $decimalPart]
+    $GARBAGE*;
+
+$SIL = "[SIL]" {};
+
+
+$hundredsIntegerpart =
+    $twoHundredToNineHundredIntegerPart |
+    [ cento {C1} | [e {}] $twoHundredToNineHundredIntegerPart ] [e {}] $tensIntegerPart |
+    cem {C1 D00} ;
+
+$twoHundredToNineHundredIntegerPart = (
+    duzentos         {C2} | duzentas                 {C2} |
+    trezentos       {C3} | trezentas                {C3} |
+    quatrocentos     {C4} | quatrocentas              {C4} |
+    quinhentos       {C5} | quinhentas                {C5} |
+    seiscentos     {C6} | seiscentas               {C6} |
+    setecentos      {C7} | setecentas                {C7} |
+    oitocentos      {C8} | oitocentas                {C8} |
+    novecentos      {C9} | novecentas                {C9}
+) ;
+
+$tensIntegerPart = (
+    dez {D10} |
+    onze {D11} |
+    doze {D12} |
+    treze {D13} |
+    catorze {D14} |
+    quinze {D15} |
+    dezesseis {D16} |
+    dezessete {D17} |
+    dezoito {D18} |
+    dezenove {D19} |
+    vinte {D20} |
+    "vinte e um" {D21} | "vinte e uma" {D21} |
+    "vinte e dois" {D22} | "vinte e duas" {D22} |
+    "vinte e três" {D23} |
+    "vinte e quatro" {D24} |
+    "vinte e cinco" {D25} |
+    "vinte e seis" {D26} |
+    "vinte e sete" {D27} |
+    "vinte e oito" {D28} |
+    "vinte e nove" {D29} )|
+    ( trinta {D30} |
+    quarenta {D40} |
+    cinquenta {D50} |
+    sessenta {D60} |
+    setenta {D70} |
+    oitenta {D80} |
+    noventa {D90} )
+    (() | $unitsOptionAIntegerPart ) | $unitsOptionBIntegerPart;
+
+$unitsOptionAIntegerPart = (
+    e_um {D01} | e_uma {D01} | e_oito {D08} | e {} $unitsOtherIntegerPart
+);
+
+$unitsOptionBIntegerPart = (
+    um {D01} | uma {D01} | oito {D08} | $unitsOtherIntegerPart
+);
+
+$unitsOtherIntegerPart =
+   um        {D01} |
+    dois    {D02} |
+    três    {D03} |
+    quatro  {D04} |
+    cinco   {D05}  |
+    seis    {D06}  |
+    meia    {D06} |
+    sete    {D07} |
+    nove    {D09} ;
+
+
+$decimalPart =
+    $twoHundredToNineHundredDecimalPart |
+    [ cento {X100} | $twoHundredToNineHundredDecimalPart ] [e {}] $tensDecimalPart |
+    cem {X100} ;
+
+$twoHundredToNineHundredDecimalPart = (
+    duzentos        {X200} | duzentas       {X200} |
+    trezentos       {X300} | trezentas      {X300} |
+    quatrocentos    {X400} | quatrocentas   {X400} |
+    quinhentos      {X500} | quinhentas     {X500} |
+    seiscentos      {X600} | seiscentas     {X600} |
+    setecentos      {X700} | setecentas     {X700} |
+    oitocentos      {X800} | oitocentas     {X800} |
+    novecentos      {X900} | novecentas     {X900}
+) ;
+
+$tensDecimalPart = (
+    dez                 {X10} |
+    onze                {X11} |
+    doze                {X12} |
+    treze               {X13} |
+    catorze             {X14} |
+    quinze              {X15} |
+    dezesseis           {X16} |
+    dezessete           {X17} |
+    dezoito             {X18} |
+    dezenove            {X19} |
+    vinte               {X20} |
+    "vinte e um"        {X21} | "vinte e uma"   {X21} |
+    "vinte e dois"      {X22} | "vinte e duas"  {X22} |
+    "vinte e três"      {X23} |
+    "vinte e quatro"    {X24} |
+    "vinte e cinco"     {X25} |
+    "vinte e seis"      {X26} |
+    "vinte e sete"      {X27} |
+    "vinte e oito"      {X28} |
+    "vinte e nove"      {X29} ) |
+    ( trinta            {X30} |
+    quarenta            {X40} |
+    cinquenta           {X50} |
+    sessenta            {X60} |
+    setenta             {X70} |
+    oitenta             {X80} |
+    noventa             {X90} )
+    ( () | $unitsOptionADecimalPart ) | $unitsOptionBDecimalPart;
+
+$unitsOptionADecimalPart = (
+    e_um {X01} | e_uma {X01} | e_oito {X08} | e {} $unitsOtherDecimalPart
+    );
+
+$unitsOptionBDecimalPart =    (
+    um {X01} | uma {X01} | oito {X08} | $unitsOtherDecimalPart
+    );
+
+$unitsOtherDecimalPart =
+    dois    {X02} |
+    três    {X03} |
+    quatro  {X04} |
+    cinco   {X05} |
+    seis    {X06} |
+    meia    {X06} |
+    sete    {X07} |
+    nove    {X09} ;

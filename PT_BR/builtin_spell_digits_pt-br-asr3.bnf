@@ -1,0 +1,53 @@
+#ABNF 1.0 ISO8859-1;
+
+language pt-br;
+
+
+root $spell = $GARBAGE* ($alphabet | $singleDigitNumber | $SIL)* $GARBAGE* ;
+
+
+$SIL =  "[SIL]" {};
+
+
+$alphabet =
+"a"       {A} | "á" {A} | "ah" {A} | "ãh" {A} |
+"b"       {B} |
+"c"       {C} |
+"cedilha" {Ç} |
+"d"       {D} |
+"e"       {E} | "é" {E} |
+"f"       {F} |
+"g"       {G} |
+"h"       {H} |
+"i"       {I} | "í" {I} |
+"j"       {J} |
+"k"       {K} |
+"l"       {L} |
+"ême"     {M} |
+"n"       {N} |
+"o"       {O} | "ó" {O} |
+"p"       {P} |
+"q"       {Q} |
+"r"       {R} |
+"s"       {S} |
+"t"       {T} |
+"u"       {U} |
+"vê"      {V} |
+"w"       {W} |
+"x"       {X} |
+"y"       {Y} |
+"z"       {Z};
+
+
+$singleDigitNumber =
+    um     {U1} |
+    dois   {U2} |
+    três   {U3} |
+    quatro {U4} |
+    cinco  {U5} |
+    seis   {U6} |
+    meia   {U6} |
+    sete   {U7} |
+    oito   {U8} |
+    nove   {U9} |
+    zero   {U0} ;

@@ -1,0 +1,1748 @@
+[
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "seis"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U4",
+            "text": "quatro"
+        },
+        "success": false,
+        "tags": "D04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U8",
+            "text": "oito"
+        },
+        "success": false,
+        "tags": "D08"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U1",
+            "text": "um"
+        },
+        "success": false,
+        "tags": "D01"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U1",
+            "text": "uma"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U7",
+            "text": "sete"
+        },
+        "success": false,
+        "tags": "D07"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U2",
+            "text": "dois"
+        },
+        "success": false,
+        "tags": "D02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove"
+        },
+        "success": false,
+        "tags": "D09"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U0",
+            "text": "zero"
+        },
+        "success": false,
+        "tags": "D00"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U5",
+            "text": "cinco"
+        },
+        "success": false,
+        "tags": "D05"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U3",
+            "text": "três"
+        },
+        "success": false,
+        "tags": "D03"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "U2",
+            "text": "duas"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U6",
+            "text": "meia"
+        },
+        "success": false,
+        "tags": "D06"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "U9",
+            "text": "nove nove"
+        },
+        "success": false,
+        "tags": "D09"
+    }
+]

@@ -1,0 +1,149 @@
+#ABNF 1.0 ISO8859-1;
+
+language pt-br;
+
+
+root $HOURS = $GARBAGE* ($HOURS1 | $HOURS2) $GARBAGE* ;
+
+
+$HOURS1 = [($matiz) ($intro)]  ( $hoursInteger [ $min | $countsMin] [$period] )  [$matiz] ;
+
+$HOURS2 = ([$matiz] [$intro])  ( $countsMin2 $hoursInteger          [$period] )  [$matiz] ;
+
+$intro = ( "a" {} | "as" {} | "ao" {} ) [ "das" {} | "da" {} ];
+
+$hoursInteger =  $numberHours [ "hora" {} | "horas" {} ];
+
+$min = [ "e" {} ] $numberMinutes [ "minuto" {} | "minutos" {} ];
+
+$countsMin =
+    "e quinze" {M15}  |
+    "em ponto" {M00}  |
+    "e meio"   {M30}  |
+    "e meia"   {M30} ;
+
+$countsMin2 =
+    "dez para as"    {M10 L} |
+    "dez pras"       {M10 L} |
+    "cinco pras"     {M05 L} |
+    "cinco para as"  {M05 L} |
+    "vinte pras"     {M20 L} |
+    "vinte para as"  {M20 L} |
+    "quinze pras"    {M15 L} |
+    "quinze para as" {M15 L} ;
+
+$period =
+    "da manhã"     {MR} |
+    "da tarde"     {TR} |
+    "da noite"     {NT} |
+    "da madrugada" {MG} ;
+
+$matiz =
+    aproximadamente {} |
+    "mais ou menos" {} |
+    "lá pras"       {} |
+    "lá praz"       {} |
+    "umas"          {} |
+    "por volta da"  {} |
+    "por volta das" {} |
+    "antes das"     {} |
+    "depois das"    {} ;
+
+
+$numberHours =
+    uma    {H01} |
+    duas   {H02} |
+    três   {H03} |
+    trêis  {H03} |
+    quatro {H04} |
+    cinco  {H05} |
+    seis   {H06} |
+    sete   {H07} |
+    oito   {H08} |
+    nove   {H09} |
+    dez    {H10} |
+    déis   {H10} |
+    onze   {H11} |
+    doze   {H12} |
+    "meio dia" {MD} |
+    treze      {H13} |
+    catorze    {H14} |
+    quatorze   {H14} |
+    quinze     {H15} |
+    dezesseis  {H16} |
+    dezessete  {H17} |
+    dezoito    {H18} |
+    dezenove   {H19} |
+    vinte      {H20} |
+    "vinte um"     {H21} | "vinte uma"  {H21} |
+    "vinte dois"   {H22} | "vinte duas" {H22} |
+    "vinte três"   {H23} |
+    "vinte quatro" {H24} |
+    "meia noite"   {MN} ;
+
+$numberMinutes =
+    um        {M01} | uma   {M01} |
+    dois      {M02} | duas  {M02} |
+    três      {M03} | trêis {M03} |
+    quatro    {M04} |
+    cinco     {M05} |
+    seis      {M06} |
+    sete      {M07} |
+    oito      {M08} |
+    nove      {M09} |
+
+    dez       {M10} | déis {H10} |
+    onze      {M11} |
+    doze      {M12} |
+    treze     {M13} |
+    catorze   {M14} | quatorze {M14} |
+    quinze    {M15} |
+    dezesseis {M16} |
+    dezessete {M17} |
+    dezoito   {M18} |
+    dezenove  {M19} |
+
+    vinte             {M20} |
+    "vinte e um"      {M21} |
+    "vinte e dois"    {M22} |
+    "vinte e três"    {M23} |
+    "vinte e quatro"  {M24} |
+    "vinte e cinco"   {M25} |
+    "vinte e seis"    {M26} |
+    "vinte e sete"    {M27} |
+    "vinte e oito"    {M28} |
+    "vinte e nove"    {M29} |
+
+    trinta            {M30} |
+    "trinta e um"     {M31} |
+    "trinta e dois"   {M32} |
+    "trinte e três"   {M33} |
+    "trinta e quatro" {M34} |
+    "trinta e cinco"  {M35} |
+    "trinta e seis"   {M36} |
+    "trinta e sete"   {M37} |
+    "trinta e oito"   {M38} |
+    "trinta e nove"   {M39} |
+
+    quarenta            {M40} |
+    "quarenta e um"     {M41} |
+    "quarenta e dois"   {M42} |
+    "quarenta e três"   {M43} |
+    "quarenta e quatro" {M44} |
+    "quarenta e cinco"  {M45} |
+    "quarenta e seis"   {M46} |
+    "quarenta e sete"   {M47} |
+    "quarenta e oito"   {M48} |
+    "quarenta e nove"   {M49} |
+
+    cinquenta            {M50} |
+    "cinquenta e um"     {M51} |
+    "cinquenta e dois"   {M52} |
+    "cinquenta e três"   {M53} |
+    "cinquenta e quatro" {M54} |
+    "cinquenta e cinco"  {M55} |
+    "cinquenta e seis"   {M56} |
+    "cinquenta e sete"   {M57} |
+    "cinquenta e oito"   {M58} |
+    "cinquenta e nove"   {M59} ;
+

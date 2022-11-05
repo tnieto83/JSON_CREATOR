@@ -1,0 +1,99 @@
+text;success;reference;tags
+twelve thousand nine hundred seventy nine;True;D1 U2 THOUSAND C9 D7 U9;D1 U2 THOUSAND C9 D7 U9
+four thousand years;False;U4 THOUSAND;
+forty five;True;D4 U5;D4 U5
+twelve barrels;False;D1 U2;
+thirty seven thousand eight hundred and eight;True;D3 U7 THOUSAND C8 U8;D3 U7 THOUSAND C8 U8
+four days;False;U4;
+one million;True;U1 MILLION;U1 MILLION
+eight thousand six hundred and eleven hours;True;U8 THOUSAND C6 D1 U1;U8 THOUSAND C6 D1 U1
+two hundred;True;C2;C2
+five hundred inches;False;C5;
+forty two;True;D4 U2;D4 U2
+four thousand seven hundred forty two hours;True;U4 THOUSAND C7 D4 U2;U4 THOUSAND C7 D4 U2
+seven hundred twelve;True;C7 D1 U2;C7 D1 U2
+one hundred seconds;False;C1;
+nine thousand four hundred and ninety five point one five;True;U9 THOUSAND C4 D9 U5 Z1 Z5;U9 THOUSAND C4 D9 U5 Z1 Z5
+four hundred and eleven miles;True;C4 D1 U1;C4 D1 U1
+one twelve;False;U1 D1 U2;
+twenty five thousand one hundred and fifteen feet;False;D2 U5 THOUSAND C1 D1 U5;
+sixteen;True;D1 U6;D1 U6
+three hundred marks;False;C3;
+eighty one thousand nine hundred eighty five;True;D8 U1 THOUSAND C9 D8 U5;D8 U1 THOUSAND C9 D8 U5
+six thousand four hundred and sixteen lira;False;U6 THOUSAND C4 D1 U6;
+fourteen thousand seven hundred and fifteen point one three;True;D1 U4 THOUSAND C7 D1 U5 Z1 Z3;D1 U4 THOUSAND C7 D1 U5 Z1 Z3
+thirteen thousand eight hundred and eighty eight meters;False;D1 U3 THOUSAND C8 D8 U8;
+fifty five;True;D5 U5;D5 U5
+eighteen thousand thirteen kilometers;False;D1 U8 THOUSAND D1 U3;
+sixty three thousand four hundred twenty nine;True;D6 U3 THOUSAND C4 D2 U9;D6 U3 THOUSAND C4 D2 U9
+one minute;False;U1;
+ninety six;True;D9 U6;D9 U6
+twenty five grams;False;D2 U5;
+one thousand kilograms;False;U1 THOUSAND;
+three ninety five;False;U3 D9 U5;
+thirteen;True;D1 U3;D1 U3
+forty [SIL] gallons;False;D40;
+one million;True;U1 MILLION;U1 MILLION
+six hundred;True;C6;C6
+ninety [SIL] lira;False;D90;
+five thousand three hundred fifty three tons;True;U5 THOUSAND C3 D5 U3;U5 THOUSAND C3 D5 U3
+eleven;True;D1 U1;D1 U1
+ten [SIL] pounds;False;D10;
+four hundred years;False;C4;
+thirteen point one five;True;D1 U3 Z1 Z5;D1 U3 Z1 Z5
+six thousand two hundred and three pounds;False;U6 THOUSAND C2 U3;
+over a hundred thousand;True;C1 THOUSAND;C1 THOUSAND
+seven thousand pints;False;U7 THOUSAND;
+ten [SIL] quarts;False;D10;
+one hundred and eighty seven;True;C1 D8 U7;C1 D8 U7
+two hundred miles;True;C2;C2
+two thousand;True;U2 THOUSAND;U2 THOUSAND
+ten [SIL] ounces;False;D10;
+one thousand days;False;U1 THOUSAND;
+one;True;U1;U1
+four hundred thirteen months;False;C4 D1 U3;
+twenty three thousand;True;D2 U3 THOUSAND;D2 U3 THOUSAND
+eleven marks;False;D1 U1;
+seventy [SIL] months;False;D70;
+one hundred and sixty five;True;C1 D6 U5;C1 D6 U5
+ten [SIL] thousand nine hundred and twenty six inches;False;D10 THOUSAND C9 D2 U6;
+nine thousand three hundred and nineteen;True;U9 THOUSAND C3 D1 U9;U9 THOUSAND C3 D1 U9
+eight hundred and fourteen feet;False;C8 D1 U4;
+one thousand fifty three;True;U1 THOUSAND D5 U3;U1 THOUSAND D5 U3
+five pounds;False;U5;
+three thousand two hundred and twelve;True;U3 THOUSAND C2 D1 U2;U3 THOUSAND C2 D1 U2
+seventy four thousand two hundred and fifteen days;False;D7 U4 THOUSAND C2 D1 U5;
+nineteen yen;False;D1 U9;
+fifteen thousand five hundred eighteen point seventeen;True;D1 U5 THOUSAND C5 D1 U8 Y1 Z7;D1 U5 THOUSAND C5 D1 U8 Y1 Z7
+six hundred eighty six gallons;False;C6 D8 U6;
+forty three;True;D4 U3;D4 U3
+four thousand one hundred twelve years;False;U4 THOUSAND C1 D1 U2;
+seven seconds;False;U7;
+fifty six;True;D5 U6;D5 U6
+eight thousand tons;True;U8 THOUSAND;U8 THOUSAND
+fourteen weeks;False;D1 U4;
+three hundred and fifty seven thousand;True;C3 D5 U7 THOUSAND;C3 D5 U7 THOUSAND
+nine thousand four hundred and fifteen point one oh;False;U9 THOUSAND C4 D1 U5 Z1 Z0;
+fourteen pounds;False;D1 U4;
+sixty [SIL] thousand dollars;False;D60 THOUSAND;
+one hundred gallons;False;C1;
+three thousand nine hundred eleven point one eight;True;U3 THOUSAND C9 D1 U1 Z1 Z8;U3 THOUSAND C9 D1 U1 Z1 Z8
+three thousand seven hundred forty nine miles;True;U3 THOUSAND C7 D4 U9;U3 THOUSAND C7 D4 U9
+five hundred twelve inches;False;C5 D1 U2;
+two decimal one five;True;U2 Z1 Z5;U2 Z1 Z5
+nine hundred tons;True;C9;C9
+seventeen;True;D1 U7;D1 U7
+three hundred and eighteen kilograms;False;C3 D1 U8;
+twelve thousand seven hundred sixteen;True;D1 U2 THOUSAND C7 D1 U6;D1 U2 THOUSAND C7 D1 U6
+eleven thousand thirteen pesos;False;D1 U1 THOUSAND D1 U3;
+ninety three acres;True;D9 U3;D9 U3
+two thousand days;False;U2 THOUSAND;
+one hundred thousand;True;C1 THOUSAND;C1 THOUSAND
+fifty [SIL] acres;False;D50;
+eight fifty eight point one four;False;U8 D5 U8 Z1 Z4;
+one quart;False;U1;
+sixty six;True;D6 U6;D6 U6
+four thousand eight hundred thirteen days;False;U4 THOUSAND C8 D1 U3;
+sixty seven thousand seventeen;True;D6 U7 THOUSAND D1 U7;D6 U7 THOUSAND D1 U7
+six thousand eight hundred sixty four yards;True;U6 THOUSAND C8 D6 U4;U6 THOUSAND C8 D6 U4
+fifty [SIL];False;D50;

@@ -1,0 +1,244 @@
+#ABNF 1.0 ISO8859-1;
+ 
+// ---------------------------------------------------------------------------
+// ASR grammar for dates in American English
+// Martin Tozer - June 2015
+// Based on original version copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+// Gramática Principal
+// If you use public, activate or deactivate public date type as needed
+// ---------------------------------------------------------------------------
+
+public $date_year = [$intro] $date [$year];
+// ---------------------------------------------------------------------------
+// Auxiliary grammars
+
+$intro = (on {} | for {}) ;
+	
+$date =
+	($dayofweek_nomonth | $with_month) ;
+
+$dayofweek_nomonth = 
+	([[$arrow] [$dayofweek]] $SIL* [the] {} $SIL* $dayofmonth_ord) ;
+	
+$with_month = 
+	[[$arrow] [$dayofweek]] $SIL*
+	(
+	//for day-month order:
+	($dayofmonth_ord | $dayofmonth_card) $SIL* [of] {} $month_name | 
+	//for month-day order:
+	$month_name $SIL* ($dayofmonth_ord | $dayofmonth_card)
+	) ;
+
+$arrow = next {F} | this {F} | last {B} ;
+
+$dayofweek =
+	monday {W1}		|
+	tuesday 	{W2}	|
+	wednesday {W3}	|
+	thursday 	{W4}	|
+	friday {W5}	  |
+	saturday	{W6}	|
+	sunday	 {W7}	;
+
+$dayofmonth_ord =
+	[the] {}
+	(first {D01}			|
+	second {D02}		|
+	third {D03}			|
+	fourth {D04}		|
+	fifth {D05}			|
+	sixth {D06}			|
+	seventh {D07}		|
+	eighth {D08}		|
+	ninth {D09}			|
+	tenth	{D10}		|
+	eleventh	{D11}	|
+	twelfth 	{D12}	|
+	thirteenth {D13}	|
+	fourteenth	{D14}	|
+	fifteenth {D15}		|
+	sixteenth {D16}		|
+	seventeenth {D17}	|
+	eighteenth {D18}	|
+	nineteenth {D19}	|
+	twentieth {D20}		|
+	twenty-first {D21}	|
+	twenty-second {D22}	|
+	twenty-third {D23}	|
+	twenty-fourth {D24}	|
+	twenty-fifth {D25}	|
+	twenty-sixth {D26}	|
+	twenty-seventh {D27}|
+	twenty-eighth {D28}	|
+	twenty-ninth {D29}	|
+	thirtieth	 {D30}	|
+	thirty-first {D31}
+	);
+	
+$dayofmonth_card =
+		(
+		"one" {D01} |
+		"two" {D02} |
+		"three" {D03} |
+		"four" {D04} |
+		"five" {D05} |
+		"six" {D06} |
+		"seven" {D07} |
+		"eight" {D08} |
+		"nine" {D09}
+		"ten" {D10} |
+		"eleven" {D11} |
+		"twelve" {D12} |
+		"thirteen" {D13} |
+		"fourteen" {D14} |
+		"fifteen" {D15} |
+		"sixteen" {D16} |
+		"seventeen" {D17} |
+		"eighteen" {D18} |
+		"nineteen" {D19} |
+		"twenty" {D20} |
+		"twenty-one" {D21} |
+		"twenty-two" {D22} |
+		"twenty-three" {D23} |
+		"twenty-four" {D24} |
+		"twenty-five" {D25} |
+		"twenty-six" {D26} |
+		"twenty-seven" {D27} |
+		"twenty-eight" {D28} |
+		"twenty-nine" {D29} |
+		"thirty" {D30} |
+		"thirty-one" {D31}
+		);			
+
+$SIL = "[SIL]" {};
+
+$month_name =
+ 	january {M01}		|
+	february	 {M02}	|
+	march {M03}			|
+	april {M04}			|
+	may	{M05}			|
+	june {M06}			|
+	july {M07}			|
+	august	{M08}		|
+	september {M09}	|
+	october	 {M10}		|
+	november	{M11}	|
+	december	{M12};
+
+$year =
+	($SIL* ("two thousand" {m02} [and {}] | "twenty" {m02} | "nineteen" {c19}) ($year_00_09 | $year_10_99));
+
+$year_00_09 =
+ 	(
+	hundred {u00}				|
+	$SIL* [oh {}] $SIL*
+	(
+	one {u01}					|
+	two {u02} 					|
+	three {u03} 				|
+	four {u04} 					|
+	five {u05} 					|
+	six {u06} 					|
+	seven {u07} 				|
+	eight {u08} 				|
+	nine {u09}
+	)
+	);
+
+$year_10_99 =
+	($SIL*
+	(ten	{u10}			|
+	eleven	{u11}			|
+	twelve	{u12}			|
+	thirteen {u13}			|
+	fourteen	 {u14}		|
+	fifteen {u15}		|
+	sixteen	{u16}	|
+	seventeen {u17}	|
+	eighteen{u18}	|
+	nineteen {u19}	|
+	twenty {u20}	|
+	twenty-one {u21} 	|
+	twenty-two {u22}		|
+	twenty-three {u23}	|
+	twenty-four {u24}	|
+	twenty-five {u25}	|
+	twenty-six  {u26}	|
+	twenty-seven {u27}	|
+	twenty-eight {u28}	|
+	twenty-nine {u29}	|
+	thirty {u30}|
+	thirty-one {u31} |
+	thirty-two {u32}|
+	thirty-three {u33}|
+	thirty-four {u34}|
+	thirty-five {u35}|
+	thirty-six  {u36}|
+	thirty-seven {u37}|
+	thirty-eight {u38}|
+	thirty-nine {u39}|
+	forty {u40}|
+	forty-one {u41} |
+	forty-two {u42}|
+	forty-three {u43}|
+	forty-four {u44}|
+	forty-five {u45}|
+	forty-six  {u46}|
+	forty-seven {u47}|
+	forty-eight {u48}|
+	forty-nine {u49}|
+	fifty {u50}|
+	fifty-one {u51} |
+	fifty-two {u52}|
+	fifty-three {u53}|
+	fifty-four {u54}|
+	fifty-five {u55}|
+	fifty-six  {u56}|
+	fifty-seven {u57}|
+	fifty-eight {u58}|
+	fifty-nine {u59}|
+	sixty {u60}|
+	sixty-one {u61} |
+	sixty-two {u62}|
+	sixty-three {u63}|
+	sixty-four {u64}|
+	sixty-five {u65}|
+	sixty-six  {u66}|
+	sixty-seven {u67}|
+	sixty-eight {u68}|
+	sixty-nine {u69}|
+	seventy {u70}|
+	seventy-one {u71} |
+	seventy-two {u72}|
+	seventy-three {u73}|
+	seventy-four {u74}|
+	seventy-five {u75}|
+	seventy-six  {u76}|
+	seventy-seven {u77}|
+	seventy-eight {u78}|
+	seventy-nine {u79}|
+	eighty {u80}|
+	eighty-one {u81} |
+	eighty-two {u82}|
+	eighty-three {u83}|
+	eighty-four {u84}|
+	eighty-five {u85}|
+	eighty-six  {u86}|
+	eighty-seven {u87}|
+	eighty-eight {u88}|
+	eighty-nine {u89}|
+	ninety {u90}|
+	ninety-one {u91} |
+	ninety-two {u92}|
+	ninety-three {u93}|
+	ninety-four {u94}|
+	ninety-five {u95}|
+	ninety-six  {u96}|
+	ninety-seven {u97}|
+	ninety-eight {u98}|
+	ninety-nine {u99})
+	);
+
+// ---------------------------------------------------------------------------

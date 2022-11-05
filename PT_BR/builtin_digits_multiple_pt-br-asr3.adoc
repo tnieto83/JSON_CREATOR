@@ -1,0 +1,15 @@
+
+
+= BNF grammar for digits multiples: builtin_digits_multiple_pt-br
+ Ananda Chaves Fonseca
+ 2021-01-29
+ ----------------------------------------------------
+ Aim: to recognize multiple units said one by one.   
+ Range: 0-9999
+ Digit agrupations: units
+	 
+    BNF Structure:
+
+	-   $chain =  combination of the units with silences
+	-   $unit = all units
+

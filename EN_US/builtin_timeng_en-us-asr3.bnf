@@ -1,0 +1,182 @@
+#ABNF 1.0 ISO8859-1;
+
+// ---------------------------------------------------------------------------
+// Time built-in grammar en-us
+// Martin Tozer - July 2015
+// Based on original copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+root $TIME=	[[$intro] ($trad | $twentyfour | $special)];
+
+// ---------------------------------------------------------------------------
+// Auxiliary grammars
+// ---------------------------------------------------------------------------
+
+$intro = [at{} [about | around | approximately ]{}];
+
+$trad = (( ($trad_hour ["o'clock"] {} [$am_pm | $day_period]) | ($trad_min [minutes] {}  (past {+} | to {-}) $trad_hour) | ($quarters $trad_hour)) [$day_period]);
+
+$twentyfour = ($twentyfour_hour (hundred {} [hours {}] | "o'clock" {} | $twentyfour_min) [$am_pm | $day_period]);
+
+$special = (noon {s1200h}| midday {s1200h}| midnight {s0000h});
+
+// "_a m" is recognised very poorly - as is "in the evening"
+// MRN = AM, AFT = PM, EVE = PM and NIT = PM except!!! when the hour is H12. In this case, MRN is ambiguous, EVE is impossible and NIT = AM.
+
+$am_pm = ("_a em" {RM} | "pea em" {RT});
+
+$day_period = ("in the morning" {RM} | "in the afternoon" {RT} | "in the evening" {RT} | "at night" {RM});
+
+$quarters = ([a]{}("quarter to" {M-Q} | "quarter past" {M+Q} | "half past" {MM}));
+
+$twentyfour_min =
+	(
+	"oh one" {M01} 		|
+	"oh two" {M02} 		|
+	"oh three" {M03} 	|
+	"oh four" {M04} 	|
+	"oh five" {M05} 	|
+	"oh six" {M06} 		|
+	"oh seven" {M07} 	|
+	"oh eight" {M08} 	|
+	"oh nine" {M09}		|
+	"zero one" {M01} 	|
+	"zero two" {M02} 	|
+	"zero three" {M03} 	|
+	"zero four" {M04} 	|
+	"zero five" {M05} 	|
+	"zero six" {M06} 	|
+	"zero seven" {M07} 	|
+	"zero eight" {M08} 	|
+	"zero nine" {M09}	|
+	ten {M10} 			|
+	eleven {M11} 		|
+	twelve {M12}		|
+	thirteen {M13}		|
+	fourteen {M14}		|
+	fifteen {M15}		|
+	sixteen	{M16}		|
+	seventeen {M17}		|
+	eighteen{M18}		|
+	nineteen {M19}		|
+	twenty {M20}		|
+	twenty-one {M21} 	|
+	twenty-two {M22}	|
+	twenty-three {M23}	|
+	twenty-four {M24}	|
+	twenty-five {M25}	|
+	twenty-six  {M26}	|
+	twenty-seven {M27}	|
+	twenty-eight {M28}	|
+	twenty-nine {M29}	|
+	thirty {M30}		|
+	thirty-one {M31} 	|
+	thirty-two {M32}	|
+	thirty-three {M33}	|
+	thirty-four {M34}	|
+	thirty-five {M35}	|
+	thirty-six  {M36}	|
+	thirty-seven {M37}	|
+	thirty-eight {M38}	|
+	thirty-nine {M39}	|
+	forty {M40}			|
+	forty-one {M41} 	|
+	forty-two {M42}		|
+	forty-three {M43}	|
+	forty-four {M44}	|
+	forty-five {M45}	|
+	forty-six  {M46}	|
+	forty-seven {M47}	|
+	forty-eight {M48}	|
+	forty-nine {M49}	|
+	fifty {M50}			|
+	fifty-one {M51} 	|
+	fifty-two {M52}		|
+	fifty-three {M53}	|
+	fifty-four {M54}	|
+	fifty-five {M55}	|
+	fifty-six  {M56}	|
+	fifty-seven {M57}	|
+	fifty-eight {M58}	|
+	fifty-nine {M59}
+	);
+	
+$trad_hour = 
+	(
+	one {H01} |
+	two {H02} |
+	three {H03} |
+	four {H04} |
+	five {H05} |
+	six {H06} |
+	seven {H07} |
+	eight {H08} |
+	nine {H09}	|
+	ten {H10} |
+	eleven {H11} |
+	twelve {H12}
+	);
+	
+$twentyfour_hour =
+	(
+	[zero]{} zero {H24}			|
+	[oh|zero]{} one {H01} 		|
+	[oh|zero]{} two {H02} 		|
+	[oh|zero]{} three {H03} 	|
+	[oh|zero]{} four {H04} 		|
+	[oh|zero]{} five {H05} 		|
+	[oh|zero]{} six {H06} 		|
+	[oh|zero]{} seven {H07} 	|
+	[oh|zero]{} eight {H08} 	|
+	[oh|zero]{} nine {H09}		|
+	ten {H10} 			|
+	eleven {H11} 		|
+	twelve {H12}		|
+	thirteen {H13}		|
+	fourteen {H14}		|
+	fifteen {H15}		|
+	sixteen	{H16}		|
+	seventeen {H17}		|
+	eighteen{H18}		|
+	nineteen {H19}		|
+	twenty {H20}		|
+	twenty-one {H21} 	|
+	twenty-two {H22}	|
+	twenty-three {H23}	|
+	twenty-four {H24}	
+	);
+	
+$trad_min =
+	(
+	one {M01}			|
+	two {M02} 			|
+	three {M03} 		|
+	four {M04} 			|
+	five {M05} 			|
+	six {M06} 			|
+	seven {M07} 		|
+	eight {M08} 		|
+	nine {M09}			|
+	ten	{M10}			|
+	eleven {M11}		|
+	twelve {M12}		|
+	thirteen {M13}		|
+	fourteen {M14}	|
+	fifteen {M15}		|
+	sixteen	{M16}		|
+	seventeen {M17}		|
+	eighteen{M18}		|
+	nineteen {M19}		|
+	twenty {M20}		|
+	twenty-one {M21} 	|
+	twenty-two {M22}	|
+	twenty-three {M23}	|
+	twenty-four {M24}	|
+	twenty-five {M25}	|
+	twenty-six  {M26}	|
+	twenty-seven {M27}	|
+	twenty-eight {M28}	|
+	twenty-nine {M29}	|
+	thirty {M30}
+	);
+
+// ---------------------------------------------------------------------------

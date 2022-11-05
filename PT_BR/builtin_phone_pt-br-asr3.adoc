@@ -1,0 +1,21 @@
+
+= BNF grammar for phone numbers: builtin_bnfs_builtin_phone_pt-br-asr3
+Ananda Chaves Fonseca
+2021-01-31
+
+
+Aim: to recognize phone numbers (until 15 digits).
+Range: 0-9999
+Digit agrupations: units, tens, hundreds and thousands. 
+
+  BNF Structure:
+  
+  $phone is a rule that that combine the combination of long distance calling codes + area codes + nine (mandatory digit for cell phones) + a combination of 8 digits.
+  
+           - $code2 code long distance calling codes (3 digits).
+          - $code1 area codes
+          --$eightNumbers = contains all the combinations for groups of one, two, three and four digits ($unit, $ten, $hundred, $thousand). 
+          - $mandatoryCellPhone = combinations beginning with 9. 
+        - $ten, $hundred, $thousand = all tens, hundreds and thousands with their entire outputs (with zeros) and partial outputs for the combination with other units. Output shows a specific number for a position that is defined  
+
+

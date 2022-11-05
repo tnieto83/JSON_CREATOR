@@ -1,0 +1,66 @@
+#ABNF 1.0 ISO8859-1;
+
+
+language en-us;
+
+
+root $spell = $GARBAGE* ( ($classicSpelling | $SIL)* | ($natoSpelling | $SIL)* ) $GARBAGE* ;
+
+
+$classicSpelling =
+    lettera {A} |
+    letterb {B} |
+    letterc {C} |
+    letterd {D} |
+    lettere {E} |
+    letterf {F} |
+    letterg {G} |
+    letterh {H} |
+    letteri {I} |
+    letterj {J} |
+    letterk {K} |
+    letterl {L} |
+    letterm {M} |
+    lettern {N} |
+    lettero {O} |
+    letterp {P} |
+    letterq {Q} |
+    letterr {R} |
+    letters {S} |
+    lettert {T} |
+    letteru {U} |
+    letterv {V} |
+    letterw {W} |
+    letterx {X} |
+    lettery {Y} |
+    letterz {Z} ;
+
+$natoSpelling =
+    alpha       {A} |
+    bravo       {B} |
+    charlie     {C} |
+    delta       {D} |
+    echo        {E} |
+    foxtrot     {F} |
+    golf        {G} |
+    hotel       {H} |
+    india       {I} |
+    juliett     {J} |
+    kilo        {K} |
+    lima        {L} |
+    mike        {M} |
+    november    {N} |
+    oscar       {O} |
+    papa        {P} |
+    quebec      {Q} |
+    romeo       {R} |
+    sierra      {S} |
+    tango       {T} |
+    uniform     {U} |
+    victor      {V} |
+    whiskey     {W} |
+    x-ray       {X} |
+    yankee      {Y} |
+    zulu        {Z} ;
+
+$SIL =  "[SIL]" {};

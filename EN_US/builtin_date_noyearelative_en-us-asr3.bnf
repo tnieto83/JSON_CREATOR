@@ -1,0 +1,150 @@
+#ABNF 1.0 ISO8859-1;
+ 
+// ---------------------------------------------------------------------------
+// ASR grammar for dates in American English
+// Martin Tozer - June 2015
+// Based on original version copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+// Gramática Principal
+// If you use public, activate or deactivate public date type as needed
+// ---------------------------------------------------------------------------
+
+public $date_year = $GARBAGE*	[$intro] ($relative | $date) $GARBAGE* ;
+// ---------------------------------------------------------------------------
+// Auxiliary grammars
+
+$intro = (on {} | for {}) ;
+	
+$date =
+	($dayofweek_nomonth | $with_month) ;
+
+$dayofweek_nomonth = 
+	([[$arrow] [$dayofweek]] $SIL* [the] {} $SIL* $dayofmonth_ord) ;
+	
+$with_month = 
+	[[$arrow] [$dayofweek]] $SIL*
+	(
+	//for day-month order:
+	($dayofmonth_ord | $dayofmonth_card) $SIL* [of] {} $month_name | 
+	//for month-day order:
+	$month_name $SIL* ($dayofmonth_ord | $dayofmonth_card)
+	) ;
+
+$arrow = next {F} | this {F} | last {B} ;
+
+$relative = today {A00} | tomorrow {A01} | ([next | this]{} $dayofweek_increase) |  ([last]{} $dayofweek_decrease);
+
+$dayofweek_increase =
+	monday {B01}		|
+	tuesday 	{B02}	|
+	wednesday {B03}	|
+	thursday 	{B04}	|
+	friday {B05}	  |
+	saturday	{B06}	|
+	sunday	 {B07}	;
+	
+$dayofweek_decrease =
+	monday {E01}		|
+	tuesday 	{E02}	|
+	wednesday {E03}	|
+	thursday 	{E04}	|
+	friday {E05}	  |
+	saturday	{E06}	|
+	sunday	 {E07}	;
+
+$dayofweek =
+	monday {W1}		|
+	tuesday 	{W2}	|
+	wednesday {W3}	|
+	thursday 	{W4}	|
+	friday {W5}	  |
+	saturday	{W6}	|
+	sunday	 {W7}	;
+
+$dayofmonth_ord =
+	[the] {}
+	(first {D01}			|
+	second {D02}		|
+	third {D03}			|
+	fourth {D04}		|
+	fifth {D05}			|
+	sixth {D06}			|
+	seventh {D07}		|
+	eighth {D08}		|
+	ninth {D09}			|
+	tenth	{D10}		|
+	eleventh	{D11}	|
+	twelfth 	{D12}	|
+	thirteenth {D13}	|
+	fourteenth	{D14}	|
+	fifteenth {D15}		|
+	sixteenth {D16}		|
+	seventeenth {D17}	|
+	eighteenth {D18}	|
+	nineteenth {D19}	|
+	twentieth {D20}		|
+	twenty-first {D21}	|
+	twenty-second {D22}	|
+	twenty-third {D23}	|
+	twenty-fourth {D24}	|
+	twenty-fifth {D25}	|
+	twenty-sixth {D26}	|
+	twenty-seventh {D27}|
+	twenty-eighth {D28}	|
+	twenty-ninth {D29}	|
+	thirtieth	 {D30}	|
+	thirty-first {D31}
+	);
+	
+$dayofmonth_card =
+		(
+		"one" {D01} |
+		"two" {D02} |
+		"three" {D03} |
+		"four" {D04} |
+		"five" {D05} |
+		"six" {D06} |
+		"seven" {D07} |
+		"eight" {D08} |
+		"nine" {D09}
+		"ten" {D10} |
+		"eleven" {D11} |
+		"twelve" {D12} |
+		"thirteen" {D13} |
+		"fourteen" {D14} |
+		"fifteen" {D15} |
+		"sixteen" {D16} |
+		"seventeen" {D17} |
+		"eighteen" {D18} |
+		"nineteen" {D19} |
+		"twenty" {D20} |
+		"twenty-one" {D21} |
+		"twenty-two" {D22} |
+		"twenty-three" {D23} |
+		"twenty-four" {D24} |
+		"twenty-five" {D25} |
+		"twenty-six" {D26} |
+		"twenty-seven" {D27} |
+		"twenty-eight" {D28} |
+		"twenty-nine" {D29} |
+		"thirty" {D30} |
+		"thirty-one" {D31}
+		);			
+
+$SIL = "[SIL]" {};
+
+$month_name =
+ 	january {M01}		|
+	february	 {M02}	|
+	march {M03}			|
+	april {M04}			|
+	may	{M05}			|
+	june {M06}			|
+	july {M07}			|
+	august	{M08}		|
+	september {M09}	|
+	october	 {M10}		|
+	november	{M11}	|
+	december	{M12};
+
+// ---------------------------------------------------------------------------

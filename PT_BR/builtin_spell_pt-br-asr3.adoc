@@ -1,0 +1,14 @@
+
+= BNF grammar for speel: builtin_bnfs_builtin_spell_pt-br-asr3
+
+Ananda Chaves Fonseca 2021-02-03
+
+
+
+
+
+Aim: to recognize alphabet pt-br letter sequence
+
+    BNF Structure
+
+- $alphabet = all letters of the alphabet and their respective pronunciations. 

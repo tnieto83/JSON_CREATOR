@@ -1,0 +1,215 @@
+#ABNF 1.0 ISO8859-1;
+
+// ---------------------------------------------------------------------------
+// ASR grammar for US currency expressions.
+// Martin Tozer - July 2015
+// Based on original - copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+
+// matches amounts up to $999999.99
+// postprocessing script will have to be modified
+
+root $money = $garbage {} * [$amount] $garbage {} * ;
+
+	$amount =	($dollars $SIL* [and {} $SIL*] ($exp_cents | $imp_cents) | $dollars | $exp_cents);
+
+// Auxiliary grammars
+
+$SIL = "[SIL]"  {};
+	
+// Cents rules:
+
+$imp_cents = ($x_ties_exp | $x_teens | $x_units);
+
+$exp_cents = (($x_ties_exp | $x_teens | $x_units) $SIL* (cent {cUSD} | cents {cUSD})|" a cent" {X01});
+
+$x_ties_exp = (twenty {X20} | thirty {X30}| forty {X40}| fifty {X50}| sixty {X60}| seventy {X70}| eighty {X80}| ninety {X90}) [$x_units];
+
+$x_teens = (ten {X10} | eleven {X11} | twelve {X12} | thirteen {X13} | fourteen {X14}|fifteen {X15} |sixteen {X16} | seventeen {X17} |
+	eighteen{X18} | nineteen {X19});
+
+$x_units = 
+	(one {X01} | two {X02} | three {X03} | four {X04} | five {X05} | six {X06} | seven {X07} | eight {X08} | nine {X09});
+
+// Dollars rules:	
+	
+$dollars = (($hun_thou_exp | $ties_thou_exp | $teens_thou_exp | $thou_exp |$ten_hun_exp | $hun_exp | $ties_exp | $teens | $units) $SIL* (dollar {cUSD} | dollars {cUSD}) | (a {D01} dollar {cUSD}));
+
+$hun_thou_exp = $hun_exp thousand {M} [$SIL* ($hun_exp | [and]{} $SIL* ($ties_exp | $teens | $units))];
+
+$ties_thou_exp = $ties_exp thousand {M} [$SIL* ($hun_exp | [and]{} $SIL* ($ties_exp | $teens | $units))];
+
+$teens_thou_exp = $teens thousand {M} [$SIL* ($hun_exp | [and]{} $SIL* ($ties_exp | $teens | $units))];
+
+$thou_exp = (($units thousand {M} | (a {D01} thousand {M}))) [$SIL* ($hun_exp | [and]{} $SIL* ($ties_exp | $teens | $units))];
+
+$hun_exp = ("a hundred" {C1} | $units_hundred) [$SIL* [and]{} $SIL* ($ties_exp | $teens | $units)];
+
+$ties_exp = (twenty {D20} | thirty {D30}| forty {D40}| fifty {D50}| sixty {D60}| seventy {D70}| eighty {D80}| ninety {D90}) [$units];
+
+$teens = (ten {D10} | eleven {D11} | twelve {D12} | thirteen {D13} | fourteen {D14}|fifteen {D15} |sixteen {D16} | seventeen {D17} |
+	eighteen{D18} | nineteen {D19});
+
+$units = 
+	(one {D01} | two {D02} | three {D03} | four {D04} | five {D05} | six {D06} | seven {D07} | eight {D08} | nine {D09});
+	
+$units_hundred = 
+	("one hundred" {C1} | "two hundred" {C2} | "three hundred" {C3} | "four hundred" {C4} | "five hundred" {C5} | "six hundred" {C6} | "seven hundred" {C7} | "eight hundred" {C8} | "nine hundred" {C9});
+	
+// Matches both American and British four-digit hundreds formats such as 1000: "ten hundred" (Americans do not use four-digit hundreds with zero
+// hundreds) as well as 1234: "twelve hundred thirty four" (British speakers do not use non-multiples of 100) and four-digit hundreds above 2000
+// (British four-digit hundreds only go up to 2000):
+
+$ten_hun_exp  = 
+	(
+	"ten hundred" {C10} |
+	"eleven hundred" {C11} |
+	"twelve hundred" {C12} |
+	"thirteen hundred" {C13} |
+	"fourteen hundred" {C14} |
+	"fifteen hundred" {C15} |
+	"sixteen hundred" {C16} |
+	"seventeen hundred" {C17} |
+	"eighteen hundred" {C18} |
+	"nineteen hundred" {C19} |
+	"twenty hundred" {C20} |
+	"twenty-one hundred" {C21} |
+	"twenty-two hundred" {C22} |
+	"twenty-three hundred" {C23} |
+	"twenty-four hundred" {C24} |
+	"twenty-five hundred" {C25} |
+	"twenty-six hundred" {C26} |
+	"twenty-seven hundred" {C27} |
+	"twenty-eight hundred" {C28} |
+	"twenty-nine hundred" {C29} |
+	"thirty-one hundred" {C31} |
+	"thirty-two hundred" {C32} |
+	"thirty-three hundred" {C33} |
+	"thirty-four hundred" {C34} |
+	"thirty-five hundred" {C35} |
+	"thirty-six hundred" {C36} |
+	"thirty-seven hundred" {C37} |
+	"thirty-eight hundred" {C38} |
+	"thirty-nine hundred" {C39} |
+	"forty-one hundred" {C41} |
+	"forty-two hundred" {C42} |
+	"forty-three hundred" {C43} |
+	"forty-four hundred" {C44} |
+	"forty-five hundred" {C45} |
+	"forty-six hundred" {C46} |
+	"forty-seven hundred" {C47} |
+	"forty-eight hundred" {C48} |
+	"forty-nine hundred" {C49} |
+	"fifty-one hundred" {C51} |
+	"fifty-two hundred" {C52} |
+	"fifty-three hundred" {C53} |
+	"fifty-four hundred" {C54} |
+	"fifty-five hundred" {C55} |
+	"fifty-six hundred" {C56} |
+	"fifty-seven hundred" {C57} |
+	"fifty-eight hundred" {C58} |
+	"fifty-nine hundred" {C59} |
+	"sixty-one hundred" {C61} |
+	"sixty-two hundred" {C62} |
+	"sixty-three hundred" {C63} |
+	"sixty-four hundred" {C64} |
+	"sixty-five hundred" {C65} |
+	"sixty-six hundred" {C66} |
+	"sixty-seven hundred" {C67} |
+	"sixty-eight hundred" {C68} |
+	"sixty-nine hundred" {C69} |
+	"seventy-one hundred" {C71} |
+	"seventy-two hundred" {C72} |
+	"seventy-three hundred" {C73} |
+	"seventy-four hundred" {C74} |
+	"seventy-five hundred" {C75} |
+	"seventy-six hundred" {C76} |
+	"seventy-seven hundred" {C77} |
+	"seventy-eight hundred" {C78} |
+	"seventy-nine hundred" {C79} |
+	"eighty-one hundred" {C81} |
+	"eighty-two hundred" {C82} |
+	"eighty-three hundred" {C83} |
+	"eighty-four hundred" {C84} |
+	"eighty-five hundred" {C85} |
+	"eighty-six hundred" {C86} |
+	"eighty-seven hundred" {C87} |
+	"eighty-eight hundred" {C88} |
+	"eighty-nine hundred" {C89} |
+	"ninety-one hundred" {C91} |
+	"ninety-two hundred" {C92} |
+	"ninety-three hundred" {C913} |
+	"ninety-four hundred" {C94} |
+	"ninety-five hundred" {C95} |
+	"ninety-six hundred" {C96} |
+	"ninety-seven hundred" {C97} |
+	"ninety-eight hundred" {C98} |
+	"ninety-nine hundred" {C99}
+	)[[and]{} $SIL* ($ties_exp | $teens | $units)];
+
+$garbage = 
+$GARBAGE |
+alpha |
+bravo |
+charlie |
+delta |
+echo |
+foxtrot |
+golf |
+hotel |
+india |
+juliett |
+kilo |
+lima |
+mike |
+november |
+oscar |
+papa |
+quebec |
+romeo |
+sierra |
+tango |
+uniform |
+victor |
+whiskey |
+x-ray |
+yankee |
+zulu |
+january |
+february |
+marc |
+april |
+may |
+june |
+july |
+august |
+september |
+october |
+november |
+december |
+hours |
+minutes |
+seconds |
+quarter |
+half |
+afternoon |
+evening |
+night |
+motning |
+street |
+avenue |
+park |
+square |
+highway |
+lane |
+way |
+town |
+city |
+sunday | 
+monday |
+tuesday |
+wednesday |
+thursday |
+friday |
+saturday
+;

@@ -1,0 +1,19 @@
+#ABNF 1.0 ISO8859-1;
+
+
+public $chain = $GARBAGE* $digit $GARBAGE*;
+
+$digit = (
+    one {D01} 	|
+    two {D02} 	|
+    three {D03} |
+    four {D04} 	|
+    five {D05} 	|
+    six {D06} 	|
+    seven {D07} |
+    eight {D08} |
+    nine {D09} 	|
+    zero {D00} 	|
+    oh {D00}
+);
+

@@ -1,0 +1,19 @@
+Ananda Chaves Fonseca
+ 2021-03
+
+ -------------------------------------------------
+
+    Aim: to recognize sequences of numbers and letters.
+    Range: 0-9999
+Digit agrupations: units, tens, hundreds and thousands. 
+
+    BNF Structure:
+    
+    $code is a rule that contains the rule $number and $alphabet to recognize infinite sequences of numbers and letters
+  
+        - $thousand contains whole thousands (outputs with 0) and thousands for combination with other units. The output shows a specific number for a position that is defined.
+          - $hundred the same as thousands but with hundreds.
+          - $ten the same as thousands but with tens.
+          - $unit numbers 1 - 9 also with output to mark the position.
+      - $andUnit and $andTen  contains numbers that are preceded by other digits to complete a number. The output shows a specific number for a position that is defined.
+      - $alphabet contains all the letters of the alphabet.

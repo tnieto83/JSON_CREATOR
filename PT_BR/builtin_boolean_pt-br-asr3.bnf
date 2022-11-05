@@ -1,0 +1,21 @@
+#ABNF 1.0 ISO8859-1;
+
+root $sino =
+	[pois {} | "por favor" {}]
+	($si | $no)
+	["por favor" {} | obrigada {}];
+
+$si =
+	( sim {true} )
+	( sim {} )*
+	| oquei	{true}
+	| certo	{true}
+	| "de acordo"	{true}
+	| correto	{true}
+	| exacto	{true}
+	| afirmativo	{true};
+
+$no =
+	(não {false})
+	(não {})*
+	| negativo	{false};

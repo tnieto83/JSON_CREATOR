@@ -1,0 +1,153 @@
+#ABNF 1.0 ISO8859-1;
+
+language pt-br;
+
+
+root $creditcardcomplete = $GARBAGE $fourNumbers [$SIL] $fourNumbers [$SIL] $fourNumbers [$SIL] $fourNumbers $GARBAGE;
+
+
+$fourNumbers = $unitStart | $tenStart | $hundredStart | $thousand;
+$unitStart = $unit ( ($unit ($unit $unit | $ten)) | ($ten $unit) | $hundred );
+$tenStart  = $ten ($unit $unit | $ten);
+$hundredStart =  $hundred $unit;
+
+$SIL = "[SIL]" {};
+$and = e {};
+
+
+$thousand = ($thousandAlone | $thousandAssembled);
+$hundred = ($hundredAlone | $hundredAssembled);
+$ten = ($tenAlone | $tenAssembled);
+
+
+$thousandAssembled = (
+    $thousandPosition (
+        $and $hundredAlone |
+        $and $hundredAssembled |
+        $and $tenAssembled |
+        $andUnit
+    )
+);
+
+$thousandAlone = (
+    mil {K1000} $SIL | 
+    "dois mil" {K2000} $SIL | 
+    "três mil" {K3000} $SIL | 
+    "quatro mil" {K4000} $SIL | 
+    "cinco mil" {K5000} $SIL | 
+    "seis mil" {K6000} $SIL | 
+    "sete mil" {K7000} $SIL | 
+    "oito mil" {K8000} $SIL | 
+    "nove mil" {K9000} $SIL 
+); 
+
+$thousandPosition = (
+        mil {K1} | 
+        "dois mil" {K2} |
+        "três mil" {K3} |
+        "quatro mil" {K4} |
+        "cinco mil" {K5} |
+        "seis mil" {K6} |
+        "sete mil" {K7} |
+        "oito mil" {K8} |
+        "nove mil" {K9}
+);
+
+
+$hundredAssembled = (
+    $hundredPosition (
+        $and $tenAlone |
+        $and $tenAssembled |
+        $andUnit
+    )
+);
+
+$hundredAlone = (
+    cem {C100} |
+    duzentos {C200} $SIL |
+    trezentos {C300} $SIL |
+    quatrocentos {C400} $SIL |
+    quinhentos {C500} $SIL |
+    seiscentos {C600} $SIL |
+    setecentos {C700} $SIL |
+    oitocentos {C800} $SIL |
+    novecentos {C900} $SIL
+);
+
+$hundredPosition = (
+    cento {C1} |
+    duzentos {C2} | 
+    trezentos {C3} | 
+    quatrocentos {C4} |
+    quinhentos {C5} |
+    seiscentos {C6} |
+    setecentos {C7} |
+    oitocentos {C8} |
+    novecentos {C9}
+);
+
+
+$tenAssembled = (
+    $tenPosition $andUnit
+);
+
+$tenAlone = (
+    dez {D10} |
+    onze {D1 U1} |
+    doze {D1 U2} |
+    treze {D1 U3} |
+    catorze {D1 U4} |
+    quinze {D1 U5} |
+    dezesseis {D1 U6} |
+    dezesete {D1 U7} |
+    dezoito {D1 U8} |
+    dezenove {D1 U9} |
+    vinte {D20} $SIL |
+    trinta {D30} $SIL |
+    quarenta {D40} $SIL |
+    cinquenta {D50} $SIL |
+    sessenta {D60} $SIL |
+    setenta {D70} $SIL |
+    oitenta {D80} $SIL |
+    noventa {D90} $SIL
+);
+
+$tenPosition = (
+    vinte {D2} |
+    trinta {D3} |
+    quarenta {D4} |
+    cinquenta {D5} |
+    sessenta {D6} |
+    setenta {D7} |
+    oitenta {D8} |
+    noventa {D9}
+);
+
+
+$andUnit =
+    "e um" {U1}     |
+    "e uma" {U1}    |
+    "e oito" {U8}   |
+    "e duas" {U2}   |
+    "e dois" {U2}   |
+    "e três" {U3}   |
+    "e quatro" {U4} |
+    "e cinco" {U5}  |
+    "e seis" {U6}   |
+    "e sete" {U7}   |
+    "e nove" {U9};
+
+$unit = (
+    zero {U0} |
+    um {U1} |
+    dois {U2} |
+    três {U3} |
+    quatro {U4} |
+    cinco {U5} |
+    seis {U6} |
+    meia {U6} |
+    sete {U7} |
+    oito {U8} |
+    nove {U9}
+);
+

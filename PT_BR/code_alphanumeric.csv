@@ -1,0 +1,77 @@
+text;success;reference;tags
+pê dê cinco cinco três nove meia sete sete dois;False;P D U5 U5 U3 U9 U6 U7 U7 U2;U5 U5 U3 U9 U6 U7 U7 U2
+dois cinco dois gê quatrocentos e quatro tê;False;U2 U5 U2 G C4 U4 T;C400 E U4
+cento e oito cento e cinco três três dois bê;False;C1 U8 C1 U5 U3 U3 U2 B;C1 U8 C1 U5 U3 U3 U2
+cê á dezoito trinta e três bê quatrocentos e um;False;C A D1 U8 D3 U3 B C4 U1;C400 E U1
+cá trinta e três quatro meia dois cinco á;False;K D3 U3 U4 U6 U2 U5 A;D3 U3 U4 U6 U2 U5 A
+jota á três quatro vinte e dois bê bê;False;J A U3 U4 D2 U2 B B;A U3 U4 D2 U2
+efe duzentos e cinquenta agá três três dois;False;F C2 D5 H U3 U3 U2;U3 U3 U2
+dê é quatro cinco trezentos e dois bê;False;D E U4 U5 C3 U2 B;E U4 U5 C300 E U2
+dáblio dáblio esse oito cinco zero ó i nove três;False;W W S U8 U5 U0 O I U9 U3;U8 U5 U0 O I U9 U3
+á trezentos e vinte bê dois quatro cê;False;A C3 D2 B U2 U4 C;U2 U4
+um dois três eme i ele agá á esse;False;U1 U2 U3 M I L H A S;A
+pê erre ó gê nove um cinco;False;P R O G U9 U1 U5;U9 U1 U5
+ele ó gê i tê é cê agá gê dois quatro zero xis ele;False;L O G I T E C H G U2 U4 U0 X L;U2 U4 U0
+i pê agá ó ene é um dois eme pê;False;I P H O N E U1 U2 M P;E U1 U2
+a pê pê ele é esse oito;False;A P P L E S U8;U8
+i ô esse quatro gê;False;I O S U4 G;
+i ene tê ê ele i sete;False;I N T E L I U7;I U7
+eme ó tê ó gê nove;False;M O T O G U9;U9
+esse dois dois eme dois dois cinco gê;False;S U2 U2 M U2 U2 U5 G;U2 U2 U5
+bê eme dáblio um cinco sete i;False;B M W U1 U5 U7 I;U1 U5 U7 I
+efe ó erre dê um nove dois zero;False;F O R D U1 U9 U2 U0;U1 U9 U2 U0
+agá bê dois zero;False;H B U2 U0;U2 U0
+cê ó dois;False;C O U2;O U2
+bê um bê dois zê i ene cê ó;False;B U1 B U2 Z I N C O;
+cá nove ele dois oito zê;False;K U9 L U2 U8 Z;U2 U8
+meia nove cinco três quatro sete dois um zero oito;True;U6 U9 U5 U3 U4 U7 U2 U1 U0 U8;U6 U9 U5 U3 U4 U7 U2 U1 U0 U8
+sete oito quatro um nove três cinco zero dois meia;True;U7 U8 U4 U1 U9 U3 U5 U0 U2 U6;U7 U8 U4 U1 U9 U3 U5 U0 U2 U6
+sete nove sete três meia zero cinco nove nove três dois oito um dois oito quatro;True;U7 U9 U7 U3 U6 U0 U5 U9 U9 U3 U2 U8 U1 U2 U8 U4;U7 U9 U7 U3 U6 U0 U5 U9 U9 U3 U2 U8 U1 U2 U8 U4
+um meia um quatro oito nove oito nove sete cinco zero três sete oito três dois;True;U1 U6 U1 U4 U8 U9 U8 U9 U7 U5 U0 U3 U7 U8 U3 U2;U1 U6 U1 U4 U8 U9 U8 U9 U7 U5 U0 U3 U7 U8 U3 U2
+dois quatro zero sete cinco oito nove um meia três;True;U2 U4 U0 U7 U5 U8 U9 U1 U6 U3;U2 U4 U0 U7 U5 U8 U9 U1 U6 U3
+um três sete meia nove dois cinco zero oito quatro;True;U1 U3 U7 U6 U9 U2 U5 U0 U8 U4;U1 U3 U7 U6 U9 U2 U5 U0 U8 U4
+meia três nove sete oito cinco zero dois um quatro;True;U6 U3 U9 U7 U8 U5 U0 U2 U1 U4;U6 U3 U9 U7 U8 U5 U0 U2 U1 U4
+três zero zero meia zero sete nove sete quatro cinco um três um dois oito dois;True;U3 U0 U0 U6 U0 U7 U9 U7 U4 U5 U1 U3 U1 U2 U8 U2;U3 U0 U0 U6 U0 U7 U9 U7 U4 U5 U1 U3 U1 U2 U8 U2
+meia quatro dois oito cinco nove sete cinco um quatro quatro três três zero um;True;U6 U4 U2 U8 U5 U9 U7 U5 U1 U4 U4 U3 U3 U0 U1;U6 U4 U2 U8 U5 U9 U7 U5 U1 U4 U4 U3 U3 U0 U1
+sete zero oito cinco meia três dois nove quatro um;True;U7 U0 U8 U5 U6 U3 U2 U9 U4 U1;U7 U0 U8 U5 U6 U3 U2 U9 U4 U1
+dezesseis catorze oitenta nove oitenta nove setenta cinco zero três setenta oito trinta dois;False;D1 U6 D1 U4 D8 U9 D8 U9 D7 U5 U0 U3 D7 U8 D3 U2;U2
+cinco nove três dois meia zero um oito quatro sete;True;U5 U9 U3 U2 U6 U0 U1 U8 U4 U7;U5 U9 U3 U2 U6 U0 U1 U8 U4 U7
+quinze vinte quatro oitenta treze zero meia cinco sete cinquenta nove sete;False;D1 U5 D2 U4 D8 D1 U3 U0 U6 U5 U7 D5 U9 U7;U9
+zero trinta um trinta um trinta cinco nove três nove cinco nove três;False;U0 D3 U1 D3 U1 D3 U5 U9 U3 U9 U5 U9 U3;U5 U9 U3 U9 U5 U9 U3
+zero oitenta cinco quarenta cinco vinte sete cinquenta sete setenta cinco noventa oito;False;U0 D8 U5 D4 U5 D2 U7 D5 U7 D7 U5 D9 U8;U8
+zero vinte três quatro meia oitenta oitenta um quinze quarenta dois;False;U0 D2 U3 U4 U6 D8 D8 U1 D1 U5 D4 U2;U2
+zero quatro meia sete dois oito quatro oito um sete um oito nove cinco três três;True;U0 U4 U6 U7 U2 U8 U4 U8 U1 U7 U1 U8 U9 U5 U3 U3;U0 U4 U6 U7 U2 U8 U4 U8 U1 U7 U1 U8 U9 U5 U3 U3
+quarenta dois setenta dois quarenta zero meia catorze oitenta um cinquenta quatro trinta nove;False;D4 U2 D7 U2 D4 U0 U6 D1 U4 D8 U1 D5 U4 D3 U9;U9
+jota ó erre gê é;False;J O R G E;
+meia zero quatro três cinco oito sete um nove dois;True;U6 U0 U4 U3 U5 U8 U7 U1 U9 U2;U6 U0 U4 U3 U5 U8 U7 U1 U9 U2
+á ene tê ó ene i ó;False;A N T O N I O;I
+jota ó esse é;False;J O S E;
+zero trinta um meia três cinco oito oito três cinco nove três dois;False;U0 D3 U1 U6 U3 U5 U8 U8 U3 U5 U9 U3 U2;U1 U6 U3 U5 U8 U8 U3 U5 U9 U3 U2
+erre i bê é i erre á ó dê á esse ene é vê é esse;False;R I B E I R A O D A S N E V E S;E V
+eme ó esse esse ó erre ó;False;M O S S O R O;
+quatro cinco um três dois sete meia zero oito nove;True;U4 U5 U1 U3 U2 U7 U6 U0 U8 U9;U4 U5 U1 U3 U2 U7 U6 U0 U8 U9
+jota ó;False;J O;O
+á ele é gê erre é tê é;False;A L E G R E T E;
+á ele efe erre é dê ó;False;A L F R E D O;O
+zero um cinco meia quatro meia quatro dois meia sete um dois nove;True;U0 U1 U5 U6 U4 U6 U4 U2 U6 U7 U1 U2 U9;U0 U1 U5 U6 U4 U6 U4 U2 U6 U7 U1 U2 U9
+dois três zero sete meia quatro cinco oito um nove;True;U2 U3 U0 U7 U6 U4 U5 U8 U1 U9;U2 U3 U0 U7 U6 U4 U5 U8 U1 U9
+zero quinze vinte dois vinte três cinco oito cinco sete nove dois;False;U0 D1 U5 D2 U2 D2 U3 U5 U8 U5 U7 U9 U2;U3 U5 U8 U5 U7 U9
+oito meia dois dois três sete zero um zero três um zero meia meia nove cinco quatro;True;U8 U6 U2 U2 U3 U7 U0 U1 U0 U3 U1 U0 U6 U6 U9 U5 U4;U8 U6 U2 U2 U3 U7 U0 U1 U0 U3 U1 U0 U6 U6 U9 U5 U4
+zero doze noventa quatro noventa meia cinquenta sete cinquenta sete dois nove;False;U0 D1 U2 D9 U4 D9 U6 D5 U7 D5 U7 U2 U9;U7 U2 U9
+bê ó á vê i esse tê á;False;B O A V I S T A;
+sete zero cinco três oito meia quatro dois nove um;True;U7 U0 U5 U3 U8 U6 U4 U2 U9 U1;U7 U0 U5 U3 U8 U6 U4 U2 U9 U1
+zero quinze três nove quatro um oito cinco dois oito um;True;U0 D1 U5 U3 U9 U4 U1 U8 U5 U2 U8 U1;U0 D1 U5 U3 U9 U4 U1 U8 U5 U2 U8 U1
+zero um dois nove meia meia nove oito zero sete três um sete;True;U0 U1 U2 U9 U6 U6 U9 U8 U0 U7 U3 U1 U7;U0 U1 U2 U9 U6 U6 U9 U8 U0 U7 U3 U1 U7
+á ele i ene é;False;A L I N E;E
+meia dois três dois oito sete um meia dois zero cinco sete nove quatro meia;True;U6 U2 U3 U2 U8 U7 U1 U6 U2 U0 U5 U7 U9 U4 U6;U6 U2 U3 U2 U8 U7 U1 U6 U2 U0 U5 U7 U9 U4 U6
+zero quinze meia cinco meia meia oito um zero dois zero três;True;U0 D1 U5 U6 U5 U6 U6 U8 U1 U0 U2 U0 U3;U0 D1 U5 U6 U5 U6 U6 U8 U1 U0 U2 U0 U3
+zero vinte três trinta quatro setenta quatro oitenta um trinta oito noventa meia;False;U0 D2 U3 D3 U4 D7 U4 D8 U1 D3 U8 D9 U6;U6
+agá á eme i ele tê ó ene;False;H A M I L T O N;O
+um sete dois quatro meia três cinco oito zero nove;True;U1 U7 U2 U4 U6 U3 U5 U8 U0 U9;U1 U7 U2 U4 U6 U3 U5 U8 U0 U9
+gê erre á vê á tê á i;False;G R A V A T A I;A I
+esse á ó ele é ó pê ó ele dê ó;False;S A O L E O P O L D O;
+zero quinze noventa quatro nove meia um meia vinte nove meia meia;False;U0 D1 U5 D9 U4 U9 U6 U1 U6 D2 U9 U6 U6;
+pê á u ele ó;False;P A U L O;
+jota á i erre ó;False;J A I R O;
+nove oito dois cinco um nove dois meia quatro quatro meia cinco sete três zero;True;U9 U8 U2 U5 U1 U9 U2 U6 U4 U4 U6 U5 U7 U3 U0;U9 U8 U2 U5 U1 U9 U2 U6 U4 U4 U6 U5 U7 U3 U0
+dois dois meia cinco sete zero nove quatro cinco oito um quatro três um oito;True;U2 U2 U6 U5 U7 U0 U9 U4 U5 U8 U1 U4 U3 U1 U8;U2 U2 U6 U5 U7 U0 U9 U4 U5 U8 U1 U4 U3 U1 U8

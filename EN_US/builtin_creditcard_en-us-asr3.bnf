@@ -1,0 +1,167 @@
+#ABNF 1.0 ISO8859-1;
+
+root $creditcard = ($GARBAGE $creditcardcomplete $GARBAGE);
+
+$creditcardcomplete = ($fourNumbers [$SIL] $fourNumbers [$SIL] $fourNumbers [$SIL] ($fourNumbers | $threeNumbers | $twoNumbers | $unit));
+
+$SIL = "[SIL]"{};
+
+
+$fourNumbers = (
+	($unit $unit $unit $unit) |
+	($ten $unit $unit) |
+	($unit $ten $unit) |
+	($unit $unit $ten) |
+	($ten $ten) |
+	($hundred $unit) |
+	($unit $hundred) |
+	($thousand)
+	);
+
+$threeNumbers =( 
+	($unit $unit $unit) |
+	($ten $unit) |
+	($unit $ten) |
+	($hundred) 
+	);
+
+$twoNumbers = (
+	($unit $unit) |
+	($ten)
+	);
+
+
+$thousand = ($thousandAlone | $thousandAssembled);
+$hundred = ($hundredAlone | $hundredAssembled);
+$ten = ($tenAlone | $tenAssembled);
+
+
+$thousandAlone = (
+	("one thousand" | "a thousand") {K1000} [$SIL] |
+	"two thousand" {K2000} [$SIL] |
+	"three thousand" {K3000} [$SIL] | 
+	"four thousand" {K4000} [$SIL] |
+	"five thousand" {K5000} [$SIL] |
+	"six thousand" {K6000} [$SIL] |
+	"seven thousand" {K7000} [$SIL] | 
+	"eight thousand" {K8000} [$SIL] |
+	"nine thousand" {K9000} [$SIL]
+	);
+	
+$thousandPosition = (
+	("one thousand" | "a thousand") {K1} |
+	"two thousand" {K2} |
+	"three thousand" {K3} |
+	"four thousand" {K4} |
+	"five thousand" {K5} |
+	"six thousand" {K6} |
+	"seven thousand" {K7} |
+	"eight thousand" {K8} |
+	"nine thousand" {K9}
+	);
+
+
+
+
+$thousandAssembled= (
+	($thousandPosition [and] {} ($hundredAlone | $tenAlone | $assembledUnit)) |
+	($thousandPosition [and] {} $hundredAssembled) |
+	($thousandPosition [and] {} $tenAssembled)
+	);
+	
+
+
+$hundredAlone = (
+	("triple zero" | "triple oh") {U0 U0 U0} [$SIL] |
+	("one hundred" | "a hundred") {C100} [$SIL] |
+	"two hundred" {C200} [$SIL] |
+	"three hundred" {C300} [$SIL] |
+	"four hundred" {C400} [$SIL] |
+	"five hundred" {C500} [$SIL] |
+	"six hundred" {C600} [$SIL] |
+	"seven hundred" {C700} [$SIL] |
+	"eight hundred" {C800} [$SIL] |
+	"nine hundred" {C900} [$SIL]
+	);	
+	
+$hundredPosition = (
+	("one hundred" |"a hundred") {C1} |
+	"two hundred" {C2} |
+	"three hundred" {C3} |
+	"four hundred" {C4} |
+	"five hundred" {C5} |
+	"six hundred" {C6} |
+	"seven hundred" {C7} |
+	"eight hundred" {C8} |
+	"nine hundred" {C9}
+	);
+
+
+$hundredAssembled = ($hundredPosition [and] {} $tenAlone | $hundredPosition [and] {} $tenAssembled | $hundredPosition [and] {} $assembledUnit);
+
+
+$tenAlone = (
+    ("double zero" | "double oh") {U0 U0} [$SIL] |
+    ten {D10} [$SIL] |
+    eleven {D1 U1}  |
+    twelve {D1 U2}  |
+    thirteen {D1 U3}  |
+    fourteen {D1 U4}  |
+    fifteen {D1 U5}  |
+	sixteen {D1 U6}  |
+    seventeen {D1 U7}  |
+    eighteen {D1 U8}  |
+    nineteen {D1 U9}  |
+    twenty {D20} [$SIL] |
+    thirty {D30} [$SIL] |
+    forty {D40} [$SIL] |
+    fifty {D50} [$SIL] | 
+    sixty {D60} [$SIL] | 
+    seventy {D70} [$SIL] | 
+    eighty {D80} [$SIL] | 
+    ninety {D90} [$SIL]
+    );
+
+$tenAssembled = ($tenPosition $assembledUnit);
+
+$tenPosition =
+    (
+	twenty {D2} |
+    thirty {D3} |
+    forty {D4} | 
+    fifty {D5} | 
+    sixty {D6} | 
+    seventy {D7} | 
+    eighty {D8} | 
+    ninety {D9}  
+    );
+    
+
+$assembledUnit = (
+    one {U1}       |
+    two {U2}       |
+    three {U3}      |
+    four {U4}    |
+    five {U5}     |
+    six {U6}      |
+    seven {U7}     |
+    eight {U8}      |
+    nine {U9} 
+	);
+
+$unit = (
+    one {U1}       |
+    two {U2}       |
+    three {U3}      |
+    four {U4}    |
+    five {U5}     |
+    six {U6}      |
+    seven {U7}     |
+    eight {U8}      |
+    nine {U9}     |
+    zero {U0} |
+	oh {U0}
+	);
+	
+
+	

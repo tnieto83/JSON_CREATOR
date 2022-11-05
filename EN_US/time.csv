@@ -1,0 +1,163 @@
+text;success;reference;tags
+twenty past one;False;M20 P H01;M20 + H01
+one forty-six pee em;False;H01 M46 PM;H01 M46
+twelve twenty-six;True;H12 M26;H12 M26
+eleven thirty-eight;True;H11 M38;H11 M38
+eight to eleven;False;M08 L H11;M08 - H11
+eleven thirty a em;False;H11 M30 AM;
+eleven thirty-nine;True;H11 M39;H11 M39
+six forty-three;True;H06 M43;H06 M43
+three forty pee em;False;H03 M40 PM;H03 M40
+eleven thirty-nine;True;H11 M39;H11 M39
+it is now three thirty-five;True;H03 M35;H03 M35
+nine twenty-four;True;H09 M24;H09 M24
+eight fourteen;True;H08 M14;H08 M14
+six fifty-one pee em;False;H06 M51 PM;H06 M51
+six fifty-nine;False;H06 H59;H06 M59
+twenty to noon;False;M20 L MD;s1200h
+a quarter past eleven;False;M15 P H11;M+Q H11
+it's one fifty-eight;True;H01 M58;H01 M58
+five past seven;False;M05 P H07;M05 + H07
+it's ten o'clock ten a em;False;H10 M00 H10 AM;
+three forty-one;True;H03 M41;H03 M41
+ten fifty-six;True;H10 M56;H10 M56
+eight fifteen;True;H08 M15;H08 M15
+right now it is eight thirty five pee em;False;H08 M35 PM;
+eight ten;True;H08 M10;H08 M10
+five twenty-nine;True;H05 M29;H05 M29
+seven forty-five;True;H07 M45;H07 M45
+six ten pee em;False;H06 M10 PM;H06 M10
+two twenty-eight;True;H02 M28;H02 M28
+it's three;True;H03;H03
+six forty-seven;True;H06 M47;H06 M47
+one twenty-four;True;H01 M24;H01 M24
+a quarter to noon;False;M15 L MD;s1200h
+two twenty-four;True;H02 M24;H02 M24
+three o six;False;H03 M06;
+it is three ten pee em;False;H03 M10 PM;H03 M10
+nine eighteen;True;H09 M18;H09 M18
+one o'clock;False;H01 M00;H01
+twenty past six;False;M20 P H06;M20 + H06
+it's twelve thirty-two pee em;False;H12 M32 PM;H12 M32
+seven thirty-eight;True;H07 M38;H07 M38
+nine fifty-five a em;False;H09 M55 AM;
+five twenty-four;True;H05 M24;H05 M24
+eleven o six;False;H11 M06;
+six o six;False;H06 M06;
+it is eight fifty-two pee em;False;H08 M52 PM;H08 M52
+eight thirteen;True;H08 M13;H08 M13
+eight thirty-four;True;H08 M34;H08 M34
+midnight;False;MN;s0000h
+seven fifty-five pee em;False;H07 M55 PM;H07 M55
+eight forty-seven;True;H08 M47;H08 M47
+it's six fifty-five;True;H06 M55;H06 M55
+twelve fifty;True;H12 M50;H12 M50
+one forty-eight pee em;False;H01 M48 PM;H01 M48
+half past one;False;M30 P H01;MM H01
+twenty of eleven;False;M40 H10;H11
+twelve forty pee em;False;H12 M40 PM;H12 M40
+six o six;False;H06 M06;
+one fifteen pee em;False;H01 M15 PM;H01 M15
+five to five;False;M05 L H05;M05 - H05
+nine forty-three a em;False;H09 M43 PM;
+one seventeen;True;H01 M17;H01 M17
+ten o two pee em;False;H10 M02 PM;
+nine forty-seven;True;H09 M47;H09 M47
+nine thirty-two;False;H09 M31 PM;H09 M32
+a quarter after three;False;M15 P H03;H03
+six o eight;False;H06 M08;
+ten after four;False;M10 P H04;
+seven twenty-one pee em;False;H07 M21 PM;H07 M21
+ten to nine;False;M10 L H09;M10 - H09
+it's six o two pee em;False;H06 M02 PM;
+four twenty;True;H04 M20;H04 M20
+sixteen fifty-six four fifty-six in the afternoon;False;H16 M56 H04 M56 TR;
+five to noon;False;M05 L MD;s1200h
+three fifty-five pee em;False;H03 M55 PM;H03 M55
+ten to four;False;M10 L H04;M10 - H04
+two o'clock;False;H02 M00;H02
+twenty after ten;False;M20 P H10;H10
+ten o three a em;False;H10 M03 AM;
+seven forty-four;True;H07 M44;H07 M44
+six fifty-four;True;H06 M54;H06 M54
+seven thirty-four pee em;False;H07 M34 PM;H07 M34
+four thirty;True;H04 M30;H04 M30
+it is five forty-seven pee em;False;H05 M47 PM;H05 M47
+five to one;False;M05 L H01;M05 - H01
+twenty to eleven;False;M20 L H11;M20 - H11
+six twenty;True;H06 M20;H06 M20
+a quarter to midnight;False;M15 L H12 NT;s0000h
+four four twenty-two;False;H04 H04 M22;H04 M22
+ten forty-nine;True;H10 M49;H10 M49
+ten to nine;False;M10 L H09;M10 - H09
+it's twelve minutes to four;False;M12 L H04;M12 - H04
+ten forty;True;H10 M40;H10 M40
+two sixteen;True;H02 M16;H02 M16
+eleven o nine;False;H11 M09;
+four thirty pee em;False;H04 M30 PM;H04 M30
+ten to nine;False;M10 L H09;M10 - H09
+six fifty-four pee em;False;H06 M54 PM;H06 M54
+nine forty-six;True;H09 M46;H09 M46
+four thirty;True;H04 M30;H04 M30
+nine o one;False;H09 M01;
+it is two twenty-eight pee em;False;H02 M28 PM;H02 M28
+five seventeen;True;H05 M17;H05 M17
+it is three minutes after one pee em;False;P3 H01 PM;H01
+six twelve;True;H06 M12;H06 M12
+two forty-five;True;H02 M45;H02 M45
+quarter past one;False;M15 P H01;M+Q H01
+nine o four;False;H09 M04;
+twenty to four;False;M20 L H04;M20 - H04
+one ten;True;H01 M10;H01 M10
+five twenty-seven;True;H05 M27;H05 M27
+eight eighteen a em;False;H08 M18 AM;
+it is eleven forty-nine pee em;False;H11 M49 PM;H11 M49
+ten thirty;False;H10 M30 AM;H10 M30
+six thirty-two;True;H06 M32;H06 M32
+nine thirty-five pee em;False;H09 M35 PM;H09 M35
+seven o'clock;False;H07 M00;H07
+twelve thirty-one;True;H12 M31;H12 M31
+one fifty-two;True;H01 M52;H01 M52
+six eleven;True;H06 M11;H06 M11
+eight thirty-two;True;H08 M32;H08 M32
+one twenty-one;True;H01 M21;H01 M21
+it is now three thirty-three a em;False;H03 M33 AM;
+three thirty;True;H03 M30;H03 M30
+ten fifty-two;True;H10 M52;H10 M52
+four twenty;True;H04 M20;H04 M20
+one thirty pee em;False;H01 M30 PM;H01 M30
+twelve thirteen pee em;False;H12 M13 PM;H12 M13
+ten forty-five a em;False;H10 M45 AM;
+six sixteen;True;H06 M16;H06 M16
+ten a em;False;H10 AM;
+six o three;False;H06 M03;
+three thirty in the afternoon;False;H03 M30 TR;H03 M30
+the time is now five minutes past nine eastern day;False;P5 H09 MR;M05 + H09
+eleven eighteen;True;H11 M18;H11 M18
+three forty;True;H03 M40;H03 M40
+nine seventeen;True;H09 M17;H09 M17
+ten thirty a em;False;H10 M30 AM;
+nine fifty-five;True;H09 M55;H09 M55
+almost ten o'clock in the evening;False;H10 TR;H10 RT
+ten pee em;False;H10 PM;H10
+one fifty-six;True;H01 M56;H01 M56
+the time is one o eight;False;H01 M08;
+it's three o six pee em;False;H03 M06 PM;
+two three;False;H02 M03;
+ten after eight;False;M10 P H08;
+four twenty;True;H04 M20;H04 M20
+a quarter to six;False;M15 L H6;M-Q H06
+eight o five a em;False;H08 M05 AM;
+ten thirty-one;True;H10 M31;H10 M31
+it is now nine o five pee em;False;H09 M05 AM;
+six thirty-one;True;H06 M31;H06 M31
+one fifty-four;True;H01 M54;H01 M54
+three twenty-four pee em;False;H03 M24 PM;H03 M24
+three eleven;True;H03 M11;H03 M11
+two o'clock eastern daylight time;True;H02;H02
+twelve twenty-seven;True;H12 M27;H12 M27
+eleven twelve;True;H11 M12;H11 M12
+two pee em;False;H02 PM;H02
+five forty-eight;True;H05 M48;H05 M48
+eleven pee em;False;H11 PM;H11
+eight forty-one pee em;False;H08 M41 PM;H08 M41

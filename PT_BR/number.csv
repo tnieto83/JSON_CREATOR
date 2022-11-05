@@ -1,0 +1,123 @@
+text;success;reference;tags
+cinco vírgula vinte e um;False;U5 W2 Z1;D05 X21
+cento e um vírgula quatro;False;C1 U1 Z4;C1 D01 X04
+duzentos e cinquenta ponto oito;False;C2 D50 Z8;C2 D50 X08
+trinta e cinco ponto quatro;False;D3 U5 Z4;D30 D05 X04
+duzentos e vinte e sete;False;C2 D2 U7;C2 D27
+trezentos e doze;False;C3 D1 U2;C3 D12
+oito mil cento e quinze;False;U8 THOUSAND C1 D1 U5;D08 M C1 D15
+duzentos e dezenove;False;C2 D1 U9;C2 D19
+quatro mil e quinhentos e dez;False;U4 THOUSAND C5 D10;D04 M C5 D10
+sete mil setecentos e catorze;False;U7 THOUSAND C7 D1 U4;D07 M C7 D14
+mil trezentos e catorze;False;U1 THOUSAND C3 D1 U4;M C3 D14
+quatro mil quinhentos e dezesseis;False;U4 THOUSAND C5 D1 U6;D04 M C5 D16
+dois mil oitocentos e treze;False;U2 THOUSAND C8 D1 U3;D02 M C8 D13
+cento e catorze;False;C1 D1 U4;C1 D14
+trinta e seis e cem;False;D3 U6 X100;
+seiscentos e treze;False;C6 D1 U3;C6 D13
+três mil cento e dez;False;U3 THOUSAND C1 D10;D03 M C1 D10
+cinco ponto nove um zero;False;U5 Z9 U1 Z0;
+vinte e três;False;D2 U3;D23
+dois mil oitocentos e dez;False;U2 THOUSAND C8 D10;D02 M C8 D10
+sessenta e três;False;D6 U3;D60 D03
+seis mil seiscentos e dezoito;False;U6 THOUSAND C6 D1 U8;D06 M C6 D18
+cento e cinquenta e dois;False;C1 D5 U2;C1 D50 D02
+novecentos e vinte;True;C9 D20;C9 D20
+nove mil oitocentos e dezenove;False;U9 THOUSAND C8 D1 U9;D09 M C8 D19
+quinhentos e trinta;True;C5 D30;C5 D30
+sessenta e oito;False;D6 U8;D60 D08
+seiscentos e sessenta e dois;False;C6 D6 U2;C6 D60 D02
+oitocentos e trinta e três;False;C8 D3 U3;C8 D30 D03
+cento e oitenta e um;False;C1 D8 U1;C1 D80 D01
+nove mil quinhentos e noventa e nove;False;U9 THOUSAND C5 D9 U9;D09 M C5 D90 D09
+quinhentos e quarenta e oito;False;C5 D4 U8;C5 D40 D08
+quinhentos e catorze;False;C5 D1 U4;C5 D14
+cinquenta e cinco;False;D5 U5;D50 D05
+quatrocentos e quinze;False;C4 D1 U5;C4 D15
+oito mil quinhentos e doze;False;U8 THOUSAND C5 D1 U2;D08 M C5 D12
+cinco mil duzentos e treze;False;U5 THOUSAND C2 D1 U3;D05 M C2 D13
+um ponto trezentos e doze;False;U1 X3 Y1 Z2;D01 X300 X12
+mil trezentos e oitenta e nove;False;U1 THOUSAND C3 D8 U9;M C3 D80 D09
+oitocentos e vinte e quatro;False;C8 D2 U4;C8 D24
+cinquenta e sete;False;D5 U7;D50 D07
+vinte e cinco;False;D2 U5;D25
+noventa e quatro;False;D9 U4;D90 D04
+cento e dezoito;False;C1 D1 U8;C1 D18
+quatro mil quatrocentos e dezesseis;False;U4 THOUSAND C4 D1 U6;D04 M C4 D16
+cinco mil oitocentos e doze;False;U5 THOUSAND C8 D1 U2;D05 M C8 D12
+setecentos e noventa e quatro;False;C7 D9 U4;C7 D90 D04
+sessenta e cinco mil e cem;False;D6 U5 THOUSAND C100;D60 D05 M C1 D00
+mil trezentos e um;False;U1 THOUSAND C3 U1;M C3 D01
+quatrocentos e dezesseis;False;C4 D1 U6;C4 D16
+oito mil duzentos e dezoito;False;U8 THOUSAND C2 D1 U8;D08 M C2 D18
+três mil novecentos e dez;False;U3 THOUSAND C9 D10;D03 M C9 D10
+duzentos e vinte e um;False;C2 D2 U1;C2 D21
+sessenta e três mil e cem;False;D6 U3 THOUSAND C100;D60 D03 M C1 D00
+quatro mil seiscentos e dezesseis;False;U4 THOUSAND C6 D1 U6;D04 M C6 D16
+quatro mil e cem;False;U4 THOUSAND C100;D04 M C1 D00
+dois mil oitocentos e dezoito;False;U2 THOUSAND C8 D1 U8;D02 M C8 D18
+setecentos e noventa e um;False;C7 D9 U1;C7 D90 D01
+quinze mil e cem;False;D1 U5 THOUSAND C100;D15 M C1 D00
+quinhentos e sessenta;True;C5 D60;C5 D60
+oito ponto dois um meia;False;U8 Z2 Z1 Z6;
+quinhentos e noventa e nove;False;C5 D9 U9;C5 D90 D09
+duzentos e trinta e três;False;C2 D3 U3;C2 D30 D03
+oito mil quatrocentos e dezoito;False;U8 THOUSAND C4 D1 U8;D08 M C4 D18
+mil duzentos e onze;False;U1 THOUSAND C2 D1 U1;M C2 D11
+oitocentos e setenta e cinco;False;C8 D7 U5;C8 D70 D05
+mil setecentos e dez;False;U1 THOUSAND C7 D10;M C7 D10
+vinte e nove mil e cem;False;D2 U9 THOUSAND C100;D29 M C1 D00
+seiscentos e noventa e nove;False;C6 D9 U9;C6 D90 D09
+oito mil quatrocentos e dezessete;False;U8 THOUSAND C4 D1 U7;D08 M C4 D17
+sete mil e dez;False;U7 THOUSAND D10;D07 M D10
+dois mil quinhentos e catorze;False;U2 THOUSAND C5 D1 U4;D02 M C5 D14
+cinquenta e quatro;False;D5 U4;D50 D04
+mil trezentos e onze;False;U1 THOUSAND C3 D1 U1;M C3 D11
+três mil duzentos e dezenove;False;U3 THOUSAND C2 D1 U9;D03 M C2 D19
+seis mil quatrocentos e dezenove;False;U6 THOUSAND C4 D1 U9;D06 M C4 D19
+mil quatrocentos e doze;False;U1 THOUSAND C4 D1 U2;M C4 D12
+vinte e três mil e cem;False;D2 U3 THOUSAND C100;D23 M C1 D00
+setecentos e vinte e oito;False;C7 D2 U8;C7 D28
+dois mil oitocentos e dezessete;False;U2 THOUSAND C8 D1 U7;D02 M C8 D17
+quatro mil seiscentos e dezenove;False;U4 THOUSAND C6 D1 U9;D04 M C6 D19
+novecentos e quarenta e um;False;C9 D4 U1;C9 D40 D01
+mil trezentos e dezenove;False;U1 THOUSAND C3 D1 U9;M C3 D19
+mil e dezesseis;False;U1 THOUSAND D1 U6;M D16
+cinco;False;U5;D05
+trinta e cinco;False;D3 U5;D30 D05
+quarenta e sete;False;D4 U7;D40 D07
+quatrocentos e dezoito;False;C4 D1 U8;C4 D18
+seis ponto quatro um seis;False;U6 Z4 Z1 Z6;D06 X04
+oitocentos e setenta e cinco;False;C8 D7 U5;C8 D70 D05
+nove mil oitocentos e dezoito;False;U9 THOUSAND C8 D1 U8;D09 M C8 D18
+oitenta e sete;False;D8 U7;D80 D07
+duzentos e treze;False;C2 D1 U3;C2 D13
+cento e cinquenta e cinco;False;C1 D5 U5;C1 D50 D05
+cento e cinquenta e oito;False;C1 D5 U8;C1 D50 D08
+cento e noventa e um;False;C1 D9 U1;C1 D90 D01
+oitocentos e oitenta e nove;False;C8 D8 U9;C8 D80 D09
+setenta e sete;False;D7 U7;D70 D07
+cem;False;C100;C1 D00
+trezentos e cinquenta;True;C3 D50;C3 D50
+quatro;False;U4;D04
+sete mil novecentos e doze;False;U7 THOUSAND C9 D1 U2;D07 M C9 D12
+setecentos e dez;True;C7 D10;C7 D10
+três mil trezentos e doze;False;U3 THOUSAND C3 D1 U2;D03 M C3 D12
+oito mil quatrocentos e quinze;False;U8 THOUSAND C4 D1 U5;D08 M C4 D15
+seis mil trezentos e quinze;False;U6 THOUSAND C3 D1 U5;D06 M C3 D15
+quatro mil quatrocentos e quinze;False;U4 THOUSAND C4 D1 U5;D04 M C4 D15
+treze;False;D1 U3;D13
+trinta e três mil e cem;False;D3 U3 THOUSAND C100;D30 D03 M C1 D00
+setenta e quatro;False;D7 U4;D70 D04
+dois mil setecentos e doze;False;U2 THOUSAND C7 D1 U2;D02 M C7 D12
+sete mil novecentos e dezenove;False;U7 THOUSAND C9 D1 U9;D07 M C9 D19
+sete mil oitocentos e dez;False;U7 THOUSAND C8 D10;D07 M C8 D10
+oitocentos e oitenta e um;False;C8 D8 U1;C8 D80 D01
+cinquenta mil e treze;False;D50 THOUSAND D1 U3;D50 M D13
+quinze;False;D1 U5;D15
+quarenta e nove;False;D4 U9;D40 D09
+quatro mil seiscentos e dezessete;False;U4 THOUSAND C6 D1 U7;D04 M C6 D17
+cinco mil e dezessete;False;U5 THOUSAND D1 U7;D05 M D17
+dois mil seiscentos e dezessete;False;U2 THOUSAND C6 D1 U7;D02 M C6 D17
+oito ponto quatrocentos e um;False;U8 X4 Z1;D08 X400 X01
+duzentos e dezoito;False;C2 D1 U8;C2 D18

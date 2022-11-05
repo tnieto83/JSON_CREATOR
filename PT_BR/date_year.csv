@@ -1,0 +1,1083 @@
+text;success;reference;tags
+faz cinco anos;False;- YC05;u05
+há um mês;False;- MC01;u01
+três dias atrás;False;DC03 -;u03
+paguei na semana passada;False;- DC07;
+só depois de amanhã;False;+ DC02;
+amanhã;False;+ DC01;
+ontem;False;- DC01;
+terça feira passada nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+terça feira passada nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+quinta que vem nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;D09 M11 m02 u13
+quinta que vem nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;D09 M11 m02 u13
+na última segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+na última segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+no próximo dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+no próximo dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+ontem;False;- DC01;
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+treze de outubro de mil novecentos e noventa e três;False;D13 M10 Y1900 Y0093;D13 M10 m01 c09 d09 u03
+treze de outubro de mil novecentos e noventa e três;False;D13 M10 Y1900 Y0093;D13 M10 m01 c09 d09 u03
+vinte e oito de dois mil e vinte e um;False;D20 M08 Y2000 Y0021;D28 m02 u21
+vinte e oito de dois mil e vinte e um;False;D20 M08 Y2000 Y0021;D28 m02 u21
+sete do três de noventa e nove;False;D07 M03 Y0099;d09 u09
+sete do três de noventa e nove;False;D07 M03 Y0099;d09 u09
+seis do oito de dois mil e dez;False;D06 M08 Y2000 Y0010;D06 M08 m02 u10
+seis do oito de dois mil e dez;False;D06 M08 Y2000 Y0010;D06 M08 m02 u10
+primeiro de janeiro de dois mil;False;D01 M01 Y2000;m02
+primeiro de janeiro de dois mil;False;D01 M01 Y2000;m02
+quinta um do doze de dois mil;False;W4 D01 M12 Y2000;W4 D01 M12 m02
+quinta um do doze de dois mil;False;W4 D01 M12 Y2000;W4 D01 M12 m02
+terça feira nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+terça feira nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+sábado seis de março de dois mil e cinco;False;W6 D06 M03 Y2000 Y0005;W6 D06 M03 m02 u05
+sábado seis de março de dois mil e cinco;False;W6 D06 M03 Y2000 Y0005;W6 D06 M03 m02 u05
+sexta-feira treze de outubro de dois mil e dezenove;False;W5 D13 M10 Y2000 Y0019;D13 M10 m02 u19
+sexta-feira treze de outubro de dois mil e dezenove;False;W5 D13 M10 Y2000 Y0019;D13 M10 m02 u19
+quinta nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;W4 D09 M11 m02 u13
+quinta nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;W4 D09 M11 m02 u13
+quarta-feira vinte e oito de setembro de dois mil e vinte;False;W3 D28 M09 Y2000 Y0020;D28 M09 m02 u20
+quarta-feira vinte e oito de setembro de dois mil e vinte;False;W3 D28 M09 Y2000 Y0020;D28 M09 m02 u20
+terça sete do sete de dois mil e sete;False;W2 D07 M07 Y2000 Y0007;W2 D07 M07 m02 u07
+terça sete do sete de dois mil e sete;False;W2 D07 M07 Y2000 Y0007;W2 D07 M07 m02 u07
+segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+domingo vinte de novembro de vinte e dois;False;W7 D20 M11 Y0022;u22
+domingo vinte de novembro de vinte e dois;False;W7 D20 M11 Y0022;u22
+quatorze do três de oitenta e um;False;D14 M03 Y0081;d08 u01
+quatorze do três de oitenta e um;False;D14 M03 Y0081;d08 u01
+no dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+no dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+primeiro de junho de dois mil e vinte e um;False;D01 M06 Y2000 Y0021;m02 u21
+primeiro de junho de dois mil e vinte e um;False;D01 M06 Y2000 Y0021;m02 u21
+catorze de fevereiro de dois mil e vinte e um;False;D14 M02 Y2000 Y0021;D14 M02 m02 u21
+catorze de fevereiro de dois mil e vinte e um;False;D14 M02 Y2000 Y0021;D14 M02 m02 u21
+dezessete de dezembro de oitenta e sete;False;D17 M12 Y0087;d08 u07
+dezessete de dezembro de oitenta e sete;False;D17 M12 Y0087;d08 u07
+dois de junho de sessenta e cinco;False;D02 M06 Y0065;d06 u05
+dois de junho de sessenta e cinco;False;D02 M06 Y0065;d06 u05
+dia cinco de outubro de mil novecentos e oitenta e oito;False;D05 M10 Y1900 Y0088;D05 M10 m01 c09 d08 u08
+dia cinco de outubro de mil novecentos e oitenta e oito;False;D05 M10 Y1900 Y0088;D05 M10 m01 c09 d08 u08
+sete de setembro de oitenta e nove;False;D07 M09 Y0089;d08 u09
+sete de setembro de oitenta e nove;False;D07 M09 Y0089;d08 u09
+três de agosto de oitenta e nove;False;D03 M08 Y0089;d08 u09
+três de agosto de oitenta e nove;False;D03 M08 Y0089;d08 u09
+vinte e cinco julho de dois mil e dezenove;False;D25 M07 Y2000 Y0019;m02 u19
+vinte e cinco julho de dois mil e dezenove;False;D25 M07 Y2000 Y0019;m02 u19
+vinte e sete de março de dois mil e vinte;False;D27 M03 Y2000 Y0020;D27 M03 m02 u20
+vinte e sete de março de dois mil e vinte;False;D27 M03 Y2000 Y0020;D27 M03 m02 u20
+um do dois de dois mil e dezoito;False;D01 M02 Y2000 Y0018;D01 M02 m02 u18
+um do dois de dois mil e dezoito;False;D01 M02 Y2000 Y0018;D01 M02 m02 u18
+trinta de janeiro de dois mil e quinze;False;D30 M01 Y2000 Y0015;D30 M01 m02 u15
+trinta de janeiro de dois mil e quinze;False;D30 M01 Y2000 Y0015;D30 M01 m02 u15
+trinta e um do doze de dois mil e treze;False;D31 M12 Y2000 Y0013;D31 M12 m02 u13
+trinta e um do doze de dois mil e treze;False;D31 M12 Y2000 Y0013;D31 M12 m02 u13
+vinte e nove do onze de dois mil e doze;False;D29 M11 Y2000 Y0012;D29 M11 m02 u12
+vinte e nove do onze de dois mil e doze;False;D29 M11 Y2000 Y0012;D29 M11 m02 u12
+vinte e oito do dez de dois mil e onze;False;D28 M10 Y2000 Y0011;D28 M10 m02 u11
+vinte e oito do dez de dois mil e onze;False;D28 M10 Y2000 Y0011;D28 M10 m02 u11
+vinte e sete do nove de dois mil e dez;False;D27 M09 Y2000 Y0010;D27 M09 m02 u10
+vinte e sete do nove de dois mil e dez;False;D27 M09 Y2000 Y0010;D27 M09 m02 u10
+vinte e seis do sete de dois mil e nove;False;D26 M07 Y2000 Y0009;D26 M07 m02 u09
+vinte e seis do sete de dois mil e nove;False;D26 M07 Y2000 Y0009;D26 M07 m02 u09
+vinte e cinco do oito de dois mil e oito;False;D25 M08 Y2000 Y0008;D25 M08 m02 u08
+vinte e cinco do oito de dois mil e oito;False;D25 M08 Y2000 Y0008;D25 M08 m02 u08
+vinte e quatro do seis de dois mil e sete;False;D24 M06 Y2000 Y0007;D24 M06 m02 u07
+vinte e quatro do seis de dois mil e sete;False;D24 M06 Y2000 Y0007;D24 M06 m02 u07
+vinte e três do quatro de dois mil e oito;False;D23 M04 Y2000 Y0008;D23 M04 m02 u08
+vinte e três do quatro de dois mil e oito;False;D23 M04 Y2000 Y0008;D23 M04 m02 u08
+vinte e um do dois de dois mil e sete;False;D21 M02 Y2000 Y0007;D21 M02 m02 u07
+vinte e um do dois de dois mil e sete;False;D21 M02 Y2000 Y0007;D21 M02 m02 u07
+vinte do um de dois mil e seis;False;D20 M01 Y2000 Y0006;D20 M01 m02 u06
+vinte do um de dois mil e seis;False;D20 M01 Y2000 Y0006;D20 M01 m02 u06
+dezenove do doze de dois mil e cinco;False;D19 M12 Y2000 Y0005;D19 M12 m02 u05
+dezenove do doze de dois mil e cinco;False;D19 M12 Y2000 Y0005;D19 M12 m02 u05
+dezoito de novembro de dois mil e quatro;False;D18 M11 Y2000 Y0004;D18 M11 m02 u04
+dezoito de novembro de dois mil e quatro;False;D18 M11 Y2000 Y0004;D18 M11 m02 u04
+dezessete de outubro de dois mil e três;False;D17 M10 Y2000 Y0003;D17 M10 m02 u03
+dezessete de outubro de dois mil e três;False;D17 M10 Y2000 Y0003;D17 M10 m02 u03
+dezesseis de setembro de dois mil e dois;False;D16 M09 Y2000 Y0002;D16 M09 m02 u02
+dezesseis de setembro de dois mil e dois;False;D16 M09 Y2000 Y0002;D16 M09 m02 u02
+quinze de agosto de dois mil e um;False;D15 M08 Y2000 Y0001;D15 M08 m02 u01
+quinze de agosto de dois mil e um;False;D15 M08 Y2000 Y0001;D15 M08 m02 u01
+catorze de julho do ano dois mil;False;D14 M07 Y2000;D14 M07 m02
+catorze de julho do ano dois mil;False;D14 M07 Y2000;D14 M07 m02
+treze de junho de mil novecentos e noventa e nove;False;D13 M06 Y1900 Y0099;D13 M06 m01 c09 d09 u09
+treze de junho de mil novecentos e noventa e nove;False;D13 M06 Y1900 Y0099;D13 M06 m01 c09 d09 u09
+doze de maio de mil novecentos e noventa e oito;False;D12 M05 Y1900 Y0098;D12 M05 m01 c09 d09 u08
+doze de maio de mil novecentos e noventa e oito;False;D12 M05 Y1900 Y0098;D12 M05 m01 c09 d09 u08
+primeiro de abril de mil novecentos e noventa e sete;False;D01 M04 Y1900 Y0097;m01 c09 d09 u07
+primeiro de abril de mil novecentos e noventa e sete;False;D01 M04 Y1900 Y0097;m01 c09 d09 u07
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+treze de fevereiro de mil novecentos e noventa e seis;False;D13 M02 Y1900 Y0096;D13 M02 m01 c09 d09 u06
+treze de fevereiro de mil novecentos e noventa e seis;False;D13 M02 Y1900 Y0096;D13 M02 m01 c09 d09 u06
+nove de janeiro de mil novecentos e noventa e quatro;False;D09 M01 Y1900 Y0094;D09 M01 m01 c09 d09 u04
+nove de janeiro de mil novecentos e noventa e quatro;False;D09 M01 Y1900 Y0094;D09 M01 m01 c09 d09 u04
+oito de dezembro de mil novecentos e noventa e três;False;D08 M12 Y1900 Y0093;D08 M12 m01 c09 d09 u03
+oito de dezembro de mil novecentos e noventa e três;False;D08 M12 Y1900 Y0093;D08 M12 m01 c09 d09 u03
+domingo sete de julho de dois mil e dois;False;W7 D07 M07 Y2000 Y0002;W7 D07 M07 m02 u02
+domingo sete de julho de dois mil e dois;False;W7 D07 M07 Y2000 Y0002;W7 D07 M07 m02 u02
+sábado vinte e oito de outubro de dois mil e dezessete;False;W6 D20 M10 Y2000 Y0017;W6 D28 M10 m02 u17
+sábado vinte e oito de outubro de dois mil e dezessete;False;W6 D20 M10 Y2000 Y0017;W6 D28 M10 m02 u17
+dezessete de novembro de mil novecentos e setenta e dois;False;D17 M11 Y1900 Y0072;
+dezessete de novembro de mil novecentos e setenta e dois;False;D17 M11 Y1900 Y0072;
+sábado vinte de setembro de dois mil e três;False;W6 D20 M09 Y2000 Y0003;W6 D20 M09 m02 u03
+sábado vinte de setembro de dois mil e três;False;W6 D20 M09 Y2000 Y0003;W6 D20 M09 m02 u03
+dezenove do três de mil novecentos e cinquenta e sete;False;D19 M03 Y1900 Y0057;D19 M03 m01 c09
+dezenove do três de mil novecentos e cinquenta e sete;False;D19 M03 Y1900 Y0057;D19 M03 m01 c09
+amanhã;False;+ DC01;
+cinco do um de setenta e nove;False;D05 M01 Y0079;u09
+cinco do um de setenta e nove;False;D05 M01 Y0079;u09
+dia primeiro do cinco de cinquenta e oito;False;D01 M05 Y0058;u08
+dia primeiro do cinco de cinquenta e oito;False;D01 M05 Y0058;u08
+sexta trinta de dezembro de dois mil e cinco;False;W5 D30 M12 Y2000 Y0005;W5 D30 M12 m02 u05
+sexta trinta de dezembro de dois mil e cinco;False;W5 D30 M12 Y2000 Y0005;W5 D30 M12 m02 u05
+sexta trinta de agosto de dois mil e treze;False;W5 D30 M08 Y2000 Y0013;W5 D30 M08 m02 u13
+sexta trinta de agosto de dois mil e treze;False;W5 D30 M08 Y2000 Y0013;W5 D30 M08 m02 u13
+no próximo ano;False;+ YC01;
+domingo vinte e sete de abril de dois mil e quatorze;False;W7 D27 M04 Y2000 Y0014;W7 D27 M04 m02
+domingo vinte e sete de abril de dois mil e quatorze;False;W7 D27 M04 Y2000 Y0014;W7 D27 M04 m02
+vinte e oito do oito de sessenta e três;False;D28 M08 Y0063;d06 u03
+vinte e oito do oito de sessenta e três;False;D28 M08 Y0063;d06 u03
+dez de abril de mil novecentos e quarenta e sete;False;D10 M04 Y1900 Y0047;D10 M04 m01 c09 d04 u07
+dez de abril de mil novecentos e quarenta e sete;False;D10 M04 Y1900 Y0047;D10 M04 m01 c09 d04 u07
+quarta vinte e três de dezembro de dois mil e vinte;False;W3 D23 M12 Y2000 Y0020;W3 D23 M12 m02 u20
+quarta vinte e três de dezembro de dois mil e vinte;False;W3 D23 M12 Y2000 Y0020;W3 D23 M12 m02 u20
+domingo onze de fevereiro de dois mil e sete;False;W7 D11 M02 Y2000 Y0007;W7 D11 M02 m02 u07
+domingo onze de fevereiro de dois mil e sete;False;W7 D11 M02 Y2000 Y0007;W7 D11 M02 m02 u07
+quarta doze de setembro de dois mil e doze;False;W3 D12 M09 Y2000 Y0012;W3 D12 M09 m02 u12
+quarta doze de setembro de dois mil e doze;False;W3 D12 M09 Y2000 Y0012;W3 D12 M09 m02 u12
+sábado dois de novembro vinte treze;False;W6 D02 M11 Y2000 Y0013;W6 D02 M11
+sábado dois de novembro vinte treze;False;W6 D02 M11 Y2000 Y0013;W6 D02 M11
+quinze de janeiro de mil novecentos e quarenta e nove;False;D15 M01 Y1900 Y0049;D15 M01 m01 c09 d04 u09
+quinze de janeiro de mil novecentos e quarenta e nove;False;D15 M01 Y1900 Y0049;D15 M01 m01 c09 d04 u09
+quarta-feira vinte e sete de agosto de dois mil e três;False;W3 D27 M08 Y2000 Y0003;D27 M08 m02 u03
+quarta-feira vinte e sete de agosto de dois mil e três;False;W3 D27 M08 Y2000 Y0003;D27 M08 m02 u03
+dezenove do sete de mil novecentos e setenta e um;False;D19 M07 Y1900 Y0071;
+dezenove do sete de mil novecentos e setenta e um;False;D19 M07 Y1900 Y0071;
+quinta-feira dezessete de maio de dois mil e um;False;W4 D17 M05 Y2000 Y0001;D17 M05 m02 u01
+quinta-feira dezessete de maio de dois mil e um;False;W4 D17 M05 Y2000 Y0001;D17 M05 m02 u01
+domingo vinte e sete de janeiro de dois mil e dezenove;False;W7 D27 M01 Y2000 Y0019;W7 D27 M01 m02 u19
+domingo vinte e sete de janeiro de dois mil e dezenove;False;W7 D27 M01 Y2000 Y0019;W7 D27 M01 m02 u19
+nove do um de sessenta e seis;False;D09 M01 Y0066;d06 u06
+nove do um de sessenta e seis;False;D09 M01 Y0066;d06 u06
+um do onze de mil novecentos e sessenta e oito;False;D01 M11 Y1900 Y0068;D01 M11 m01 c09 d06 u08
+um do onze de mil novecentos e sessenta e oito;False;D01 M11 Y1900 Y0068;D01 M11 m01 c09 d06 u08
+dez dos quatro de sessenta e oito;False;D10 M04 Y0068;d06 u08
+dez dos quatro de sessenta e oito;False;D10 M04 Y0068;d06 u08
+seis de novembro de mil novecentos e setenta;False;D06 M11 Y1900 Y0070;D06 M11 m01 c09
+seis de novembro de mil novecentos e setenta;False;D06 M11 Y1900 Y0070;D06 M11 m01 c09
+nove do doze do cinquenta e oito;False;D09 M12 Y0058;u08
+nove do doze do cinquenta e oito;False;D09 M12 Y0058;u08
+quarta-feira vinte e nove de junho de dois mil e cinco;False;W3 D29 M06 Y2000 Y0005;D29 M06 m02 u05
+quarta-feira vinte e nove de junho de dois mil e cinco;False;W3 D29 M06 Y2000 Y0005;D29 M06 m02 u05
+oito do dez cinco nove;False;D08 M10 Y0059;D08 u10
+oito do dez cinco nove;False;D08 M10 Y0059;D08 u10
+ontem à noite;False;- DC01;
+vinte e nove do sete de setenta;False;D29 M07 Y0070;
+vinte e nove do sete de setenta;False;D29 M07 Y0070;
+trinta do onze de mil novecentos e cinquenta e nove;False;D30 M11 Y1900 Y0059;D30 M11 m01 c09
+trinta do onze de mil novecentos e cinquenta e nove;False;D30 M11 Y1900 Y0059;D30 M11 m01 c09
+vinte e dois do seis do meia meia;False;D22 M06 Y0066;D22 u06
+vinte e dois do seis do meia meia;False;D22 M06 Y0066;D22 u06
+dez do dez de setenta e quatro;False;D10 M10 Y0074;u04
+dez do dez de setenta e quatro;False;D10 M10 Y0074;u04
+quinta dez de dezembro de dois mil e quinze;False;W4 D10 M12 Y2000 Y0015;W4 D10 M12 m02 u15
+quinta dez de dezembro de dois mil e quinze;False;W4 D10 M12 Y2000 Y0015;W4 D10 M12 m02 u15
+segunda de março de mil novecentos e noventa e oito;False;W1 M03 Y1900 Y0098;m01 c09 d09 u08
+segunda de março de mil novecentos e noventa e oito;False;W1 M03 Y1900 Y0098;m01 c09 d09 u08
+domingo dezoito de abril de mil novecentos e noventa e nove;False;W7 D18 M04 Y1900 Y0099;W7 D18 M04 m01 c09 d09 u09
+domingo dezoito de abril de mil novecentos e noventa e nove;False;W7 D18 M04 Y1900 Y0099;W7 D18 M04 m01 c09 d09 u09
+hoje cedo;False;DC00;
+vinte e seis do quatro mil novecentos e setenta e um;False;D26 M04 Y1900 Y0071;u01
+vinte e seis do quatro mil novecentos e setenta e um;False;D26 M04 Y1900 Y0071;u01
+doze de outubro de mil novecentos e oitenta e um;False;D12 M10 Y1900 Y0081;D12 M10 m01 c09 d08 u01
+doze de outubro de mil novecentos e oitenta e um;False;D12 M10 Y1900 Y0081;D12 M10 m01 c09 d08 u01
+vinte e nove do nove de mil novecentos e sessenta e três;False;D29 M09 Y1900 Y0063;D29 M09 m01 c09 d06 u03
+vinte e nove do nove de mil novecentos e sessenta e três;False;D29 M09 Y1900 Y0063;D29 M09 m01 c09 d06 u03
+doze do quatro de cinquenta e sete;False;D12 M04 Y0057;u07
+doze do quatro de cinquenta e sete;False;D12 M04 Y0057;u07
+trinta e um do um de setenta e um;False;D31 M01 Y0071;
+trinta e um do um de setenta e um;False;D31 M01 Y0071;
+cinco do quatro de mil novecentos e sessenta e nove;False;D05 M04 Y1900 Y0069;D05 M04 m01 c09 d06 u09
+cinco do quatro de mil novecentos e sessenta e nove;False;D05 M04 Y1900 Y0069;D05 M04 m01 c09 d06 u09
+ontem cedo;False;- DC01;
+sábado onze de agosto de de dois mil e doze;False;W6 D11 M08 Y2000 Y0012;m02 u12
+sábado onze de agosto de de dois mil e doze;False;W6 D11 M08 Y2000 Y0012;m02 u12
+quinze do onze de mil novecentos e oitenta e um;False;D15 M11 Y1900 Y0081;D15 M11 m01 c09 d08 u01
+quinze do onze de mil novecentos e oitenta e um;False;D15 M11 Y1900 Y0081;D15 M11 m01 c09 d08 u01
+domingo vinte e nove de agosto de dois mil e quatro;False;W7 D29 M08 Y2000 Y0004;W7 D29 M08 m02 u04
+domingo vinte e nove de agosto de dois mil e quatro;False;W7 D29 M08 Y2000 Y0004;W7 D29 M08 m02 u04
+vinte e seis do doze de mil novecentos e setenta;False;D26 M12 Y1900 Y0070;D26 M12 m01 c09
+vinte e seis do doze de mil novecentos e setenta;False;D26 M12 Y1900 Y0070;D26 M12 m01 c09
+vinte e quatro dos de do onze de mil novecentos e quarenta e dois;False;D24 M11 Y1900 Y0042;D11 m01 c09 d04 u02
+vinte e quatro dos de do onze de mil novecentos e quarenta e dois;False;D24 M11 Y1900 Y0042;D11 m01 c09 d04 u02
+sexta-feira sete de janeiro de dois mil;False;W5 D07 M01 Y2000;D07 M01 m02
+sexta-feira sete de janeiro de dois mil;False;W5 D07 M01 Y2000;D07 M01 m02
+vinte do dez de mil novecentos e cinquenta e quatro;False;D20 M10 Y1900 Y0054;D20 M10 m01 c09
+vinte do dez de mil novecentos e cinquenta e quatro;False;D20 M10 Y1900 Y0054;D20 M10 m01 c09
+segunda vinte de julho de mil novecentos e noventa e oito;False;W1 D20 M07 Y1900 Y0098;W1 D20 M07 m01 c09 d09 u08
+segunda vinte de julho de mil novecentos e noventa e oito;False;W1 D20 M07 Y1900 Y0098;W1 D20 M07 m01 c09 d09 u08
+quarta-feira dezessete de abril de dois mil e dezenove;False;W3 D17 M04 Y2000 Y0019;D17 M04 m02 u19
+quarta-feira dezessete de abril de dois mil e dezenove;False;W3 D17 M04 Y2000 Y0019;D17 M04 m02 u19
+seis de maio de mil novecentos e quarenta e sete;False;D06 M05 Y1900 Y0047;D06 M05 m01 c09 d04 u07
+seis de maio de mil novecentos e quarenta e sete;False;D06 M05 Y1900 Y0047;D06 M05 m01 c09 d04 u07
+sábado quatro de outubro de de dois mil e catorze;False;W6 D04 M10 Y2000 Y0014;m02 u14
+sábado quatro de outubro de de dois mil e catorze;False;W6 D04 M10 Y2000 Y0014;m02 u14
+ontem cedo;False;- DC01;
+terça dezoito de maio de dois mil e dez;False;W2 D18 M05 Y2000 Y0010;W2 D18 M05 m02 u10
+terça dezoito de maio de dois mil e dez;False;W2 D18 M05 Y2000 Y0010;W2 D18 M05 m02 u10
+segunda-feira vinte e cinco de agosto de dois mil e quatorze;False;W1 D25 M08 Y2000 Y0014;D25 M08 m02
+segunda-feira vinte e cinco de agosto de dois mil e quatorze;False;W1 D25 M08 Y2000 Y0014;D25 M08 m02
+domingo nove de março de dois mil e oito;False;W7 D09 M03 Y2000 Y0008;W7 D09 M03 m02 u08
+domingo nove de março de dois mil e oito;False;W7 D09 M03 Y2000 Y0008;W7 D09 M03 m02 u08
+quinze de abril de mil novecentos e setenta e sete;False;D15 M04 Y1900 Y0077;
+quinze de abril de mil novecentos e setenta e sete;False;D15 M04 Y1900 Y0077;
+vinte e nove do três de setenta e sete;False;D29 M03 Y0077;u07
+vinte e nove do três de setenta e sete;False;D29 M03 Y0077;u07
+segunda-feira trinta de abril de dois mil e dezoito;False;W1 D30 M04 Y2000 Y0018;D30 M04 m02 u18
+segunda-feira trinta de abril de dois mil e dezoito;False;W1 D30 M04 Y2000 Y0018;D30 M04 m02 u18
+sábado quatro de março de dois mil e seis;False;W6 D04 M03 Y2000 Y0006;W6 D04 M03 m02 u06
+sábado quatro de março de dois mil e seis;False;W6 D04 M03 Y2000 Y0006;W6 D04 M03 m02 u06
+ontem;False;- DC01;
+sexta-feira dois de janeiro de dois mil e quatro;False;W5 D02 M01 Y2000 Y0004;D02 M01 m02 u04
+sexta-feira dois de janeiro de dois mil e quatro;False;W5 D02 M01 Y2000 Y0004;D02 M01 m02 u04
+quatro do um de mil novecentos e cinquenta e cinco;False;D04 M01 Y1900 Y0055;D04 M01 m01 c09
+quatro do um de mil novecentos e cinquenta e cinco;False;D04 M01 Y1900 Y0055;D04 M01 m01 c09
+sábado onze de março de dois mil;False;W2 D11 M03 Y2000;W6 D11 M03 m02
+sábado onze de março de dois mil;False;W2 D11 M03 Y2000;W6 D11 M03 m02
+terça catorze de novembro de dois mil;False;W2 D14 M11 Y2000;W2 D14 M11 m02
+terça catorze de novembro de dois mil;False;W2 D14 M11 Y2000;W2 D14 M11 m02
+três de setembro de mil novecentos e setenta e nove;False;D03 M09 Y1900 Y0079;
+três de setembro de mil novecentos e setenta e nove;False;D03 M09 Y1900 Y0079;
+terça-feira quinze de dezembro de dois mil e vinte;False;W2 D15 M12 Y2000 Y0020;D15 M12 m02 u20
+terça-feira quinze de dezembro de dois mil e vinte;False;W2 D15 M12 Y2000 Y0020;D15 M12 m02 u20
+sexta três de julho de dois mil e quinze;False;W5 D03 M07 Y2000 Y0015;W5 D03 M07 m02 u15
+sexta três de julho de dois mil e quinze;False;W5 D03 M07 Y2000 Y0015;W5 D03 M07 m02 u15
+sexta onze de dezembro de mil novecentos e noventa e oito;False;W5 D11 M12 Y1900 Y0098;W5 D11 M12 m01 c09 d09 u08
+sexta onze de dezembro de mil novecentos e noventa e oito;False;W5 D11 M12 Y1900 Y0098;W5 D11 M12 m01 c09 d09 u08
+quinze do oito de mil novecentos e sessenta e dois;False;D15 M08 Y1900 Y0062;D15 M08 m01 c09 d06 u02
+quinze do oito de mil novecentos e sessenta e dois;False;D15 M08 Y1900 Y0062;D15 M08 m01 c09 d06 u02
+dezoito de dez de quarenta e nove;False;D18 M10 Y0049;d04 u09
+dezoito de dez de quarenta e nove;False;D18 M10 Y0049;d04 u09
+sábado dezessete de fevereiro de dois mil e dezoito;False;W6 D17 M02 Y2000 Y0018;W6 D17 M02 m02 u18
+sábado dezessete de fevereiro de dois mil e dezoito;False;W6 D17 M02 Y2000 Y0018;W6 D17 M02 m02 u18
+vinte e três do do dois de mil novecentos e setenta e um;False;D23 M02 Y1900 Y0071;D02 m01 c09
+vinte e três do do dois de mil novecentos e setenta e um;False;D23 M02 Y1900 Y0071;D02 m01 c09
+ontem de manhã;False;- DC01;
+catorze do quatro de mil novecentos e cinquenta e um;False;D14 M04 Y1900 Y0051;D14 M04 m01 c09
+catorze do quatro de mil novecentos e cinquenta e um;False;D14 M04 Y1900 Y0051;D14 M04 m01 c09
+trinta do três de oitenta e um;False;D30 M03 Y0081;d08 u01
+trinta do três de oitenta e um;False;D30 M03 Y0081;d08 u01
+quinta-feira dez de setembro de dois mil e vinte;False;W4 D10 M09 Y2000 Y0020;D10 M09 m02 u20
+quinta-feira dez de setembro de dois mil e vinte;False;W4 D10 M09 Y2000 Y0020;D10 M09 m02 u20
+sexta-feira dezoito de dezembro de dois mil e quinze;False;W2 D18 M12 Y2000 Y0015;D18 M12 m02 u15
+sexta-feira dezoito de dezembro de dois mil e quinze;False;W2 D18 M12 Y2000 Y0015;D18 M12 m02 u15
+seis de agosto de mil novecentos e quarenta e oito;False;D06 M08 Y1900 Y0048;D06 M08 m01 c09 d04 u08
+seis de agosto de mil novecentos e quarenta e oito;False;D06 M08 Y1900 Y0048;D06 M08 m01 c09 d04 u08
+terça-feira quatro de outubro de dois mil e onze;False;W2 D04 M10 Y2000 Y0011;D04 M10 m02 u11
+terça-feira quatro de outubro de dois mil e onze;False;W2 D04 M10 Y2000 Y0011;D04 M10 m02 u11
+domingo vinte e nove de maio de dois mil e onze;False;W7 D29 M05 Y2000 Y0011;W7 D29 M05 m02 u11
+domingo vinte e nove de maio de dois mil e onze;False;W7 D29 M05 Y2000 Y0011;W7 D29 M05 m02 u11
+sete do quatro de mil novecentos e setenta e sete;False;D07 M04 Y1900 Y0077;D07 M04 m01 c09
+sete do quatro de mil novecentos e setenta e sete;False;D07 M04 Y1900 Y0077;D07 M04 m01 c09
+primeiro de maio de mil novecentos e cinquenta e sete;False;D01 M05 Y1900 Y0057;
+primeiro de maio de mil novecentos e cinquenta e sete;False;D01 M05 Y1900 Y0057;
+quarta cinco de novembro de dois mil e catorze;False;W3 D05 M11 Y2000 Y0014;W3 D05 M11 m02 u14
+quarta cinco de novembro de dois mil e catorze;False;W3 D05 M11 Y2000 Y0014;W3 D05 M11 m02 u14
+quatro do sete de mil novecentos e cinquenta e um;False;D04 M04 Y1900 Y0051;D04 M07 m01 c09
+quatro do sete de mil novecentos e cinquenta e um;False;D04 M04 Y1900 Y0051;D04 M07 m01 c09
+quinta-feira vinte e seis de maio de dois mil e dezesseis;False;W4 D26 M05 Y2000 Y0016;D26 M05 m02 u16
+quinta-feira vinte e seis de maio de dois mil e dezesseis;False;W4 D26 M05 Y2000 Y0016;D26 M05 m02 u16
+quarta trinta e um de março de dois mil e dez;False;W3 D31 M03 Y2000 Y0010;W3 D31 M03 m02 u10
+quarta trinta e um de março de dois mil e dez;False;W3 D31 M03 Y2000 Y0010;W3 D31 M03 m02 u10
+vinte de janeiro de mil novecentos e setenta e dois;False;D20 M01 Y1900 Y0072;
+vinte de janeiro de mil novecentos e setenta e dois;False;D20 M01 Y1900 Y0072;
+dois do dez de oitenta;False;D02 M02 Y0080;
+dois do dez de oitenta;False;D02 M02 Y0080;
+hoje à tarde;False;DC00;
+anteontem;False;- DC02;
+sábado seis de março de dois mil e quatro;False;W6 D06 M03 Y2000 Y0004;W6 D06 M03 m02 u04
+sábado seis de março de dois mil e quatro;False;W6 D06 M03 Y2000 Y0004;W6 D06 M03 m02 u04
+oito do onze de setenta e cinco;False;D08 M11 Y0075;u05
+oito do onze de setenta e cinco;False;D08 M11 Y0075;u05
+terça-feira dezesseis de abril de dois mil e treze;False;W2 D16 M04 Y2000 Y0013;D16 M04 m02 u13
+terça-feira dezesseis de abril de dois mil e treze;False;W2 D16 M04 Y2000 Y0013;D16 M04 m02 u13
+dezoito de janeiro de mil novecentos e setenta e dois;False;D18 M01 Y1900 Y0072;
+dezoito de janeiro de mil novecentos e setenta e dois;False;D18 M01 Y1900 Y0072;
+sete do sete de mil novecentos e cinquenta e três;False;D07 M07 Y1900 Y0053;D07 M07 m01 c09
+sete do sete de mil novecentos e cinquenta e três;False;D07 M07 Y1900 Y0053;D07 M07 m01 c09
+quarta-feira dezenove de outubro de dois mil e cinco;False;W3 D19 M10 Y2000 Y0005;D19 M10 m02 u05
+quarta-feira dezenove de outubro de dois mil e cinco;False;W3 D19 M10 Y2000 Y0005;D19 M10 m02 u05
+dezoito do quatro de mil novecentos e setenta e oito;False;D18 M04 Y1900 Y0078;
+dezoito do quatro de mil novecentos e setenta e oito;False;D18 M04 Y1900 Y0078;
+dez do cinco de setenta e um;False;D10 M05 Y0071;u01
+dez do cinco de setenta e um;False;D10 M05 Y0071;u01
+onze do sete de mil novecentos e cinquenta e sete;False;D11 M07 Y1900 Y0057;D11 M07 m01 c09
+onze do sete de mil novecentos e cinquenta e sete;False;D11 M07 Y1900 Y0057;D11 M07 m01 c09
+ontem;False;- DC01;
+quinta trinta de agosto de dois mil e sete;False;W4 D30 M08 Y2000 Y0007;W4 D30 M08 m02 u07
+quinta trinta de agosto de dois mil e sete;False;W4 D30 M08 Y2000 Y0007;W4 D30 M08 m02 u07
+trinta de janeiro de mil novecentos e cinquenta e oito;False;D30 M01 Y1900 Y0058;D30 M01 m01 c09
+trinta de janeiro de mil novecentos e cinquenta e oito;False;D30 M01 Y1900 Y0058;D30 M01 m01 c09
+sete de julho de mil novecentos e cinquenta e quatro;False;D07 M07 Y1900 Y0054;D07 M07 m01 c09
+sete de julho de mil novecentos e cinquenta e quatro;False;D07 M07 Y1900 Y0054;D07 M07 m01 c09
+dezoito de março de cinquenta e sete;False;D18 M03 Y0057;u07
+dezoito de março de cinquenta e sete;False;D18 M03 Y0057;u07
+no mês passado;False;MC01 -;
+sexta-feira dezoito de novembro de dois mil e dezesseis;False;W5 D18 M11 Y2000 Y0016;D18 M11 m02 u16
+sexta-feira dezoito de novembro de dois mil e dezesseis;False;W5 D18 M11 Y2000 Y0016;D18 M11 m02 u16
+terça-feira treze de março de dois mil e dezoito;False;W2 D13 M03 Y2000 Y 0018;D13 M03 m02 u18
+terça-feira treze de março de dois mil e dezoito;False;W2 D13 M03 Y2000 Y 0018;D13 M03 m02 u18
+sexta quinze de dezembro de dois mil e dezessete;False;W5 D15 M12 Y2000 Y0017;W5 D15 M12 m02 u17
+sexta quinze de dezembro de dois mil e dezessete;False;W5 D15 M12 Y2000 Y0017;W5 D15 M12 m02 u17
+sete de um de cinquenta e sete;False;D07 M01 Y0057;
+sete de um de cinquenta e sete;False;D07 M01 Y0057;
+seis de julho de mil novecentos e setenta;False;D06 M07 Y1900 Y0070;D06 M07 m01 c09
+seis de julho de mil novecentos e setenta;False;D06 M07 Y1900 Y0070;D06 M07 m01 c09
+sexta-feira dezesseis de junho de dois mil e seis;False;W5 D16 M06 Y2000 Y0006;D16 M06 m02 u06
+sexta-feira dezesseis de junho de dois mil e seis;False;W5 D16 M06 Y2000 Y0006;D16 M06 m02 u06
+ontem à noite;False;- DC1;
+sábado onze de junho de dois mil e dezesseis;False;W6 D11 M06 Y2000 Y0016;W6 D11 M06 m02 u16
+sábado onze de junho de dois mil e dezesseis;False;W6 D11 M06 Y2000 Y0016;W6 D11 M06 m02 u16
+catorze do oito de cinquenta e um;False;D14 M08 Y0051;u01
+catorze do oito de cinquenta e um;False;D14 M08 Y0051;u01
+vinte e três do quatro de mil novecentos e setenta e um;False;D23 M04 Y1900 Y0071;
+vinte e três do quatro de mil novecentos e setenta e um;False;D23 M04 Y1900 Y0071;
+vinte e três do três de mil novecentos e cinquenta e seis;False;D23 M03 Y1900 Y0056;D23 M03 m01 c09
+vinte e três do três de mil novecentos e cinquenta e seis;False;D23 M03 Y1900 Y0056;D23 M03 m01 c09
+hoje à tarde;False;DC00;
+domingo vinte e um de fevereiro de mil novecentos e noventa e nove;False;W7 D21 M02 Y1900 Y0099;W7 D21 M02 m01 c09 d09 u09
+domingo vinte e um de fevereiro de mil novecentos e noventa e nove;False;W7 D21 M02 Y1900 Y0099;W7 D21 M02 m01 c09 d09 u09
+dez do seis de setenta e seis;False;D10 M06 Y0076;
+dez do seis de setenta e seis;False;D10 M06 Y0076;
+quarta vinte e cinco de novembro de mil novecentos e noventa e oito;False;W3 D25 M11 Y1900 Y0098;W3 D25 M11 m01 c09 d09 u08
+quarta vinte e cinco de novembro de mil novecentos e noventa e oito;False;W3 D25 M11 Y1900 Y0098;W3 D25 M11 m01 c09 d09 u08
+hoje cedo;False;DC00;
+terça-feira vinte e três de setembro de dois mil e catorze;False;W2 D23 M09 Y2000 Y0014;D23 M09 m02 u14
+terça-feira vinte e três de setembro de dois mil e catorze;False;W2 D23 M09 Y2000 Y0014;D23 M09 m02 u14
+amanhã;False;+ DC01;
+dez do seis de cinquenta e quatro;False;D10 M06 Y0054;u04
+dez do seis de cinquenta e quatro;False;D10 M06 Y0054;u04
+cinco do um do sessenta e três;False;D05 M01 Y0063;D05 M01 d06 u03
+cinco do um do sessenta e três;False;D05 M01 Y0063;D05 M01 d06 u03
+onze do nove de oitenta e cinco;False;D11 M09 Y0085;d08 u05
+onze do nove de oitenta e cinco;False;D11 M09 Y0085;d08 u05
+hoje cedo;False;DC00;
+segunda-feira onze de abril de dois mil e onze;False;W1 D11 M04 Y2000 Y0011;D11 M04 m02 u11
+segunda-feira onze de abril de dois mil e onze;False;W1 D11 M04 Y2000 Y0011;D11 M04 m02 u11
+vinte e oito do quatro de oitenta e seis;False;D28 M04 Y0086;d08 u06
+vinte e oito do quatro de oitenta e seis;False;D28 M04 Y0086;d08 u06
+segunda dezesseis de janeiro de dois mil e doze;False;W1 D16 M01 Y2000 Y0012;W1 D16 M01 m02 u12
+segunda dezesseis de janeiro de dois mil e doze;False;W1 D16 M01 Y2000 Y0012;W1 D16 M01 m02 u12
+segunda-feira vinte e sete de outubro de dois mil e oito;False;W1 D27 M10 Y2000 Y0008;D27 M10 m02 u08
+segunda-feira vinte e sete de outubro de dois mil e oito;False;W1 D27 M10 Y2000 Y0008;D27 M10 m02 u08
+três do quatro de oitenta e dois;False;D03 M04 Y0082;d08 u02
+três do quatro de oitenta e dois;False;D03 M04 Y0082;d08 u02
+segunda vinte e seis de setembro de dois mil e onze;False;W1 D26 M09 Y2000 Y0011;W1 D26 M09 m02 u11
+segunda vinte e seis de setembro de dois mil e onze;False;W1 D26 M09 Y2000 Y0011;W1 D26 M09 m02 u11
+oito do quatro de oitenta e sete;False;D08 M04 Y0087;d08 u07
+oito do quatro de oitenta e sete;False;D08 M04 Y0087;d08 u07
+quarta vinte de fevereiro de dois mil e dezenove;False;W3 D20 M02 Y2000 Y0019;W3 D20 M02 m02 u19
+quarta vinte de fevereiro de dois mil e dezenove;False;W3 D20 M02 Y2000 Y0019;W3 D20 M02 m02 u19
+quarta-feira quinze de setembro de dois mil e dez;False;W3 D15 M09 Y2000 Y0010;D15 M09 m02 u10
+quarta-feira quinze de setembro de dois mil e dez;False;W3 D15 M09 Y2000 Y0010;D15 M09 m02 u10
+vinte e cinco do cinco de setenta e cinco;False;D25 M05 Y0075;
+vinte e cinco do cinco de setenta e cinco;False;D25 M05 Y0075;
+quarta-feira dois de novembro de dois mil e dezesseis;False;W3 D02 M11 Y2000 Y0016;D02 M11 m02 u16
+quarta-feira dois de novembro de dois mil e dezesseis;False;W3 D02 M11 Y2000 Y0016;D02 M11 m02 u16
+quinta seis de fevereiro de dois mil e catorze;False;W4 D06 M02 Y2000 Y0014;W4 D06 M02 m02 u14
+quinta seis de fevereiro de dois mil e catorze;False;W4 D06 M02 Y2000 Y0014;W4 D06 M02 m02 u14
+vinte do três de setenta e um;False;D20 M03 Y0071;u01
+vinte do três de setenta e um;False;D20 M03 Y0071;u01
+terça dezessete de setembro de dois mil e dois;False;W2 D17 M09 Y2000 Y0002;W2 D17 M09 m02 u02
+terça dezessete de setembro de dois mil e dois;False;W2 D17 M09 Y2000 Y0002;W2 D17 M09 m02 u02
+quarta catorze de agosto de dois mil e treze;False;W3 D14 M08 Y2000 Y0013;W3 D14 M08 m02 u13
+quarta catorze de agosto de dois mil e treze;False;W3 D14 M08 Y2000 Y0013;W3 D14 M08 m02 u13
+nove de março de mil novecentos e setenta e sete;False;D09 M03 Y1900 Y0077;
+nove de março de mil novecentos e setenta e sete;False;D09 M03 Y1900 Y0077;
+quarta-feira doze de maio de mil novecentos e noventa e nove;False;W3 D12 M05 Y1900 Y0099;D12 M05 m01 c09 d09 u09
+quarta-feira doze de maio de mil novecentos e noventa e nove;False;W3 D12 M05 Y1900 Y0099;D12 M05 m01 c09 d09 u09
+vinte do dez de cinquenta e nove;False;D20 M10 Y0059;u09
+vinte do dez de cinquenta e nove;False;D20 M10 Y0059;u09
+amanhã;False;+ DC01;
+quarta seis de fevereiro de dois mil e oito;False;W3 D06 M02 Y2000 Y0008;W3 D06 M02 m02 u08
+quarta seis de fevereiro de dois mil e oito;False;W3 D06 M02 Y2000 Y0008;W3 D06 M02 m02 u08
+quinta-feira quinze de junho de dois mil;False;W4 D15 M06 Y2000;D15 M06 m02
+quinta-feira quinze de junho de dois mil;False;W4 D15 M06 Y2000;D15 M06 m02
+vinte e seis de novembro de mil novecentos e sessenta e oito;False;D26 M11 Y1900 Y0068;D26 M11 m01 c09 d06 u08
+vinte e seis de novembro de mil novecentos e sessenta e oito;False;D26 M11 Y1900 Y0068;D26 M11 m01 c09 d06 u08
+quinta quatro de setembro de dois mil e três;False;W4 D04 M09 Y2000 Y0003;W4 D04 M09 m02 u03
+quinta quatro de setembro de dois mil e três;False;W4 D04 M09 Y2000 Y0003;W4 D04 M09 m02 u03
+domingo dezenove de abril de dois mil e vinte;False;W7 D19 M04 Y2000 Y0020;W7 D19 M04 m02 u20
+domingo dezenove de abril de dois mil e vinte;False;W7 D19 M04 Y2000 Y0020;W7 D19 M04 m02 u20
+no mês passado;False;MC01 -;
+sábado dezesseis de outubro de dois mil e quatro;False;W6 D16 M10 Y2000 Y0004;W6 D16 M10 m02 u04
+sábado dezesseis de outubro de dois mil e quatro;False;W6 D16 M10 Y2000 Y0004;W6 D16 M10 m02 u04
+sexta-feira três de agosto dois mil e doze;False;W5 D03 M08 Y2000 Y0012;D03 M08 m02 u12
+sexta-feira três de agosto dois mil e doze;False;W5 D03 M08 Y2000 Y0012;D03 M08 m02 u12
+quarta-feira oito de fevereiro de dois mil e seis;False;W3 D08 M02 Y2000 Y0006;D08 M02 m02 u06
+quarta-feira oito de fevereiro de dois mil e seis;False;W3 D08 M02 Y2000 Y0006;D08 M02 m02 u06
+vinte e oito do oito de cinquenta e nove;False;D28 M08 Y0059;
+vinte e oito do oito de cinquenta e nove;False;D28 M08 Y0059;
+domingo vinte e dois de abril de dois mil e dezoito;False;W7 D22 M04 Y2000 Y0018;W7 D22 M04 m02 u18
+domingo vinte e dois de abril de dois mil e dezoito;False;W7 D22 M04 Y2000 Y0018;W7 D22 M04 m02 u18
+no ano passado;False;YC01 -;
+domingo um de setembro de dois mil e dois;False;W7 D01 M09 Y2000 Y0002;W7 D01 M09 m02 u02
+domingo um de setembro de dois mil e dois;False;W7 D01 M09 Y2000 Y0002;W7 D01 M09 m02 u02
+amanhã à noite;False;+ DC01;
+dezesseis de doze de quarenta e dois;False;D16 M12 Y0042;d04 u02
+dezesseis de doze de quarenta e dois;False;D16 M12 Y0042;d04 u02
+trinta do do quatro de mil novecentos e sessenta e seis;False;D30 M04 Y1900 Y0066;D04 m01 c09 d06 u06
+trinta do do quatro de mil novecentos e sessenta e seis;False;D30 M04 Y1900 Y0066;D04 m01 c09 d06 u06
+domingo dezoito de fevereiro de dois mil e um;False;W7 D18 M02 Y2000 Y0001;W7 D18 M02 m02 u01
+domingo dezoito de fevereiro de dois mil e um;False;W7 D18 M02 Y2000 Y0001;W7 D18 M02 m02 u01
+quinta-feira três de agosto de dois mil e seis;False;W4 D03 M08 Y2000 Y0006;D03 M08 m02 u06
+quinta-feira três de agosto de dois mil e seis;False;W4 D03 M08 Y2000 Y0006;D03 M08 m02 u06
+segunda-feira quatro de janeiro de mil novecentos e noventa e nove;False;W1 D04 M01 Y1900 Y0099;D04 M01 m01 c09 d09 u09
+segunda-feira quatro de janeiro de mil novecentos e noventa e nove;False;W1 D04 M01 Y1900 Y0099;D04 M01 m01 c09 d09 u09
+terça-feira vinte e nove de janeiro de dois mil e oito;False;W2 D29 M01 Y2000 Y0008;D29 M01 m02 u08
+terça-feira vinte e nove de janeiro de dois mil e oito;False;W2 D29 M01 Y2000 Y0008;D29 M01 m02 u08
+sábado vinte e seis de maio de dois mil e sete;False;W6 D26 M05 Y2000 Y0007;W6 D26 M05 m02 u07
+sábado vinte e seis de maio de dois mil e sete;False;W6 D26 M05 Y2000 Y0007;W6 D26 M05 m02 u07
+no mês que vem;False;MC01 +;
+trinta de janeiro de mil novecentos e quarenta e sete;False;D30 M01 Y1900 Y0047;D30 M01 m01 c09 d04 u07
+trinta de janeiro de mil novecentos e quarenta e sete;False;D30 M01 Y1900 Y0047;D30 M01 m01 c09 d04 u07
+segunda-feira catorze de setembro de mil novecentos e noventa e oito;False;W1 D14 M09 Y1900 Y0098;D14 M09 m01 c09 d09 u08
+segunda-feira catorze de setembro de mil novecentos e noventa e oito;False;W1 D14 M09 Y1900 Y0098;D14 M09 m01 c09 d09 u08
+sábado dezesseis de maio de dois mil e quinze;False;W6 D16 M05 Y2000 Y0015;W6 D16 M05 m02 u15
+sábado dezesseis de maio de dois mil e quinze;False;W6 D16 M05 Y2000 Y0015;W6 D16 M05 m02 u15
+quarta dezoito de maio de dois mil e dezesseis;False;W3 D18 M05 Y2000 Y0016;W3 D18 M05 m02 u16
+quarta dezoito de maio de dois mil e dezesseis;False;W3 D18 M05 Y2000 Y0016;W3 D18 M05 m02 u16
+terça-feira dezenove de outubro de mil novecentos e noventa e nove;False;W2 D19 M10 Y1900 Y0099;D19 M10 m01 c09 d09 u09
+terça-feira dezenove de outubro de mil novecentos e noventa e nove;False;W2 D19 M10 Y1900 Y0099;D19 M10 m01 c09 d09 u09
+primeiro de março de mil novecentos e cinquenta e sete;False;D01 M03 Y1900 Y0057;
+primeiro de março de mil novecentos e cinquenta e sete;False;D01 M03 Y1900 Y0057;
+no mês passado;False;MC01 -;
+amanhã à noite;False;+ DC01;
+sexta vinte e três de março de dois mil e sete;False;W5 D23 M03 Y2000 Y0007;W5 D23 M03 m02 u07
+sexta vinte e três de março de dois mil e sete;False;W5 D23 M03 Y2000 Y0007;W5 D23 M03 m02 u07
+dezessete de três de quarenta e três;False;D17 M03 Y0043;d04 u03
+dezessete de três de quarenta e três;False;D17 M03 Y0043;d04 u03
+vinte e oito do oito de cinquenta e oito;False;D28 M08 Y0058;
+vinte e oito do oito de cinquenta e oito;False;D28 M08 Y0058;
+segunda-feira vinte e seis de novembro de dois mil e sete;False;W1 D26 M11 Y2000 Y0007;D26 M11 m02 u07
+segunda-feira vinte e seis de novembro de dois mil e sete;False;W1 D26 M11 Y2000 Y0007;D26 M11 m02 u07
+vinte do dois do mil novecentos e setenta e dois;False;D20 M02 Y1900 Y0072;D20 M02 m01 c09
+vinte do dois do mil novecentos e setenta e dois;False;D20 M02 Y1900 Y0072;D20 M02 m01 c09
+trinta e um do três de setenta e cinco;False;D31 M03 Y0075;u05
+trinta e um do três de setenta e cinco;False;D31 M03 Y0075;u05
+quinta vinte e seis de fevereiro de mil novecentos e noventa e oito;False;W4 D26 M02 Y1900 Y0098;W4 D26 M02 m01 c09 d09 u08
+quinta vinte e seis de fevereiro de mil novecentos e noventa e oito;False;W4 D26 M02 Y1900 Y0098;W4 D26 M02 m01 c09 d09 u08
+onze do um de quarenta e três;False;D11 M01 Y0043;d04 u03
+onze do um de quarenta e três;False;D11 M01 Y0043;d04 u03
+dezoito de novembro de mil novecentos e oitenta;False;D18 M11 Y1900 Y0080;D18 M11 m01 c09 d08
+dezoito de novembro de mil novecentos e oitenta;False;D18 M11 Y1900 Y0080;D18 M11 m01 c09 d08
+onze do nove de mil novecentos e oitenta e dois;False;D11 M09 Y1900 Y0082;D11 M09 m01 c09 d08 u02
+onze do nove de mil novecentos e oitenta e dois;False;D11 M09 Y1900 Y0082;D11 M09 m01 c09 d08 u02
+domingo vinte e cinco de janeiro de mil novecentos e noventa e oito;False;W7 D25 M01 Y1900 Y0098;W7 D25 M01 m01 c09 d09 u08
+domingo vinte e cinco de janeiro de mil novecentos e noventa e oito;False;W7 D25 M01 Y1900 Y0098;W7 D25 M01 m01 c09 d09 u08
+sábado oito de julho de dois mil e dezessete;False;W6 D08 M07 Y2000 Y0017;W6 D08 M07 m02 u17
+sábado oito de julho de dois mil e dezessete;False;W6 D08 M07 Y2000 Y0017;W6 D08 M07 m02 u17
+quarta quatro de maio de dois mil e cinco;False;W3 D04 M05 Y2000 Y0005;W3 D04 M05 m02 u05
+quarta quatro de maio de dois mil e cinco;False;W3 D04 M05 Y2000 Y0005;W3 D04 M05 m02 u05
+domingo treze de setembro de dois mil e quinze;False;W7 D13 M09 Y2000 Y0015;W7 D13 M09 m02 u15
+domingo treze de setembro de dois mil e quinze;False;W7 D13 M09 Y2000 Y0015;W7 D13 M09 m02 u15
+quinta-feira cinco de janeiro de dois mil e dezessete;False;W4 D05 M01 Y2000 Y0017;D05 M01 m02 u17
+quinta-feira cinco de janeiro de dois mil e dezessete;False;W4 D05 M01 Y2000 Y0017;D05 M01 m02 u17
+quinta dezessete de novembro de dois mil e dezesseis;False;W4 D17 M11 Y2000 Y0016;W4 D17 M11 m02 u16
+quinta dezessete de novembro de dois mil e dezesseis;False;W4 D17 M11 Y2000 Y0016;W4 D17 M11 m02 u16
+vinte e nove do nove de cinquenta e quatro;False;D29 M09 Y0054;
+vinte e nove do nove de cinquenta e quatro;False;D29 M09 Y0054;
+no próximo mês;False;+ MC1;
+dezenove do oito de mil novecentos e cinquenta e oito;False;D19 M08 Y1900 Y0058;D19 M08 m01 c09
+dezenove do oito de mil novecentos e cinquenta e oito;False;D19 M08 Y1900 Y0058;D19 M08 m01 c09
+quatro de outubro de mil novecentos e oitenta e dois;False;D04 M10 Y1900 Y0082;D04 M10 m01 c09 d08 u02
+quatro de outubro de mil novecentos e oitenta e dois;False;D04 M10 Y1900 Y0082;D04 M10 m01 c09 d08 u02
+quarta sete de outubro de dois mil e quinze;False;W3 D07 M10 Y2000 Y0015;W3 D07 M10 m02 u15
+quarta sete de outubro de dois mil e quinze;False;W3 D07 M10 Y2000 Y0015;W3 D07 M10 m02 u15
+sexta-feira três de maio de dois mil e dezenove;False;W5 D03 M05 Y2000 Y0019;D03 M05 m02 u19
+sexta-feira três de maio de dois mil e dezenove;False;W5 D03 M05 Y2000 Y0019;D03 M05 m02 u19
+sábado vinte e oito de março de dois mil e nove;False;W6 D28 M03 Y2000 Y0009;W6 D28 M03 m02 u09
+sábado vinte e oito de março de dois mil e nove;False;W6 D28 M03 Y2000 Y0009;W6 D28 M03 m02 u09
+quinta-feira vinte e quatro de julho de dois mil e catorze;False;W4 D24 M07 Y2000 Y0014;D24 M07 m02 u14
+quinta-feira vinte e quatro de julho de dois mil e catorze;False;W4 D24 M07 Y2000 Y0014;D24 M07 m02 u14
+quarta dezenove de agosto de dois mil e nove;False;W3 D19 M08 Y2000 Y0009;W3 D19 M08 m02 u09
+quarta dezenove de agosto de dois mil e nove;False;W3 D19 M08 Y2000 Y0009;W3 D19 M08 m02 u09
+quarta quinze de novembro de dois mil e seis;False;W3 D15 M11 Y2000 Y0006;W3 D15 M11 m02 u06
+quarta quinze de novembro de dois mil e seis;False;W3 D15 M11 Y2000 Y0006;W3 D15 M11 m02 u06
+quinta-feira dezoito de abril de dois mil e dois;False;W4 D18 M04 Y2000 Y0002;D18 M04 m02 u02
+quinta-feira dezoito de abril de dois mil e dois;False;W4 D18 M04 Y2000 Y0002;D18 M04 m02 u02
+terça-feira dois de abril de dois mil e dois;False;W2 D02 M04 Y2000 Y0002;D02 M04 m02 u02
+terça-feira dois de abril de dois mil e dois;False;W2 D02 M04 Y2000 Y0002;D02 M04 m02 u02
+quinta vinte de agosto de dois mil e quinze;False;W4 D20 M08 Y2000 Y0015;W4 D20 M08 m02 u15
+quinta vinte de agosto de dois mil e quinze;False;W4 D20 M08 Y2000 Y0015;W4 D20 M08 m02 u15
+sexta vinte de dezembro de dois mil e treze;False;W5 D20 M12 Y2000 Y0013;W5 D20 M12 m02 u13
+sexta vinte de dezembro de dois mil e treze;False;W5 D20 M12 Y2000 Y0013;W5 D20 M12 m02 u13
+terça-feira catorze de janeiro de dois mil e vinte;False;W2 D14 M01 Y2000 Y0020;D14 M01 m02 u20
+terça-feira catorze de janeiro de dois mil e vinte;False;W2 D14 M01 Y2000 Y0020;D14 M01 m02 u20
+sexta um de dezembro de dois mil e seis;False;W5 D01 M12 Y2000 Y0006;W5 D01 M12 m02 u06
+sexta um de dezembro de dois mil e seis;False;W5 D01 M12 Y2000 Y0006;W5 D01 M12 m02 u06
+dezesseis do sete de oitenta e dois;False;D16 M07 Y0082;d08 u02
+dezesseis do sete de oitenta e dois;False;D16 M07 Y0082;d08 u02
+hoje cedo;False;DC00;
+mil novecentos e oitenta e três;False;Y1900 Y0083;m01 c09 d08 u03
+mil novecentos e oitenta e três;False;Y1900 Y0083;m01 c09 d08 u03
+domingo oito de abril de dois mil e sete;False;W7 D08 M04 Y2000 Y0007;W7 D08 M04 m02 u07
+domingo oito de abril de dois mil e sete;False;W7 D08 M04 Y2000 Y0007;W7 D08 M04 m02 u07
+quatro do onze de oitenta;False;D04 M11 Y0080;
+quatro do onze de oitenta;False;D04 M11 Y0080;
+domingo três de agosto de dois mil e três;False;W7 D03 M08 Y2000 Y0003;W7 D03 M08 m02 u03
+domingo três de agosto de dois mil e três;False;W7 D03 M08 Y2000 Y0003;W7 D03 M08 m02 u03
+vinte do três de oitenta e dois;False;D20 M03 Y0082;d08 u02
+vinte do três de oitenta e dois;False;D20 M03 Y0082;d08 u02
+quinta trinta de abril de dois mil e quinze;False;W4 D30 M04 Y2000 Y0015;W4 D30 M04 m02 u15
+quinta trinta de abril de dois mil e quinze;False;W4 D30 M04 Y2000 Y0015;W4 D30 M04 m02 u15
+catorze de setembro de mil novecentos e oitenta e um;False;D14 M09 Y1900 Y0081;D14 M09 m01 c09 d08 u01
+catorze de setembro de mil novecentos e oitenta e um;False;D14 M09 Y1900 Y0081;D14 M09 m01 c09 d08 u01
+segunda-feira vinte de agosto de dois mil e dezoito;False;W1 D20 M08 Y2000 Y0018;D20 M08 m02 u18
+segunda-feira vinte de agosto de dois mil e dezoito;False;W1 D20 M08 Y2000 Y0018;D20 M08 m02 u18
+sete de agosto de mil novecentos e sessenta e quatro;False;D07 M08 Y1900 Y0064;D07 M08 m01 c09 d06 u04
+sete de agosto de mil novecentos e sessenta e quatro;False;D07 M08 Y1900 Y0064;D07 M08 m01 c09 d06 u04
+quarta dez de novembro de dois mil e dez;False;W3 D10 M11 Y2000 Y0010;W3 D10 M11 m02 u10
+quarta dez de novembro de dois mil e dez;False;W3 D10 M11 Y2000 Y0010;W3 D10 M11 m02 u10
+terça nove de abril de dois mil e dezenove;False;W2 D09 M04 Y2000 Y0019;W2 D09 M04 m02 u19
+terça nove de abril de dois mil e dezenove;False;W2 D09 M04 Y2000 Y0019;W2 D09 M04 m02 u19
+sexta treze de março de dois mil e quinze;False;W5 D13 M03 Y2000 Y0015;W5 D13 M03 m02 u15
+sexta treze de março de dois mil e quinze;False;W5 D13 M03 Y2000 Y0015;W5 D13 M03 m02 u15
+dezesseis do nove de oitenta e um;False;D16 M09 Y0081;d08 u01
+dezesseis do nove de oitenta e um;False;D16 M09 Y0081;d08 u01
+vinte e um do quatro de sessenta e nove;False;D21 M04 Y0069;d06 u09
+vinte e um do quatro de sessenta e nove;False;D21 M04 Y0069;d06 u09
+dezessete do dez de cinquenta e sete;False;D17 M10 Y0057;u07
+dezessete do dez de cinquenta e sete;False;D17 M10 Y0057;u07
+sábado sete de abril de dois mil e um;False;W6 D07 M04 Y2000 Y0001;W6 D07 M04 m02 u01
+sábado sete de abril de dois mil e um;False;W6 D07 M04 Y2000 Y0001;W6 D07 M04 m02 u01
+sete de julho de mil novecentos e sessenta e sete;False;D07 M07 Y1900 Y0067;D07 M07 m01 c09 d06 u07
+sete de julho de mil novecentos e sessenta e sete;False;D07 M07 Y1900 Y0067;D07 M07 m01 c09 d06 u07
+terça feira passada nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+terça feira passada nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+quinta que vem nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;D09 M11 m02 u13
+quinta que vem nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;D09 M11 m02 u13
+na última segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+na última segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+no próximo dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+no próximo dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+treze de outubro de mil novecentos e noventa e três;False;D13 M10 Y1900 Y0093;D13 M10 m01 c09 d09 u03
+treze de outubro de mil novecentos e noventa e três;False;D13 M10 Y1900 Y0093;D13 M10 m01 c09 d09 u03
+vinte e oito de dois mil e vinte e um;False;D20 M08 Y2000 Y0021;D28 m02 u21
+vinte e oito de dois mil e vinte e um;False;D20 M08 Y2000 Y0021;D28 m02 u21
+sete do três de noventa e nove;False;D07 M03 Y0099;d09 u09
+sete do três de noventa e nove;False;D07 M03 Y0099;d09 u09
+seis do oito de dois mil e dez;False;D06 M08 Y2000 Y0010;D06 M08 m02 u10
+seis do oito de dois mil e dez;False;D06 M08 Y2000 Y0010;D06 M08 m02 u10
+primeiro de janeiro de dois mil;False;D01 M01 Y2000;m02
+primeiro de janeiro de dois mil;False;D01 M01 Y2000;m02
+quinta um do doze de dois mil;False;W4 D01 M12 Y2000;W4 D01 M12 m02
+quinta um do doze de dois mil;False;W4 D01 M12 Y2000;W4 D01 M12 m02
+terça feira nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+terça feira nove do onze de setenta e seis;False;W2 D09 M11 Y0076;u06
+sábado seis de março de dois mil e cinco;False;W6 D06 M03 Y2000 Y0005;W6 D06 M03 m02 u05
+sábado seis de março de dois mil e cinco;False;W6 D06 M03 Y2000 Y0005;W6 D06 M03 m02 u05
+sexta-feira treze de outubro de dois mil e dezenove;False;W5 D13 M10 Y2000 Y0019;D13 M10 m02 u19
+sexta-feira treze de outubro de dois mil e dezenove;False;W5 D13 M10 Y2000 Y0019;D13 M10 m02 u19
+quinta nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;W4 D09 M11 m02 u13
+quinta nove de novembro de dois mil e treze;False;W4 D09 M11 Y2000 Y0013;W4 D09 M11 m02 u13
+quarta-feira vinte e oito de setembro de dois mil e vinte;False;W3 D28 M09 Y2000 Y0020;D28 M09 m02 u20
+quarta-feira vinte e oito de setembro de dois mil e vinte;False;W3 D28 M09 Y2000 Y0020;D28 M09 m02 u20
+terça sete do sete de dois mil e sete;False;W2 D07 M07 Y2000 Y0007;W2 D07 M07 m02 u07
+terça sete do sete de dois mil e sete;False;W2 D07 M07 Y2000 Y0007;W2 D07 M07 m02 u07
+segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+segunda-feira treze de agosto de noventa e nove;False;W1 D13 M08 Y0099;d09 u09
+domingo vinte de novembro de vinte e dois;False;W7 D20 M11 Y0022;u22
+domingo vinte de novembro de vinte e dois;False;W7 D20 M11 Y0022;u22
+quatorze do três de oitenta e um;False;D14 M03 Y0081;d08 u01
+quatorze do três de oitenta e um;False;D14 M03 Y0081;d08 u01
+no dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+no dia um de novembro de mil novecentos e cinco;False;D01 M11 Y1900 Y0005;D01 M11 m01 c09 u05
+primeiro de junho de dois mil e vinte e um;False;D01 M06 Y2000 Y0021;m02 u21
+primeiro de junho de dois mil e vinte e um;False;D01 M06 Y2000 Y0021;m02 u21
+catorze de fevereiro de dois mil e vinte e um;False;D14 M02 Y2000 Y0021;D14 M02 m02 u21
+catorze de fevereiro de dois mil e vinte e um;False;D14 M02 Y2000 Y0021;D14 M02 m02 u21
+dezessete de dezembro de oitenta e sete;False;D17 M12 Y0087;d08 u07
+dezessete de dezembro de oitenta e sete;False;D17 M12 Y0087;d08 u07
+dois de junho de sessenta e cinco;False;D02 M06 Y0065;d06 u05
+dois de junho de sessenta e cinco;False;D02 M06 Y0065;d06 u05
+dia cinco de outubro de mil novecentos e oitenta e oito;False;D05 M10 Y1900 Y0088;D05 M10 m01 c09 d08 u08
+dia cinco de outubro de mil novecentos e oitenta e oito;False;D05 M10 Y1900 Y0088;D05 M10 m01 c09 d08 u08
+sete de setembro de oitenta e nove;False;D07 M09 Y0089;d08 u09
+sete de setembro de oitenta e nove;False;D07 M09 Y0089;d08 u09
+três de agosto de oitenta e nove;False;D03 M08 Y0089;d08 u09
+três de agosto de oitenta e nove;False;D03 M08 Y0089;d08 u09
+vinte e cinco julho de dois mil e dezenove;False;D25 M07 Y2000 Y0019;m02 u19
+vinte e cinco julho de dois mil e dezenove;False;D25 M07 Y2000 Y0019;m02 u19
+vinte e sete de março de dois mil e vinte;False;D27 M03 Y2000 Y0020;D27 M03 m02 u20
+vinte e sete de março de dois mil e vinte;False;D27 M03 Y2000 Y0020;D27 M03 m02 u20
+um do dois de dois mil e dezoito;False;D01 M02 Y2000 Y0018;D01 M02 m02 u18
+um do dois de dois mil e dezoito;False;D01 M02 Y2000 Y0018;D01 M02 m02 u18
+trinta de janeiro de dois mil e quinze;False;D30 M01 Y2000 Y0015;D30 M01 m02 u15
+trinta de janeiro de dois mil e quinze;False;D30 M01 Y2000 Y0015;D30 M01 m02 u15
+trinta e um do doze de dois mil e treze;False;D31 M12 Y2000 Y0013;D31 M12 m02 u13
+trinta e um do doze de dois mil e treze;False;D31 M12 Y2000 Y0013;D31 M12 m02 u13
+vinte e nove do onze de dois mil e doze;False;D29 M11 Y2000 Y0012;D29 M11 m02 u12
+vinte e nove do onze de dois mil e doze;False;D29 M11 Y2000 Y0012;D29 M11 m02 u12
+vinte e oito do dez de dois mil e onze;False;D28 M10 Y2000 Y0011;D28 M10 m02 u11
+vinte e oito do dez de dois mil e onze;False;D28 M10 Y2000 Y0011;D28 M10 m02 u11
+vinte e sete do nove de dois mil e dez;False;D27 M09 Y2000 Y0010;D27 M09 m02 u10
+vinte e sete do nove de dois mil e dez;False;D27 M09 Y2000 Y0010;D27 M09 m02 u10
+vinte e seis do sete de dois mil e nove;False;D26 M07 Y2000 Y0009;D26 M07 m02 u09
+vinte e seis do sete de dois mil e nove;False;D26 M07 Y2000 Y0009;D26 M07 m02 u09
+vinte e cinco do oito de dois mil e oito;False;D25 M08 Y2000 Y0008;D25 M08 m02 u08
+vinte e cinco do oito de dois mil e oito;False;D25 M08 Y2000 Y0008;D25 M08 m02 u08
+vinte e quatro do seis de dois mil e sete;False;D24 M06 Y2000 Y0007;D24 M06 m02 u07
+vinte e quatro do seis de dois mil e sete;False;D24 M06 Y2000 Y0007;D24 M06 m02 u07
+vinte e três do quatro de dois mil e oito;False;D23 M04 Y2000 Y0008;D23 M04 m02 u08
+vinte e três do quatro de dois mil e oito;False;D23 M04 Y2000 Y0008;D23 M04 m02 u08
+vinte e um do dois de dois mil e sete;False;D21 M02 Y2000 Y0007;D21 M02 m02 u07
+vinte e um do dois de dois mil e sete;False;D21 M02 Y2000 Y0007;D21 M02 m02 u07
+vinte do um de dois mil e seis;False;D20 M01 Y2000 Y0006;D20 M01 m02 u06
+vinte do um de dois mil e seis;False;D20 M01 Y2000 Y0006;D20 M01 m02 u06
+dezenove do doze de dois mil e cinco;False;D19 M12 Y2000 Y0005;D19 M12 m02 u05
+dezenove do doze de dois mil e cinco;False;D19 M12 Y2000 Y0005;D19 M12 m02 u05
+dezoito de novembro de dois mil e quatro;False;D18 M11 Y2000 Y0004;D18 M11 m02 u04
+dezoito de novembro de dois mil e quatro;False;D18 M11 Y2000 Y0004;D18 M11 m02 u04
+dezessete de outubro de dois mil e três;False;D17 M10 Y2000 Y0003;D17 M10 m02 u03
+dezessete de outubro de dois mil e três;False;D17 M10 Y2000 Y0003;D17 M10 m02 u03
+dezesseis de setembro de dois mil e dois;False;D16 M09 Y2000 Y0002;D16 M09 m02 u02
+dezesseis de setembro de dois mil e dois;False;D16 M09 Y2000 Y0002;D16 M09 m02 u02
+quinze de agosto de dois mil e um;False;D15 M08 Y2000 Y0001;D15 M08 m02 u01
+quinze de agosto de dois mil e um;False;D15 M08 Y2000 Y0001;D15 M08 m02 u01
+catorze de julho do ano dois mil;False;D14 M07 Y2000;D14 M07 m02
+catorze de julho do ano dois mil;False;D14 M07 Y2000;D14 M07 m02
+treze de junho de mil novecentos e noventa e nove;False;D13 M06 Y1900 Y0099;D13 M06 m01 c09 d09 u09
+treze de junho de mil novecentos e noventa e nove;False;D13 M06 Y1900 Y0099;D13 M06 m01 c09 d09 u09
+doze de maio de mil novecentos e noventa e oito;False;D12 M05 Y1900 Y0098;D12 M05 m01 c09 d09 u08
+doze de maio de mil novecentos e noventa e oito;False;D12 M05 Y1900 Y0098;D12 M05 m01 c09 d09 u08
+primeiro de abril de mil novecentos e noventa e sete;False;D01 M04 Y1900 Y0097;m01 c09 d09 u07
+primeiro de abril de mil novecentos e noventa e sete;False;D01 M04 Y1900 Y0097;m01 c09 d09 u07
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+onze de março de mil novecentos e noventa e cinco;False;D11 M03 Y1900 Y0095;D11 M03 m01 c09 d09 u05
+treze de fevereiro de mil novecentos e noventa e seis;False;D13 M02 Y1900 Y0096;D13 M02 m01 c09 d09 u06
+treze de fevereiro de mil novecentos e noventa e seis;False;D13 M02 Y1900 Y0096;D13 M02 m01 c09 d09 u06
+nove de janeiro de mil novecentos e noventa e quatro;False;D09 M01 Y1900 Y0094;D09 M01 m01 c09 d09 u04
+nove de janeiro de mil novecentos e noventa e quatro;False;D09 M01 Y1900 Y0094;D09 M01 m01 c09 d09 u04
+oito de dezembro de mil novecentos e noventa e três;False;D08 M12 Y1900 Y0093;D08 M12 m01 c09 d09 u03
+oito de dezembro de mil novecentos e noventa e três;False;D08 M12 Y1900 Y0093;D08 M12 m01 c09 d09 u03
+domingo sete de julho de dois mil e dois;False;W7 D07 M07 Y2000 Y0002;W7 D07 M07 m02 u02
+domingo sete de julho de dois mil e dois;False;W7 D07 M07 Y2000 Y0002;W7 D07 M07 m02 u02
+sábado vinte e oito de outubro de dois mil e dezessete;False;W6 D20 M10 Y2000 Y0017;W6 D28 M10 m02 u17
+sábado vinte e oito de outubro de dois mil e dezessete;False;W6 D20 M10 Y2000 Y0017;W6 D28 M10 m02 u17
+dezessete de novembro de mil novecentos e setenta e dois;False;D17 M11 Y1900 Y0072;
+dezessete de novembro de mil novecentos e setenta e dois;False;D17 M11 Y1900 Y0072;
+sábado vinte de setembro de dois mil e três;False;W6 D20 M09 Y2000 Y0003;W6 D20 M09 m02 u03
+sábado vinte de setembro de dois mil e três;False;W6 D20 M09 Y2000 Y0003;W6 D20 M09 m02 u03
+dezenove do três de mil novecentos e cinquenta e sete;False;D19 M03 Y1900 Y0057;D19 M03 m01 c09
+dezenove do três de mil novecentos e cinquenta e sete;False;D19 M03 Y1900 Y0057;D19 M03 m01 c09
+cinco do um de setenta e nove;False;D05 M01 Y0079;u09
+cinco do um de setenta e nove;False;D05 M01 Y0079;u09
+dia primeiro do cinco de cinquenta e oito;False;D01 M05 Y0058;u08
+dia primeiro do cinco de cinquenta e oito;False;D01 M05 Y0058;u08
+sexta trinta de dezembro de dois mil e cinco;False;W5 D30 M12 Y2000 Y0005;W5 D30 M12 m02 u05
+sexta trinta de dezembro de dois mil e cinco;False;W5 D30 M12 Y2000 Y0005;W5 D30 M12 m02 u05
+sexta trinta de agosto de dois mil e treze;False;W5 D30 M08 Y2000 Y0013;W5 D30 M08 m02 u13
+sexta trinta de agosto de dois mil e treze;False;W5 D30 M08 Y2000 Y0013;W5 D30 M08 m02 u13
+domingo vinte e sete de abril de dois mil e quatorze;False;W7 D27 M04 Y2000 Y0014;W7 D27 M04 m02
+domingo vinte e sete de abril de dois mil e quatorze;False;W7 D27 M04 Y2000 Y0014;W7 D27 M04 m02
+vinte e oito do oito de sessenta e três;False;D28 M08 Y0063;d06 u03
+vinte e oito do oito de sessenta e três;False;D28 M08 Y0063;d06 u03
+dez de abril de mil novecentos e quarenta e sete;False;D10 M04 Y1900 Y0047;D10 M04 m01 c09 d04 u07
+dez de abril de mil novecentos e quarenta e sete;False;D10 M04 Y1900 Y0047;D10 M04 m01 c09 d04 u07
+quarta vinte e três de dezembro de dois mil e vinte;False;W3 D23 M12 Y2000 Y0020;W3 D23 M12 m02 u20
+quarta vinte e três de dezembro de dois mil e vinte;False;W3 D23 M12 Y2000 Y0020;W3 D23 M12 m02 u20
+domingo onze de fevereiro de dois mil e sete;False;W7 D11 M02 Y2000 Y0007;W7 D11 M02 m02 u07
+domingo onze de fevereiro de dois mil e sete;False;W7 D11 M02 Y2000 Y0007;W7 D11 M02 m02 u07
+quarta doze de setembro de dois mil e doze;False;W3 D12 M09 Y2000 Y0012;W3 D12 M09 m02 u12
+quarta doze de setembro de dois mil e doze;False;W3 D12 M09 Y2000 Y0012;W3 D12 M09 m02 u12
+sábado dois de novembro vinte treze;False;W6 D02 M11 Y2000 Y0013;W6 D02 M11
+sábado dois de novembro vinte treze;False;W6 D02 M11 Y2000 Y0013;W6 D02 M11
+quinze de janeiro de mil novecentos e quarenta e nove;False;D15 M01 Y1900 Y0049;D15 M01 m01 c09 d04 u09
+quinze de janeiro de mil novecentos e quarenta e nove;False;D15 M01 Y1900 Y0049;D15 M01 m01 c09 d04 u09
+quarta-feira vinte e sete de agosto de dois mil e três;False;W3 D27 M08 Y2000 Y0003;D27 M08 m02 u03
+quarta-feira vinte e sete de agosto de dois mil e três;False;W3 D27 M08 Y2000 Y0003;D27 M08 m02 u03
+dezenove do sete de mil novecentos e setenta e um;False;D19 M07 Y1900 Y0071;
+dezenove do sete de mil novecentos e setenta e um;False;D19 M07 Y1900 Y0071;
+quinta-feira dezessete de maio de dois mil e um;False;W4 D17 M05 Y2000 Y0001;D17 M05 m02 u01
+quinta-feira dezessete de maio de dois mil e um;False;W4 D17 M05 Y2000 Y0001;D17 M05 m02 u01
+domingo vinte e sete de janeiro de dois mil e dezenove;False;W7 D27 M01 Y2000 Y0019;W7 D27 M01 m02 u19
+domingo vinte e sete de janeiro de dois mil e dezenove;False;W7 D27 M01 Y2000 Y0019;W7 D27 M01 m02 u19
+nove do um de sessenta e seis;False;D09 M01 Y0066;d06 u06
+nove do um de sessenta e seis;False;D09 M01 Y0066;d06 u06
+um do onze de mil novecentos e sessenta e oito;False;D01 M11 Y1900 Y0068;D01 M11 m01 c09 d06 u08
+um do onze de mil novecentos e sessenta e oito;False;D01 M11 Y1900 Y0068;D01 M11 m01 c09 d06 u08
+dez dos quatro de sessenta e oito;False;D10 M04 Y0068;d06 u08
+dez dos quatro de sessenta e oito;False;D10 M04 Y0068;d06 u08
+seis de novembro de mil novecentos e setenta;False;D06 M11 Y1900 Y0070;D06 M11 m01 c09
+seis de novembro de mil novecentos e setenta;False;D06 M11 Y1900 Y0070;D06 M11 m01 c09
+nove do doze do cinquenta e oito;False;D09 M12 Y0058;u08
+nove do doze do cinquenta e oito;False;D09 M12 Y0058;u08
+quarta-feira vinte e nove de junho de dois mil e cinco;False;W3 D29 M06 Y2000 Y0005;D29 M06 m02 u05
+quarta-feira vinte e nove de junho de dois mil e cinco;False;W3 D29 M06 Y2000 Y0005;D29 M06 m02 u05
+oito do dez cinco nove;False;D08 M10 Y0059;D08 u10
+oito do dez cinco nove;False;D08 M10 Y0059;D08 u10
+vinte e nove do sete de setenta;False;D29 M07 Y0070;
+vinte e nove do sete de setenta;False;D29 M07 Y0070;
+trinta do onze de mil novecentos e cinquenta e nove;False;D30 M11 Y1900 Y0059;D30 M11 m01 c09
+trinta do onze de mil novecentos e cinquenta e nove;False;D30 M11 Y1900 Y0059;D30 M11 m01 c09
+vinte e dois do seis do meia meia;False;D22 M06 Y0066;D22 u06
+vinte e dois do seis do meia meia;False;D22 M06 Y0066;D22 u06
+dez do dez de setenta e quatro;False;D10 M10 Y0074;u04
+dez do dez de setenta e quatro;False;D10 M10 Y0074;u04
+quinta dez de dezembro de dois mil e quinze;False;W4 D10 M12 Y2000 Y0015;W4 D10 M12 m02 u15
+quinta dez de dezembro de dois mil e quinze;False;W4 D10 M12 Y2000 Y0015;W4 D10 M12 m02 u15
+segunda de março de mil novecentos e noventa e oito;False;W1 M03 Y1900 Y0098;m01 c09 d09 u08
+segunda de março de mil novecentos e noventa e oito;False;W1 M03 Y1900 Y0098;m01 c09 d09 u08
+domingo dezoito de abril de mil novecentos e noventa e nove;False;W7 D18 M04 Y1900 Y0099;W7 D18 M04 m01 c09 d09 u09
+domingo dezoito de abril de mil novecentos e noventa e nove;False;W7 D18 M04 Y1900 Y0099;W7 D18 M04 m01 c09 d09 u09
+vinte e seis do quatro mil novecentos e setenta e um;False;D26 M04 Y1900 Y0071;u01
+vinte e seis do quatro mil novecentos e setenta e um;False;D26 M04 Y1900 Y0071;u01
+doze de outubro de mil novecentos e oitenta e um;False;D12 M10 Y1900 Y0081;D12 M10 m01 c09 d08 u01
+doze de outubro de mil novecentos e oitenta e um;False;D12 M10 Y1900 Y0081;D12 M10 m01 c09 d08 u01
+vinte e nove do nove de mil novecentos e sessenta e três;False;D29 M09 Y1900 Y0063;D29 M09 m01 c09 d06 u03
+vinte e nove do nove de mil novecentos e sessenta e três;False;D29 M09 Y1900 Y0063;D29 M09 m01 c09 d06 u03
+doze do quatro de cinquenta e sete;False;D12 M04 Y0057;u07
+doze do quatro de cinquenta e sete;False;D12 M04 Y0057;u07
+trinta e um do um de setenta e um;False;D31 M01 Y0071;
+trinta e um do um de setenta e um;False;D31 M01 Y0071;
+cinco do quatro de mil novecentos e sessenta e nove;False;D05 M04 Y1900 Y0069;D05 M04 m01 c09 d06 u09
+cinco do quatro de mil novecentos e sessenta e nove;False;D05 M04 Y1900 Y0069;D05 M04 m01 c09 d06 u09
+sábado onze de agosto de de dois mil e doze;False;W6 D11 M08 Y2000 Y0012;m02 u12
+sábado onze de agosto de de dois mil e doze;False;W6 D11 M08 Y2000 Y0012;m02 u12
+quinze do onze de mil novecentos e oitenta e um;False;D15 M11 Y1900 Y0081;D15 M11 m01 c09 d08 u01
+quinze do onze de mil novecentos e oitenta e um;False;D15 M11 Y1900 Y0081;D15 M11 m01 c09 d08 u01
+domingo vinte e nove de agosto de dois mil e quatro;False;W7 D29 M08 Y2000 Y0004;W7 D29 M08 m02 u04
+domingo vinte e nove de agosto de dois mil e quatro;False;W7 D29 M08 Y2000 Y0004;W7 D29 M08 m02 u04
+vinte e seis do doze de mil novecentos e setenta;False;D26 M12 Y1900 Y0070;D26 M12 m01 c09
+vinte e seis do doze de mil novecentos e setenta;False;D26 M12 Y1900 Y0070;D26 M12 m01 c09
+vinte e quatro dos de do onze de mil novecentos e quarenta e dois;False;D24 M11 Y1900 Y0042;D11 m01 c09 d04 u02
+vinte e quatro dos de do onze de mil novecentos e quarenta e dois;False;D24 M11 Y1900 Y0042;D11 m01 c09 d04 u02
+sexta-feira sete de janeiro de dois mil;False;W5 D07 M01 Y2000;D07 M01 m02
+sexta-feira sete de janeiro de dois mil;False;W5 D07 M01 Y2000;D07 M01 m02
+vinte do dez de mil novecentos e cinquenta e quatro;False;D20 M10 Y1900 Y0054;D20 M10 m01 c09
+vinte do dez de mil novecentos e cinquenta e quatro;False;D20 M10 Y1900 Y0054;D20 M10 m01 c09
+segunda vinte de julho de mil novecentos e noventa e oito;False;W1 D20 M07 Y1900 Y0098;W1 D20 M07 m01 c09 d09 u08
+segunda vinte de julho de mil novecentos e noventa e oito;False;W1 D20 M07 Y1900 Y0098;W1 D20 M07 m01 c09 d09 u08
+quarta-feira dezessete de abril de dois mil e dezenove;False;W3 D17 M04 Y2000 Y0019;D17 M04 m02 u19
+quarta-feira dezessete de abril de dois mil e dezenove;False;W3 D17 M04 Y2000 Y0019;D17 M04 m02 u19
+seis de maio de mil novecentos e quarenta e sete;False;D06 M05 Y1900 Y0047;D06 M05 m01 c09 d04 u07
+seis de maio de mil novecentos e quarenta e sete;False;D06 M05 Y1900 Y0047;D06 M05 m01 c09 d04 u07
+sábado quatro de outubro de de dois mil e catorze;False;W6 D04 M10 Y2000 Y0014;m02 u14
+sábado quatro de outubro de de dois mil e catorze;False;W6 D04 M10 Y2000 Y0014;m02 u14
+terça dezoito de maio de dois mil e dez;False;W2 D18 M05 Y2000 Y0010;W2 D18 M05 m02 u10
+terça dezoito de maio de dois mil e dez;False;W2 D18 M05 Y2000 Y0010;W2 D18 M05 m02 u10
+segunda-feira vinte e cinco de agosto de dois mil e quatorze;False;W1 D25 M08 Y2000 Y0014;D25 M08 m02
+segunda-feira vinte e cinco de agosto de dois mil e quatorze;False;W1 D25 M08 Y2000 Y0014;D25 M08 m02
+domingo nove de março de dois mil e oito;False;W7 D09 M03 Y2000 Y0008;W7 D09 M03 m02 u08
+domingo nove de março de dois mil e oito;False;W7 D09 M03 Y2000 Y0008;W7 D09 M03 m02 u08
+quinze de abril de mil novecentos e setenta e sete;False;D15 M04 Y1900 Y0077;
+quinze de abril de mil novecentos e setenta e sete;False;D15 M04 Y1900 Y0077;
+vinte e nove do três de setenta e sete;False;D29 M03 Y0077;u07
+vinte e nove do três de setenta e sete;False;D29 M03 Y0077;u07
+segunda-feira trinta de abril de dois mil e dezoito;False;W1 D30 M04 Y2000 Y0018;D30 M04 m02 u18
+segunda-feira trinta de abril de dois mil e dezoito;False;W1 D30 M04 Y2000 Y0018;D30 M04 m02 u18
+sábado quatro de março de dois mil e seis;False;W6 D04 M03 Y2000 Y0006;W6 D04 M03 m02 u06
+sábado quatro de março de dois mil e seis;False;W6 D04 M03 Y2000 Y0006;W6 D04 M03 m02 u06
+sexta-feira dois de janeiro de dois mil e quatro;False;W5 D02 M01 Y2000 Y0004;D02 M01 m02 u04
+sexta-feira dois de janeiro de dois mil e quatro;False;W5 D02 M01 Y2000 Y0004;D02 M01 m02 u04
+quatro do um de mil novecentos e cinquenta e cinco;False;D04 M01 Y1900 Y0055;D04 M01 m01 c09
+quatro do um de mil novecentos e cinquenta e cinco;False;D04 M01 Y1900 Y0055;D04 M01 m01 c09
+sábado onze de março de dois mil;False;W2 D11 M03 Y2000;W6 D11 M03 m02
+sábado onze de março de dois mil;False;W2 D11 M03 Y2000;W6 D11 M03 m02
+terça catorze de novembro de dois mil;False;W2 D14 M11 Y2000;W2 D14 M11 m02
+terça catorze de novembro de dois mil;False;W2 D14 M11 Y2000;W2 D14 M11 m02
+três de setembro de mil novecentos e setenta e nove;False;D03 M09 Y1900 Y0079;
+três de setembro de mil novecentos e setenta e nove;False;D03 M09 Y1900 Y0079;
+terça-feira quinze de dezembro de dois mil e vinte;False;W2 D15 M12 Y2000 Y0020;D15 M12 m02 u20
+terça-feira quinze de dezembro de dois mil e vinte;False;W2 D15 M12 Y2000 Y0020;D15 M12 m02 u20
+sexta três de julho de dois mil e quinze;False;W5 D03 M07 Y2000 Y0015;W5 D03 M07 m02 u15
+sexta três de julho de dois mil e quinze;False;W5 D03 M07 Y2000 Y0015;W5 D03 M07 m02 u15
+sexta onze de dezembro de mil novecentos e noventa e oito;False;W5 D11 M12 Y1900 Y0098;W5 D11 M12 m01 c09 d09 u08
+sexta onze de dezembro de mil novecentos e noventa e oito;False;W5 D11 M12 Y1900 Y0098;W5 D11 M12 m01 c09 d09 u08
+quinze do oito de mil novecentos e sessenta e dois;False;D15 M08 Y1900 Y0062;D15 M08 m01 c09 d06 u02
+quinze do oito de mil novecentos e sessenta e dois;False;D15 M08 Y1900 Y0062;D15 M08 m01 c09 d06 u02
+dezoito de dez de quarenta e nove;False;D18 M10 Y0049;d04 u09
+dezoito de dez de quarenta e nove;False;D18 M10 Y0049;d04 u09
+sábado dezessete de fevereiro de dois mil e dezoito;False;W6 D17 M02 Y2000 Y0018;W6 D17 M02 m02 u18
+sábado dezessete de fevereiro de dois mil e dezoito;False;W6 D17 M02 Y2000 Y0018;W6 D17 M02 m02 u18
+vinte e três do do dois de mil novecentos e setenta e um;False;D23 M02 Y1900 Y0071;D02 m01 c09
+vinte e três do do dois de mil novecentos e setenta e um;False;D23 M02 Y1900 Y0071;D02 m01 c09
+catorze do quatro de mil novecentos e cinquenta e um;False;D14 M04 Y1900 Y0051;D14 M04 m01 c09
+catorze do quatro de mil novecentos e cinquenta e um;False;D14 M04 Y1900 Y0051;D14 M04 m01 c09
+trinta do três de oitenta e um;False;D30 M03 Y0081;d08 u01
+trinta do três de oitenta e um;False;D30 M03 Y0081;d08 u01
+quinta-feira dez de setembro de dois mil e vinte;False;W4 D10 M09 Y2000 Y0020;D10 M09 m02 u20
+quinta-feira dez de setembro de dois mil e vinte;False;W4 D10 M09 Y2000 Y0020;D10 M09 m02 u20
+sexta-feira dezoito de dezembro de dois mil e quinze;False;W2 D18 M12 Y2000 Y0015;D18 M12 m02 u15
+sexta-feira dezoito de dezembro de dois mil e quinze;False;W2 D18 M12 Y2000 Y0015;D18 M12 m02 u15
+seis de agosto de mil novecentos e quarenta e oito;False;D06 M08 Y1900 Y0048;D06 M08 m01 c09 d04 u08
+seis de agosto de mil novecentos e quarenta e oito;False;D06 M08 Y1900 Y0048;D06 M08 m01 c09 d04 u08
+terça-feira quatro de outubro de dois mil e onze;False;W2 D04 M10 Y2000 Y0011;D04 M10 m02 u11
+terça-feira quatro de outubro de dois mil e onze;False;W2 D04 M10 Y2000 Y0011;D04 M10 m02 u11
+domingo vinte e nove de maio de dois mil e onze;False;W7 D29 M05 Y2000 Y0011;W7 D29 M05 m02 u11
+domingo vinte e nove de maio de dois mil e onze;False;W7 D29 M05 Y2000 Y0011;W7 D29 M05 m02 u11
+sete do quatro de mil novecentos e setenta e sete;False;D07 M04 Y1900 Y0077;D07 M04 m01 c09
+sete do quatro de mil novecentos e setenta e sete;False;D07 M04 Y1900 Y0077;D07 M04 m01 c09
+primeiro de maio de mil novecentos e cinquenta e sete;False;D01 M05 Y1900 Y0057;
+primeiro de maio de mil novecentos e cinquenta e sete;False;D01 M05 Y1900 Y0057;
+quarta cinco de novembro de dois mil e catorze;False;W3 D05 M11 Y2000 Y0014;W3 D05 M11 m02 u14
+quarta cinco de novembro de dois mil e catorze;False;W3 D05 M11 Y2000 Y0014;W3 D05 M11 m02 u14
+quatro do sete de mil novecentos e cinquenta e um;False;D04 M04 Y1900 Y0051;D04 M07 m01 c09
+quatro do sete de mil novecentos e cinquenta e um;False;D04 M04 Y1900 Y0051;D04 M07 m01 c09
+quinta-feira vinte e seis de maio de dois mil e dezesseis;False;W4 D26 M05 Y2000 Y0016;D26 M05 m02 u16
+quinta-feira vinte e seis de maio de dois mil e dezesseis;False;W4 D26 M05 Y2000 Y0016;D26 M05 m02 u16
+quarta trinta e um de março de dois mil e dez;False;W3 D31 M03 Y2000 Y0010;W3 D31 M03 m02 u10
+quarta trinta e um de março de dois mil e dez;False;W3 D31 M03 Y2000 Y0010;W3 D31 M03 m02 u10
+vinte de janeiro de mil novecentos e setenta e dois;False;D20 M01 Y1900 Y0072;
+vinte de janeiro de mil novecentos e setenta e dois;False;D20 M01 Y1900 Y0072;
+dois do dez de oitenta;False;D02 M02 Y0080;
+dois do dez de oitenta;False;D02 M02 Y0080;
+sábado seis de março de dois mil e quatro;False;W6 D06 M03 Y2000 Y0004;W6 D06 M03 m02 u04
+sábado seis de março de dois mil e quatro;False;W6 D06 M03 Y2000 Y0004;W6 D06 M03 m02 u04
+oito do onze de setenta e cinco;False;D08 M11 Y0075;u05
+oito do onze de setenta e cinco;False;D08 M11 Y0075;u05
+terça-feira dezesseis de abril de dois mil e treze;False;W2 D16 M04 Y2000 Y0013;D16 M04 m02 u13
+terça-feira dezesseis de abril de dois mil e treze;False;W2 D16 M04 Y2000 Y0013;D16 M04 m02 u13
+dezoito de janeiro de mil novecentos e setenta e dois;False;D18 M01 Y1900 Y0072;
+dezoito de janeiro de mil novecentos e setenta e dois;False;D18 M01 Y1900 Y0072;
+sete do sete de mil novecentos e cinquenta e três;False;D07 M07 Y1900 Y0053;D07 M07 m01 c09
+sete do sete de mil novecentos e cinquenta e três;False;D07 M07 Y1900 Y0053;D07 M07 m01 c09
+quarta-feira dezenove de outubro de dois mil e cinco;False;W3 D19 M10 Y2000 Y0005;D19 M10 m02 u05
+quarta-feira dezenove de outubro de dois mil e cinco;False;W3 D19 M10 Y2000 Y0005;D19 M10 m02 u05
+dezoito do quatro de mil novecentos e setenta e oito;False;D18 M04 Y1900 Y0078;
+dezoito do quatro de mil novecentos e setenta e oito;False;D18 M04 Y1900 Y0078;
+dez do cinco de setenta e um;False;D10 M05 Y0071;u01
+dez do cinco de setenta e um;False;D10 M05 Y0071;u01
+onze do sete de mil novecentos e cinquenta e sete;False;D11 M07 Y1900 Y0057;D11 M07 m01 c09
+onze do sete de mil novecentos e cinquenta e sete;False;D11 M07 Y1900 Y0057;D11 M07 m01 c09
+quinta trinta de agosto de dois mil e sete;False;W4 D30 M08 Y2000 Y0007;W4 D30 M08 m02 u07
+quinta trinta de agosto de dois mil e sete;False;W4 D30 M08 Y2000 Y0007;W4 D30 M08 m02 u07
+trinta de janeiro de mil novecentos e cinquenta e oito;False;D30 M01 Y1900 Y0058;D30 M01 m01 c09
+trinta de janeiro de mil novecentos e cinquenta e oito;False;D30 M01 Y1900 Y0058;D30 M01 m01 c09
+sete de julho de mil novecentos e cinquenta e quatro;False;D07 M07 Y1900 Y0054;D07 M07 m01 c09
+sete de julho de mil novecentos e cinquenta e quatro;False;D07 M07 Y1900 Y0054;D07 M07 m01 c09
+dezoito de março de cinquenta e sete;False;D18 M03 Y0057;u07
+dezoito de março de cinquenta e sete;False;D18 M03 Y0057;u07
+sexta-feira dezoito de novembro de dois mil e dezesseis;False;W5 D18 M11 Y2000 Y0016;D18 M11 m02 u16
+sexta-feira dezoito de novembro de dois mil e dezesseis;False;W5 D18 M11 Y2000 Y0016;D18 M11 m02 u16
+terça-feira treze de março de dois mil e dezoito;False;W2 D13 M03 Y2000 Y 0018;D13 M03 m02 u18
+terça-feira treze de março de dois mil e dezoito;False;W2 D13 M03 Y2000 Y 0018;D13 M03 m02 u18
+sexta quinze de dezembro de dois mil e dezessete;False;W5 D15 M12 Y2000 Y0017;W5 D15 M12 m02 u17
+sexta quinze de dezembro de dois mil e dezessete;False;W5 D15 M12 Y2000 Y0017;W5 D15 M12 m02 u17
+sete de um de cinquenta e sete;False;D07 M01 Y0057;
+sete de um de cinquenta e sete;False;D07 M01 Y0057;
+seis de julho de mil novecentos e setenta;False;D06 M07 Y1900 Y0070;D06 M07 m01 c09
+seis de julho de mil novecentos e setenta;False;D06 M07 Y1900 Y0070;D06 M07 m01 c09
+sexta-feira dezesseis de junho de dois mil e seis;False;W5 D16 M06 Y2000 Y0006;D16 M06 m02 u06
+sexta-feira dezesseis de junho de dois mil e seis;False;W5 D16 M06 Y2000 Y0006;D16 M06 m02 u06
+sábado onze de junho de dois mil e dezesseis;False;W6 D11 M06 Y2000 Y0016;W6 D11 M06 m02 u16
+sábado onze de junho de dois mil e dezesseis;False;W6 D11 M06 Y2000 Y0016;W6 D11 M06 m02 u16
+catorze do oito de cinquenta e um;False;D14 M08 Y0051;u01
+catorze do oito de cinquenta e um;False;D14 M08 Y0051;u01
+vinte e três do quatro de mil novecentos e setenta e um;False;D23 M04 Y1900 Y0071;
+vinte e três do quatro de mil novecentos e setenta e um;False;D23 M04 Y1900 Y0071;
+vinte e três do três de mil novecentos e cinquenta e seis;False;D23 M03 Y1900 Y0056;D23 M03 m01 c09
+vinte e três do três de mil novecentos e cinquenta e seis;False;D23 M03 Y1900 Y0056;D23 M03 m01 c09
+domingo vinte e um de fevereiro de mil novecentos e noventa e nove;False;W7 D21 M02 Y1900 Y0099;W7 D21 M02 m01 c09 d09 u09
+domingo vinte e um de fevereiro de mil novecentos e noventa e nove;False;W7 D21 M02 Y1900 Y0099;W7 D21 M02 m01 c09 d09 u09
+dez do seis de setenta e seis;False;D10 M06 Y0076;
+dez do seis de setenta e seis;False;D10 M06 Y0076;
+quarta vinte e cinco de novembro de mil novecentos e noventa e oito;False;W3 D25 M11 Y1900 Y0098;W3 D25 M11 m01 c09 d09 u08
+quarta vinte e cinco de novembro de mil novecentos e noventa e oito;False;W3 D25 M11 Y1900 Y0098;W3 D25 M11 m01 c09 d09 u08
+terça-feira vinte e três de setembro de dois mil e catorze;False;W2 D23 M09 Y2000 Y0014;D23 M09 m02 u14
+terça-feira vinte e três de setembro de dois mil e catorze;False;W2 D23 M09 Y2000 Y0014;D23 M09 m02 u14
+dez do seis de cinquenta e quatro;False;D10 M06 Y0054;u04
+dez do seis de cinquenta e quatro;False;D10 M06 Y0054;u04
+cinco do um do sessenta e três;False;D05 M01 Y0063;D05 M01 d06 u03
+cinco do um do sessenta e três;False;D05 M01 Y0063;D05 M01 d06 u03
+onze do nove de oitenta e cinco;False;D11 M09 Y0085;d08 u05
+onze do nove de oitenta e cinco;False;D11 M09 Y0085;d08 u05
+segunda-feira onze de abril de dois mil e onze;False;W1 D11 M04 Y2000 Y0011;D11 M04 m02 u11
+segunda-feira onze de abril de dois mil e onze;False;W1 D11 M04 Y2000 Y0011;D11 M04 m02 u11
+vinte e oito do quatro de oitenta e seis;False;D28 M04 Y0086;d08 u06
+vinte e oito do quatro de oitenta e seis;False;D28 M04 Y0086;d08 u06
+segunda dezesseis de janeiro de dois mil e doze;False;W1 D16 M01 Y2000 Y0012;W1 D16 M01 m02 u12
+segunda dezesseis de janeiro de dois mil e doze;False;W1 D16 M01 Y2000 Y0012;W1 D16 M01 m02 u12
+segunda-feira vinte e sete de outubro de dois mil e oito;False;W1 D27 M10 Y2000 Y0008;D27 M10 m02 u08
+segunda-feira vinte e sete de outubro de dois mil e oito;False;W1 D27 M10 Y2000 Y0008;D27 M10 m02 u08
+três do quatro de oitenta e dois;False;D03 M04 Y0082;d08 u02
+três do quatro de oitenta e dois;False;D03 M04 Y0082;d08 u02
+segunda vinte e seis de setembro de dois mil e onze;False;W1 D26 M09 Y2000 Y0011;W1 D26 M09 m02 u11
+segunda vinte e seis de setembro de dois mil e onze;False;W1 D26 M09 Y2000 Y0011;W1 D26 M09 m02 u11
+oito do quatro de oitenta e sete;False;D08 M04 Y0087;d08 u07
+oito do quatro de oitenta e sete;False;D08 M04 Y0087;d08 u07
+quarta vinte de fevereiro de dois mil e dezenove;False;W3 D20 M02 Y2000 Y0019;W3 D20 M02 m02 u19
+quarta vinte de fevereiro de dois mil e dezenove;False;W3 D20 M02 Y2000 Y0019;W3 D20 M02 m02 u19
+quarta-feira quinze de setembro de dois mil e dez;False;W3 D15 M09 Y2000 Y0010;D15 M09 m02 u10
+quarta-feira quinze de setembro de dois mil e dez;False;W3 D15 M09 Y2000 Y0010;D15 M09 m02 u10
+vinte e cinco do cinco de setenta e cinco;False;D25 M05 Y0075;
+vinte e cinco do cinco de setenta e cinco;False;D25 M05 Y0075;
+quarta-feira dois de novembro de dois mil e dezesseis;False;W3 D02 M11 Y2000 Y0016;D02 M11 m02 u16
+quarta-feira dois de novembro de dois mil e dezesseis;False;W3 D02 M11 Y2000 Y0016;D02 M11 m02 u16
+quinta seis de fevereiro de dois mil e catorze;False;W4 D06 M02 Y2000 Y0014;W4 D06 M02 m02 u14
+quinta seis de fevereiro de dois mil e catorze;False;W4 D06 M02 Y2000 Y0014;W4 D06 M02 m02 u14
+vinte do três de setenta e um;False;D20 M03 Y0071;u01
+vinte do três de setenta e um;False;D20 M03 Y0071;u01
+terça dezessete de setembro de dois mil e dois;False;W2 D17 M09 Y2000 Y0002;W2 D17 M09 m02 u02
+terça dezessete de setembro de dois mil e dois;False;W2 D17 M09 Y2000 Y0002;W2 D17 M09 m02 u02
+quarta catorze de agosto de dois mil e treze;False;W3 D14 M08 Y2000 Y0013;W3 D14 M08 m02 u13
+quarta catorze de agosto de dois mil e treze;False;W3 D14 M08 Y2000 Y0013;W3 D14 M08 m02 u13
+nove de março de mil novecentos e setenta e sete;False;D09 M03 Y1900 Y0077;
+nove de março de mil novecentos e setenta e sete;False;D09 M03 Y1900 Y0077;
+quarta-feira doze de maio de mil novecentos e noventa e nove;False;W3 D12 M05 Y1900 Y0099;D12 M05 m01 c09 d09 u09
+quarta-feira doze de maio de mil novecentos e noventa e nove;False;W3 D12 M05 Y1900 Y0099;D12 M05 m01 c09 d09 u09
+vinte do dez de cinquenta e nove;False;D20 M10 Y0059;u09
+vinte do dez de cinquenta e nove;False;D20 M10 Y0059;u09
+quarta seis de fevereiro de dois mil e oito;False;W3 D06 M02 Y2000 Y0008;W3 D06 M02 m02 u08
+quarta seis de fevereiro de dois mil e oito;False;W3 D06 M02 Y2000 Y0008;W3 D06 M02 m02 u08
+quinta-feira quinze de junho de dois mil;False;W4 D15 M06 Y2000;D15 M06 m02
+quinta-feira quinze de junho de dois mil;False;W4 D15 M06 Y2000;D15 M06 m02
+vinte e seis de novembro de mil novecentos e sessenta e oito;False;D26 M11 Y1900 Y0068;D26 M11 m01 c09 d06 u08
+vinte e seis de novembro de mil novecentos e sessenta e oito;False;D26 M11 Y1900 Y0068;D26 M11 m01 c09 d06 u08
+quinta quatro de setembro de dois mil e três;False;W4 D04 M09 Y2000 Y0003;W4 D04 M09 m02 u03
+quinta quatro de setembro de dois mil e três;False;W4 D04 M09 Y2000 Y0003;W4 D04 M09 m02 u03
+domingo dezenove de abril de dois mil e vinte;False;W7 D19 M04 Y2000 Y0020;W7 D19 M04 m02 u20
+domingo dezenove de abril de dois mil e vinte;False;W7 D19 M04 Y2000 Y0020;W7 D19 M04 m02 u20
+sábado dezesseis de outubro de dois mil e quatro;False;W6 D16 M10 Y2000 Y0004;W6 D16 M10 m02 u04
+sábado dezesseis de outubro de dois mil e quatro;False;W6 D16 M10 Y2000 Y0004;W6 D16 M10 m02 u04
+sexta-feira três de agosto dois mil e doze;False;W5 D03 M08 Y2000 Y0012;D03 M08 m02 u12
+sexta-feira três de agosto dois mil e doze;False;W5 D03 M08 Y2000 Y0012;D03 M08 m02 u12
+quarta-feira oito de fevereiro de dois mil e seis;False;W3 D08 M02 Y2000 Y0006;D08 M02 m02 u06
+quarta-feira oito de fevereiro de dois mil e seis;False;W3 D08 M02 Y2000 Y0006;D08 M02 m02 u06
+vinte e oito do oito de cinquenta e nove;False;D28 M08 Y0059;
+vinte e oito do oito de cinquenta e nove;False;D28 M08 Y0059;
+domingo vinte e dois de abril de dois mil e dezoito;False;W7 D22 M04 Y2000 Y0018;W7 D22 M04 m02 u18
+domingo vinte e dois de abril de dois mil e dezoito;False;W7 D22 M04 Y2000 Y0018;W7 D22 M04 m02 u18
+domingo um de setembro de dois mil e dois;False;W7 D01 M09 Y2000 Y0002;W7 D01 M09 m02 u02
+domingo um de setembro de dois mil e dois;False;W7 D01 M09 Y2000 Y0002;W7 D01 M09 m02 u02
+dezesseis de doze de quarenta e dois;False;D16 M12 Y0042;d04 u02
+dezesseis de doze de quarenta e dois;False;D16 M12 Y0042;d04 u02
+trinta do do quatro de mil novecentos e sessenta e seis;False;D30 M04 Y1900 Y0066;D04 m01 c09 d06 u06
+trinta do do quatro de mil novecentos e sessenta e seis;False;D30 M04 Y1900 Y0066;D04 m01 c09 d06 u06
+domingo dezoito de fevereiro de dois mil e um;False;W7 D18 M02 Y2000 Y0001;W7 D18 M02 m02 u01
+domingo dezoito de fevereiro de dois mil e um;False;W7 D18 M02 Y2000 Y0001;W7 D18 M02 m02 u01
+quinta-feira três de agosto de dois mil e seis;False;W4 D03 M08 Y2000 Y0006;D03 M08 m02 u06
+quinta-feira três de agosto de dois mil e seis;False;W4 D03 M08 Y2000 Y0006;D03 M08 m02 u06
+segunda-feira quatro de janeiro de mil novecentos e noventa e nove;False;W1 D04 M01 Y1900 Y0099;D04 M01 m01 c09 d09 u09
+segunda-feira quatro de janeiro de mil novecentos e noventa e nove;False;W1 D04 M01 Y1900 Y0099;D04 M01 m01 c09 d09 u09
+terça-feira vinte e nove de janeiro de dois mil e oito;False;W2 D29 M01 Y2000 Y0008;D29 M01 m02 u08
+terça-feira vinte e nove de janeiro de dois mil e oito;False;W2 D29 M01 Y2000 Y0008;D29 M01 m02 u08
+sábado vinte e seis de maio de dois mil e sete;False;W6 D26 M05 Y2000 Y0007;W6 D26 M05 m02 u07
+sábado vinte e seis de maio de dois mil e sete;False;W6 D26 M05 Y2000 Y0007;W6 D26 M05 m02 u07
+trinta de janeiro de mil novecentos e quarenta e sete;False;D30 M01 Y1900 Y0047;D30 M01 m01 c09 d04 u07
+trinta de janeiro de mil novecentos e quarenta e sete;False;D30 M01 Y1900 Y0047;D30 M01 m01 c09 d04 u07
+segunda-feira catorze de setembro de mil novecentos e noventa e oito;False;W1 D14 M09 Y1900 Y0098;D14 M09 m01 c09 d09 u08
+segunda-feira catorze de setembro de mil novecentos e noventa e oito;False;W1 D14 M09 Y1900 Y0098;D14 M09 m01 c09 d09 u08
+sábado dezesseis de maio de dois mil e quinze;False;W6 D16 M05 Y2000 Y0015;W6 D16 M05 m02 u15
+sábado dezesseis de maio de dois mil e quinze;False;W6 D16 M05 Y2000 Y0015;W6 D16 M05 m02 u15
+quarta dezoito de maio de dois mil e dezesseis;False;W3 D18 M05 Y2000 Y0016;W3 D18 M05 m02 u16
+quarta dezoito de maio de dois mil e dezesseis;False;W3 D18 M05 Y2000 Y0016;W3 D18 M05 m02 u16
+terça-feira dezenove de outubro de mil novecentos e noventa e nove;False;W2 D19 M10 Y1900 Y0099;D19 M10 m01 c09 d09 u09
+terça-feira dezenove de outubro de mil novecentos e noventa e nove;False;W2 D19 M10 Y1900 Y0099;D19 M10 m01 c09 d09 u09
+primeiro de março de mil novecentos e cinquenta e sete;False;D01 M03 Y1900 Y0057;
+primeiro de março de mil novecentos e cinquenta e sete;False;D01 M03 Y1900 Y0057;
+sexta vinte e três de março de dois mil e sete;False;W5 D23 M03 Y2000 Y0007;W5 D23 M03 m02 u07
+sexta vinte e três de março de dois mil e sete;False;W5 D23 M03 Y2000 Y0007;W5 D23 M03 m02 u07
+dezessete de três de quarenta e três;False;D17 M03 Y0043;d04 u03
+dezessete de três de quarenta e três;False;D17 M03 Y0043;d04 u03
+vinte e oito do oito de cinquenta e oito;False;D28 M08 Y0058;
+vinte e oito do oito de cinquenta e oito;False;D28 M08 Y0058;
+segunda-feira vinte e seis de novembro de dois mil e sete;False;W1 D26 M11 Y2000 Y0007;D26 M11 m02 u07
+segunda-feira vinte e seis de novembro de dois mil e sete;False;W1 D26 M11 Y2000 Y0007;D26 M11 m02 u07
+vinte do dois do mil novecentos e setenta e dois;False;D20 M02 Y1900 Y0072;D20 M02 m01 c09
+vinte do dois do mil novecentos e setenta e dois;False;D20 M02 Y1900 Y0072;D20 M02 m01 c09
+trinta e um do três de setenta e cinco;False;D31 M03 Y0075;u05
+trinta e um do três de setenta e cinco;False;D31 M03 Y0075;u05
+quinta vinte e seis de fevereiro de mil novecentos e noventa e oito;False;W4 D26 M02 Y1900 Y0098;W4 D26 M02 m01 c09 d09 u08
+quinta vinte e seis de fevereiro de mil novecentos e noventa e oito;False;W4 D26 M02 Y1900 Y0098;W4 D26 M02 m01 c09 d09 u08
+onze do um de quarenta e três;False;D11 M01 Y0043;d04 u03
+onze do um de quarenta e três;False;D11 M01 Y0043;d04 u03
+dezoito de novembro de mil novecentos e oitenta;False;D18 M11 Y1900 Y0080;D18 M11 m01 c09 d08
+dezoito de novembro de mil novecentos e oitenta;False;D18 M11 Y1900 Y0080;D18 M11 m01 c09 d08
+onze do nove de mil novecentos e oitenta e dois;False;D11 M09 Y1900 Y0082;D11 M09 m01 c09 d08 u02
+onze do nove de mil novecentos e oitenta e dois;False;D11 M09 Y1900 Y0082;D11 M09 m01 c09 d08 u02
+domingo vinte e cinco de janeiro de mil novecentos e noventa e oito;False;W7 D25 M01 Y1900 Y0098;W7 D25 M01 m01 c09 d09 u08
+domingo vinte e cinco de janeiro de mil novecentos e noventa e oito;False;W7 D25 M01 Y1900 Y0098;W7 D25 M01 m01 c09 d09 u08
+sábado oito de julho de dois mil e dezessete;False;W6 D08 M07 Y2000 Y0017;W6 D08 M07 m02 u17
+sábado oito de julho de dois mil e dezessete;False;W6 D08 M07 Y2000 Y0017;W6 D08 M07 m02 u17
+quarta quatro de maio de dois mil e cinco;False;W3 D04 M05 Y2000 Y0005;W3 D04 M05 m02 u05
+quarta quatro de maio de dois mil e cinco;False;W3 D04 M05 Y2000 Y0005;W3 D04 M05 m02 u05
+domingo treze de setembro de dois mil e quinze;False;W7 D13 M09 Y2000 Y0015;W7 D13 M09 m02 u15
+domingo treze de setembro de dois mil e quinze;False;W7 D13 M09 Y2000 Y0015;W7 D13 M09 m02 u15
+quinta-feira cinco de janeiro de dois mil e dezessete;False;W4 D05 M01 Y2000 Y0017;D05 M01 m02 u17
+quinta-feira cinco de janeiro de dois mil e dezessete;False;W4 D05 M01 Y2000 Y0017;D05 M01 m02 u17
+quinta dezessete de novembro de dois mil e dezesseis;False;W4 D17 M11 Y2000 Y0016;W4 D17 M11 m02 u16
+quinta dezessete de novembro de dois mil e dezesseis;False;W4 D17 M11 Y2000 Y0016;W4 D17 M11 m02 u16
+vinte e nove do nove de cinquenta e quatro;False;D29 M09 Y0054;
+vinte e nove do nove de cinquenta e quatro;False;D29 M09 Y0054;
+dezenove do oito de mil novecentos e cinquenta e oito;False;D19 M08 Y1900 Y0058;D19 M08 m01 c09
+dezenove do oito de mil novecentos e cinquenta e oito;False;D19 M08 Y1900 Y0058;D19 M08 m01 c09
+quatro de outubro de mil novecentos e oitenta e dois;False;D04 M10 Y1900 Y0082;D04 M10 m01 c09 d08 u02
+quatro de outubro de mil novecentos e oitenta e dois;False;D04 M10 Y1900 Y0082;D04 M10 m01 c09 d08 u02
+quarta sete de outubro de dois mil e quinze;False;W3 D07 M10 Y2000 Y0015;W3 D07 M10 m02 u15
+quarta sete de outubro de dois mil e quinze;False;W3 D07 M10 Y2000 Y0015;W3 D07 M10 m02 u15
+sexta-feira três de maio de dois mil e dezenove;False;W5 D03 M05 Y2000 Y0019;D03 M05 m02 u19
+sexta-feira três de maio de dois mil e dezenove;False;W5 D03 M05 Y2000 Y0019;D03 M05 m02 u19
+sábado vinte e oito de março de dois mil e nove;False;W6 D28 M03 Y2000 Y0009;W6 D28 M03 m02 u09
+sábado vinte e oito de março de dois mil e nove;False;W6 D28 M03 Y2000 Y0009;W6 D28 M03 m02 u09
+quinta-feira vinte e quatro de julho de dois mil e catorze;False;W4 D24 M07 Y2000 Y0014;D24 M07 m02 u14
+quinta-feira vinte e quatro de julho de dois mil e catorze;False;W4 D24 M07 Y2000 Y0014;D24 M07 m02 u14
+quarta dezenove de agosto de dois mil e nove;False;W3 D19 M08 Y2000 Y0009;W3 D19 M08 m02 u09
+quarta dezenove de agosto de dois mil e nove;False;W3 D19 M08 Y2000 Y0009;W3 D19 M08 m02 u09
+quarta quinze de novembro de dois mil e seis;False;W3 D15 M11 Y2000 Y0006;W3 D15 M11 m02 u06
+quarta quinze de novembro de dois mil e seis;False;W3 D15 M11 Y2000 Y0006;W3 D15 M11 m02 u06
+quinta-feira dezoito de abril de dois mil e dois;False;W4 D18 M04 Y2000 Y0002;D18 M04 m02 u02
+quinta-feira dezoito de abril de dois mil e dois;False;W4 D18 M04 Y2000 Y0002;D18 M04 m02 u02
+terça-feira dois de abril de dois mil e dois;False;W2 D02 M04 Y2000 Y0002;D02 M04 m02 u02
+terça-feira dois de abril de dois mil e dois;False;W2 D02 M04 Y2000 Y0002;D02 M04 m02 u02
+quinta vinte de agosto de dois mil e quinze;False;W4 D20 M08 Y2000 Y0015;W4 D20 M08 m02 u15
+quinta vinte de agosto de dois mil e quinze;False;W4 D20 M08 Y2000 Y0015;W4 D20 M08 m02 u15
+sexta vinte de dezembro de dois mil e treze;False;W5 D20 M12 Y2000 Y0013;W5 D20 M12 m02 u13
+sexta vinte de dezembro de dois mil e treze;False;W5 D20 M12 Y2000 Y0013;W5 D20 M12 m02 u13
+terça-feira catorze de janeiro de dois mil e vinte;False;W2 D14 M01 Y2000 Y0020;D14 M01 m02 u20
+terça-feira catorze de janeiro de dois mil e vinte;False;W2 D14 M01 Y2000 Y0020;D14 M01 m02 u20
+sexta um de dezembro de dois mil e seis;False;W5 D01 M12 Y2000 Y0006;W5 D01 M12 m02 u06
+sexta um de dezembro de dois mil e seis;False;W5 D01 M12 Y2000 Y0006;W5 D01 M12 m02 u06
+dezesseis do sete de oitenta e dois;False;D16 M07 Y0082;d08 u02
+dezesseis do sete de oitenta e dois;False;D16 M07 Y0082;d08 u02
+mil novecentos e oitenta e três;False;Y1900 Y0083;m01 c09 d08 u03
+mil novecentos e oitenta e três;False;Y1900 Y0083;m01 c09 d08 u03
+domingo oito de abril de dois mil e sete;False;W7 D08 M04 Y2000 Y0007;W7 D08 M04 m02 u07
+domingo oito de abril de dois mil e sete;False;W7 D08 M04 Y2000 Y0007;W7 D08 M04 m02 u07
+quatro do onze de oitenta;False;D04 M11 Y0080;
+quatro do onze de oitenta;False;D04 M11 Y0080;
+domingo três de agosto de dois mil e três;False;W7 D03 M08 Y2000 Y0003;W7 D03 M08 m02 u03
+domingo três de agosto de dois mil e três;False;W7 D03 M08 Y2000 Y0003;W7 D03 M08 m02 u03
+vinte do três de oitenta e dois;False;D20 M03 Y0082;d08 u02
+vinte do três de oitenta e dois;False;D20 M03 Y0082;d08 u02
+quinta trinta de abril de dois mil e quinze;False;W4 D30 M04 Y2000 Y0015;W4 D30 M04 m02 u15
+quinta trinta de abril de dois mil e quinze;False;W4 D30 M04 Y2000 Y0015;W4 D30 M04 m02 u15
+catorze de setembro de mil novecentos e oitenta e um;False;D14 M09 Y1900 Y0081;D14 M09 m01 c09 d08 u01
+catorze de setembro de mil novecentos e oitenta e um;False;D14 M09 Y1900 Y0081;D14 M09 m01 c09 d08 u01
+segunda-feira vinte de agosto de dois mil e dezoito;False;W1 D20 M08 Y2000 Y0018;D20 M08 m02 u18
+segunda-feira vinte de agosto de dois mil e dezoito;False;W1 D20 M08 Y2000 Y0018;D20 M08 m02 u18
+sete de agosto de mil novecentos e sessenta e quatro;False;D07 M08 Y1900 Y0064;D07 M08 m01 c09 d06 u04
+sete de agosto de mil novecentos e sessenta e quatro;False;D07 M08 Y1900 Y0064;D07 M08 m01 c09 d06 u04
+quarta dez de novembro de dois mil e dez;False;W3 D10 M11 Y2000 Y0010;W3 D10 M11 m02 u10
+quarta dez de novembro de dois mil e dez;False;W3 D10 M11 Y2000 Y0010;W3 D10 M11 m02 u10
+terça nove de abril de dois mil e dezenove;False;W2 D09 M04 Y2000 Y0019;W2 D09 M04 m02 u19
+terça nove de abril de dois mil e dezenove;False;W2 D09 M04 Y2000 Y0019;W2 D09 M04 m02 u19
+sexta treze de março de dois mil e quinze;False;W5 D13 M03 Y2000 Y0015;W5 D13 M03 m02 u15
+sexta treze de março de dois mil e quinze;False;W5 D13 M03 Y2000 Y0015;W5 D13 M03 m02 u15
+dezesseis do nove de oitenta e um;False;D16 M09 Y0081;d08 u01
+dezesseis do nove de oitenta e um;False;D16 M09 Y0081;d08 u01
+vinte e um do quatro de sessenta e nove;False;D21 M04 Y0069;d06 u09
+vinte e um do quatro de sessenta e nove;False;D21 M04 Y0069;d06 u09
+dezessete do dez de cinquenta e sete;False;D17 M10 Y0057;u07
+dezessete do dez de cinquenta e sete;False;D17 M10 Y0057;u07
+sábado sete de abril de dois mil e um;False;W6 D07 M04 Y2000 Y0001;W6 D07 M04 m02 u01
+sábado sete de abril de dois mil e um;False;W6 D07 M04 Y2000 Y0001;W6 D07 M04 m02 u01
+sete de julho de mil novecentos e sessenta e sete;False;D07 M07 Y1900 Y0067;D07 M07 m01 c09 d06 u07
+sete de julho de mil novecentos e sessenta e sete;False;D07 M07 Y1900 Y0067;D07 M07 m01 c09 d06 u07

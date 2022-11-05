@@ -1,0 +1,39 @@
+#ABNF 1.0 ISO8859-1;
+
+language pt-br;
+
+
+root $spell = ($alphabet $SIL)* ;
+
+
+$SIL =  "[SIL]" {};
+
+
+$alphabet =
+"a"       {A} | "á" {A} | "ah" {A} | "ãh" {A} |
+"b"       {B} |
+"c"       {C} |
+"cedilha" {Ç} |
+"d"       {D} |
+"e"       {E} | "é" {E} |
+"f"       {F} |
+"g"       {G} |
+"h"       {H} |
+"i"       {I} | "í" {I} |
+"j"       {J} |
+"k"       {K} |
+"l"       {L} |
+"ême"     {M} |
+"n"       {N} |
+"o"       {O} | "ó" {O} |
+"p"       {P} |
+"q"       {Q} |
+"r"       {R} |
+"s"       {S} |
+"t"       {T} |
+"u"       {U} |
+"vê"      {V} |
+"w"       {W} |
+"x"       {X} |
+"y"       {Y} |
+"z"       {Z};

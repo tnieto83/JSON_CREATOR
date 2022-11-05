@@ -1,0 +1,155 @@
+#ABNF 1.0 ISO8859-1;
+
+root $code = ($GARBAGE $chain $GARBAGE);
+
+$chain = ($number $SIL*)+;
+
+$SIL = "[SIL]" {};
+
+$number = ($unit|$ten|$hundred|$thousand);
+
+$thousand = ($thousandAlone | $thousandAssembled);
+$hundred = ($hundredAlone | $hundredAssembled);
+$ten = ($tenAlone | $tenAssembled);
+
+
+$thousandAlone = (
+	("one thousand" | "a thousand") {K1000} $SIL |
+	"two thousand" {K2000} $SIL |
+	"three thousand" {K3000} $SIL | 
+	"four thousand" {K4000} $SIL |
+	"five thousand" {K5000} $SIL |
+	"six thousand" {K6000} $SIL |
+	"seven thousand" {K7000} $SIL | 
+	"eight thousand" {K8000} $SIL |
+	"nine thousand" {K9000} $SIL
+	);
+	
+$thousandPosition = (
+	"one thousand" {K1} |
+	"two thousand" {K2} |
+	"three thousand" {K3} |
+	"four thousand" {K4} |
+	"five thousand" {K5} |
+	"six thousand" {K6} |
+	"seven thousand" {K7} |
+	"eight thousand" {K8} |
+	"nine thousand" {K9}
+	);
+
+$thousandAssembled = (
+	($thousandPosition [and] {} ($hundredAlone | $tenAlone | $assembledUnit)) |
+	($thousandPosition [and] {} $hundredAssembled) |
+	($thousandPosition [and] {} $tenAssembled)
+	);
+
+
+$hundredAlone = (
+	("one hundred" | "a hundred") {C100} $SIL |
+	"two hundred" {C200} $SIL |
+	"three hundred" {C300} $SIL |
+	"four hundred" {C400} $SIL |
+	"five hundred" {C500} $SIL |
+	"six hundred" {C600} $SIL |
+	"seven hundred" {C700} $SIL |
+	"eight hundred" {C800} $SIL |
+	"nine hundred" {C900} $SIL |
+	("triple zero" | "triple oh") {U0 U0 U0}|
+	"triple one" {U1 U1 U1}|
+	"triple two" {U2 U2 U2}|
+	"triple three" {U3 U3 U3}|
+	"triple four" {U4 U4 U4}|
+	"triple five" {U5 U5 U5}|
+	"triple six" {U6 U6 U6}|
+	"triple seven" {U7 U7 U7}|
+	"triple eight" {U8 U8 U8}|
+	"triple nine" {U9 U9 U9}
+	);	
+	
+$hundredPosition = (
+	"one hundred" {C1} |
+	"two hundred" {C2} |
+	"three hundred" {C3} |
+	"four hundred" {C4} |
+	"five hundred" {C5} |
+	"six hundred" {C6} |
+	"seven hundred" {C7} |
+	"eight hundred" {C8} |
+	"nine hundred" {C9}
+	);
+
+$hundredAssembled = ($hundredPosition [and] {} $tenAlone | $hundredPosition [and] {} $tenAssembled | $hundredPosition [and] {} $assembledUnit);
+
+
+$tenAlone = (
+    ten {D10} |
+    eleven {D1 U1}  |
+    twelve {D1 U2}  |
+    thirteen {D1 U3}  |
+    fourteen {D1 U4}  |
+    fifteen {D1 U5}  |
+    sixteen {D1 U6}  |
+    seventeen {D1 U7}  |
+    eighteen {D1 U8}  |
+    nineteen {D1 U9}  |
+    twenty {D20} $SIL |
+    thirty {D30} $SIL |
+    forty {D40} $SIL |
+    fifty {D50} $SIL | 
+    sixty {D60} $SIL | 
+    seventy {D70} $SIL | 
+    eighty {D80} $SIL | 
+    ninety {D90} $SIL |
+	("double zero" | "double oh") {U0 U0}|
+	"double one" {U1 U1}|
+	"double two" {U2 U2}|
+	"double three" {U3 U3}|
+	"double four" {U4 U4}|
+	"double five" {U5 U5}|
+	"double six" {U6 U6}|
+	"double seven" {U7 U7}|
+	"double eight" {U8 U8}|
+	"double nine" {U9 U9}
+    );
+
+$tenAssembled = ($tenPosition $assembledUnit);
+
+$tenPosition =
+    (
+    twenty {D2} |
+    thirty {D3} |
+    forty {D4} | 
+    fifty {D5} | 
+    sixty {D6} | 
+    seventy {D7} | 
+    eighty {D8} | 
+    ninety {D9}  
+    );
+
+
+$assembledUnit = (
+    one {U1}       |
+    two {U2}       |
+    three {U3}      |
+    four {U4}    |
+    five {U5}     |
+    six {U6}      |
+    seven {U7}     |
+    eight {U8}      |
+    nine {U9} 
+	);
+
+$unit = (
+    one {U1}       |
+    two {U2}       |
+    three {U3}      |
+    four {U4}    |
+    five {U5}     |
+    six {U6}      |
+    seven {U7}     |
+    eight {U8}      |
+    nine {U9}     |
+    zero {U0} |
+	oh {U0}
+	);
+

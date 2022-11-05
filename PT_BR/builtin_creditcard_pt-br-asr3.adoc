@@ -1,0 +1,20 @@
+= BNF grammar for creditcard numbers: builtin_bnfs_builtin_creditcard_pt_br-asr3
+
+Ananda Chaves Fonseca
+ 2021-01-032
+
+ -------------------------------------------------
+
+    Aim: to recognize creditcard numbers (16 digits) in four groups of four digits. 
+    Range: 0-9999
+Digit agrupations: units, tens, hundreds and thousands. 
+
+    BNF Structure:
+    
+    $creditcardcomplete is a rule that contains the rule $numberFour four times, in order to make 16 digits;    $numberFour contains all the combinations for groups of one, two, three and four digits ($unit, $ten, $hundred, $thousand. 
+  
+        - $thousand contains whole thousands (outputs with 0) and thousands for combination with other units. The output shows a specific number for a position that is defined.
+          - $hundred the same as thousands but with hundreds.
+          - $ten the same as thousands but with tens.
+          - $unit numbers 1 - 9 also with output to mark the position.
+      - $andUnit and $andTen = contains numbers that are preceded by other digits to complete a number. The output shows a specific number for a position that is defined

@@ -1,0 +1,15 @@
+#ABNF 1.0 ISO8859-1;
+
+public $single = $GARBAGE* $SS $GARBAGE*;
+
+$SS =   um {D01}        |
+        dois {D02}      |
+        três {D03}      |
+        quatro {D04}    |
+        cinco {D05}     |
+        seis {D06}      |
+        meia {D06}      |
+        sete {D07}      |
+        oito {D08}      |
+        nove {D09}      |
+        zero {D00} ;

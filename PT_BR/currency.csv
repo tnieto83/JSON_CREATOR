@@ -1,0 +1,143 @@
+text;success;reference;tags
+trinta e quatro mil e cem reais;True;D3 U4 THOUSAND C1 cBRL;D3 U4 THOUSAND C1 cBRL
+duzentos e vinte reais;True;C2 D2 cBRL;C2 D2 cBRL
+um mil trezentos e dezessete reais;True;U1 THOUSAND C3 D1 U7 cBRL;U1 THOUSAND C3 D1 U7 cBRL
+quarenta e sete centavos;True;Y4 Z7 cBRL;Y4 Z7 cBRL
+vinte reais e doze centavos;True;D2 cBRL Y1 Z2;D2 cBRL Y1 Z2
+oito reais e cinquenta centavos;True;U8 cBRL Y5;U8 cBRL Y5
+mil quinhentos e doze reais;False;THOUSAND C5 D1 U2 cBRL;C5 D1 U2 cBRL
+nove reais e dezenove centavos;True;U9 cBRL Y1 Z9;U9 cBRL Y1 Z9
+quatrocentos e cinquenta reais;True;C4 D5 cBRL;C4 D5 cBRL
+quinze reais e dezesseis centavos;True;D1 U5 cBRL Y1 Z6;D1 U5 cBRL Y1 Z6
+trinta e três mil novecentos e sessenta reais;True;D3 U3 THOUSAND C9 D6 cBRL;D3 U3 THOUSAND C9 D6 cBRL
+quarenta mil e oitocentos reais;True;D4 THOUSAND C8 cBRL;D4 THOUSAND C8 cBRL
+cinco mil quatrocentos e dezenove reais;True;U5 THOUSAND C4 D1 U9 cBRL;U5 THOUSAND C4 D1 U9 cBRL
+três mil seiscentos e dezoito reais;True;U3 THOUSAND C6 D1 U8 cBRL;U3 THOUSAND C6 D1 U8 cBRL
+quinhentos e quinze reais;True;C5 D1 U5 cBRL;C5 D1 U5 cBRL
+seis mil seiscentos e doze reais;True;U6 THOUSAND C6 D1 U2 cBRL;U6 THOUSAND C6 D1 U2 cBRL
+noventa e três reais;True;D9 U3 cBRL;D9 U3 cBRL
+seis mil trezentos e dezesseis reais;True;U6 THOUSAND C3 D1 U6 cBRL;U6 THOUSAND C3 D1 U6 cBRL
+cento e setenta e seis reais;True;C1 D7 U6 cBRL;C1 D7 U6 cBRL
+onze mil e cem;False;D1 U1 THOUSAND C1 cBRL;X1
+setenta e nove reais;True;D7 U9 cBRL;D7 U9 cBRL
+cinco mil setecentos e dezesseis reais;True;U5 THOUSAND C7 D1 U6 cBRL;U5 THOUSAND C7 D1 U6 cBRL
+seis mil quinhentos e dezenove reais;True;U6 THOUSAND C5 D1 U9 cBRL;U6 THOUSAND C5 D1 U9 cBRL
+cinquenta e oito reais;True;D5 U8 cBRL;D5 U8 cBRL
+noventa e três centavos;True;Y9 Z3 cBRL;Y9 Z3 cBRL
+mil quinhentos e onze reais;False;THOUSAND C5 D1 U1 cBRL;C5 D1 U1 cBRL
+sete reais e dez centavos;True;U7 cBRL Y1;U7 cBRL Y1
+novecentos e dezesseis reais;True;C9 D1 U6 cBRL;C9 D1 U6 cBRL
+noventa e quatro mil quatrocentos reais;True;D9 U4 THOUSAND C4 cBRL;D9 U4 THOUSAND C4 cBRL
+noventa centavos;True;Y9 cBRL;Y9 cBRL
+quatro reais e dezessete centavos;True;U4 cBRL Y1 Z7;U4 cBRL Y1 Z7
+quatro reais e dez centavos;True;U4 cBRL Y1;U4 cBRL Y1
+vinte e cinco mil novecentos e oitenta reais;True;D2 U5 THOUSAND C9 D8 cBRL;D2 U5 THOUSAND C9 D8 cBRL
+mil quatrocentos e quinze reais;False;THOUSAND C4 D1 U5 cBRL;C4 D1 U5 cBRL
+sete mil setecentos e onze reais;True;U7 THOUSAND C7 D1 U1 cBRL;U7 THOUSAND C7 D1 U1 cBRL
+setenta e nove mil e quinhentos reais;True;D7 U9 THOUSAND C5 cBRL;D7 U9 THOUSAND C5 cBRL
+quinhentos e catorze reais;True;C5 D1 U4 cBRL;C5 D1 U4 cBRL
+dezesseis mil e cem reais;True;D1 U6 THOUSAND C1 cBRL;D1 U6 THOUSAND C1 cBRL
+vinte e oito mil e cem reais;True;D2 U8 THOUSAND C1 cBRL;D2 U8 THOUSAND C1 cBRL
+quinze reais e dezoito centavos;True;D1 U5 cBRL Y1 Z8;D1 U5 cBRL Y1 Z8
+vinte e quatro mil oitocentos e setenta reais;True;D2 U4 THOUSAND C8 D7 cBRL;D2 U4 THOUSAND C8 D7 cBRL
+cento e quarenta e sete reais;True;C1 D4 U7 cBRL;C1 D4 U7 cBRL
+novecentos reais e onze centavos;True;C9 cBRL Y1 Z1;C9 cBRL Y1 Z1
+trezentos e onze reais;True;C3 D1 U1 cBRL;C3 D1 U1 cBRL
+cento e trinta reais;True;C1 D3 cBRL;C1 D3 cBRL
+um real e trinta centavos;False;U1 cBRL Y3;Y3 cBRL
+catorze reais e dezoito centavos;True;D1 U4 cBRL Y1 Z8;D1 U4 cBRL Y1 Z8
+um mil setecentos e doze reais;True;U1 THOUSAND C7 D1 U2 cBRL;U1 THOUSAND C7 D1 U2 cBRL
+quarenta e um centavos;True;Y4 Z1 cBRL;Y4 Z1 cBRL
+mil seiscentos e dezoito reais;False;THOUSAND C6 D1 U8 cBRL;C6 D1 U8 cBRL
+cento e trinta e um reais;True;C1 D3 U1 cBRL;C1 D3 U1 cBRL
+dezesseis reais e quatorze centavos;False;D1 U6 cBRL Y1 Z4;D1 U6 cBRL
+cinquenta e um mil e cem reais;True;D5 U1 THOUSAND C1 cBRL;D5 U1 THOUSAND C1 cBRL
+quarenta e seis mil e cem reais;True;D4 U6 THOUSAND C1 cBRL;D4 U6 THOUSAND C1 cBRL
+setecentos e doze reais;True;C7 D1 U2 cBRL;C7 D1 U2 cBRL
+seis mil e novecentos e dezoito reais;False;Y6 THOUSAND C9 D1 U8 cBRL;U6 THOUSAND C9 D1 U8 cBRL
+quatro mil quatrocentos e onze reais;True;U4 THOUSAND C4 D1 U1 cBRL;U4 THOUSAND C4 D1 U1 cBRL
+noventa e sete reais;True;D9 U7 cBRL;D9 U7 cBRL
+trinta e dois reais;True;D3 U2 cBRL;D3 U2 cBRL
+dezessete reais e quinze centavos;True;D1 U7 cBRL Y1 Z5;D1 U7 cBRL Y1 Z5
+noventa e cinco mil e quinhentos reais;True;D9 U5 THOUSAND C5 cBRL;D9 U5 THOUSAND C5 cBRL
+trezentos e cinquenta reais;True;C3 D5 cBRL;C3 D5 cBRL
+setenta e três centavos;True;Y7 Z3 cBRL;Y7 Z3 cBRL
+três reais e quinze centavos;True;U3 cBRL Y1 Z5;U3 cBRL Y1 Z5
+três reais e dezenove centavos;True;U3 cBRL Y1 Z9;U3 cBRL Y1 Z9
+um mil cento e onze reais;True;U1 THOUSAND C1 D1 U1 cBRL;U1 THOUSAND C1 D1 U1 cBRL
+quatro mil oitocentos e dez reais;True;U4 THOUSAND C8 D1 cBRL;U4 THOUSAND C8 D1 cBRL
+dezoito reais e doze centavos;True;D1 U8 cBRL Y1 Z2;D1 U8 cBRL Y1 Z2
+um mil oitocentos e dez reais;True;U1 THOUSAND C8 D1 cBRL;U1 THOUSAND C8 D1 cBRL
+quinhentos e quarenta reais;True;C5 D4 cBRL;C5 D4 cBRL
+setenta e quatro mil e oitocentos reais é né é;True;D7 U4 THOUSAND C8 cBRL;D7 U4 THOUSAND C8 cBRL
+dois mil oitocentos e onze reais;True;U2 THOUSAND C8 D1 U1 cBRL;U2 THOUSAND C8 D1 U1 cBRL
+sessenta e sete reais;True;D6 U7 cBRL;D6 U7 cBRL
+dezessete mil novecentos e cinquenta reais;True;D1 U7 THOUSAND C9 D5 cBRL;D1 U7 THOUSAND C9 D5 cBRL
+setecentos e trinta reais;True;C7 D3 cBRL;C7 D3 cBRL
+mil seiscentos e dezesseis reais;False;THOUSAND C6 D1 U6 cBRL;C6 D1 U6 cBRL
+treze reais e treze centavos;True;D1 U3 cBRL Y1 Z3;D1 U3 cBRL Y1 Z3
+quinhentos e dezoito reais;True;C5 D1 U8 cBRL;C5 D1 U8 cBRL
+cento e dez reais;True;C1 D1 cBRL;C1 D1 cBRL
+três mil trezentos e doze reais;True;U3 THOUSAND C3 D1 U2 cBRL;U3 THOUSAND C3 D1 U2 cBRL
+vinte e nove centavos;True;Y2 Z9 cBRL;Y2 Z9 cBRL
+seis mil quatrocentos e dezoito reais;True;U6 THOUSAND C4 D1 U8 cBRL;U6 THOUSAND C4 D1 U8 cBRL
+trezentos e setenta reais;True;C3 D7 cBRL;C3 D7 cBRL
+dezoito centavos;True;Y1 Z8 cBRL;Y1 Z8 cBRL
+dois mil setecentos e doze reais;True;U2 THOUSAND C7 D1 U2 cBRL;U2 THOUSAND C7 D1 U2 cBRL
+três mil quinhentos e dezesseis reais;True;U3 THOUSAND C5 D1 U6 cBRL;U3 THOUSAND C5 D1 U6 cBRL
+um real e sessenta e cinco centavos;False;U1 cBRL Y6 Z5;Y6 Z5 cBRL
+oito reais e dezessete centavos;True;U8 cBRL Y1 Z7;U8 cBRL Y1 Z7
+quatrocentos e dezessete reais;True;C4 D1 U7 cBRL;C4 D1 U7 cBRL
+novecentos e cinquenta reais;True;C9 D5 cBRL;C9 D5 cBRL
+sete mil seiscentos e dez reais;True;U7 THOUSAND C6 D1 cBRL;U7 THOUSAND C6 D1 cBRL
+cento e vinte e um reais;True;C1 D2 U1 cBRL;C1 D2 U1 cBRL
+dez reais e quinze centavos;True;D1 cBRL Y1 Z5;D1 cBRL Y1 Z5
+cinquenta e sete reais;True;D5 U7 cBRL;D5 U7 cBRL
+quarenta e um reais;True;D4 U1 cBRL;D4 U1 cBRL
+dezenove centavos;True;Y1 Z9 cBRL;Y1 Z9 cBRL
+um real e dezesseis centavos;False;U1 cBRL Y1 Z6;Y1 Z6 cBRL
+cento e quarenta e três reais;True;C1 D4 U3 cBRL;C1 D4 U3 cBRL
+onze reais e quinze centavos;True;D1 U1 cBRL Y1 Z5;D1 U1 cBRL Y1 Z5
+dezessete reais e dez centavos;True;D1 U7 cBRL Y1;D1 U7 cBRL Y1
+sessenta centavos;True;Y6 cBRL;Y6 cBRL
+cento e setenta reais;True;C1 D7 cBRL;C1 D7 cBRL
+dois mil seiscentos e dezenove reais;True;U2 THOUSAND C6 D1 U9 cBRL;U2 THOUSAND C6 D1 U9 cBRL
+novecentos novecentos e quarenta reais;True;C9 D4 cBRL;C9 D4 cBRL
+sessenta e três mil e quinhentos reais;True;D6 U3 THOUSAND C5 cBRL;D6 U3 THOUSAND C5 cBRL
+seis reais e onze centavos;True;U6 cBRL Y1 Z1;U6 cBRL Y1 Z1
+quinhentos e oitenta reais;True;C5 D8 cBRL;C5 D8 cBRL
+cinco reais e treze centavos;True;U5 cBRL Y1 Z3;U5 cBRL Y1 Z3
+trinta e cinco mil trezentos e oitenta reais;True;D3 U5 THOUSAND C3 D8 cBRL;D3 U5 THOUSAND C3 D8 cBRL
+oito reais e dezessete centavos;True;U8 cBRL Y1 Z7;U8 cBRL Y1 Z7
+cinquenta e oito reais;True;D5 U8 cBRL;D5 U8 cBRL
+cento e oitenta reais;True;C1 D8 cBRL;C1 D8 cBRL
+novecentos e dezoito reais;True;C9 D1 U8 cBRL;C9 D1 U8 cBRL
+dois reais e dezesseis centavos;True;U2 cBRL Y1 Z6;U2 cBRL Y1 Z6
+trinta e dois mil e cem reais;True;D3 U2 THOUSAND C1 cBRL;D3 U2 THOUSAND C1 cBRL
+cinco reais;True;U5 cBRL;U5 cBRL
+oito mil setecentos e dezenove reais;True;U8 THOUSAND C7 D1 U9 cBRL;U8 THOUSAND C7 D1 U9 cBRL
+quinze reais e dezenove centavos;True;D1 U5 cBRL Y1 Z9;D1 U5 cBRL Y1 Z9
+duzentos e noventa reais;True;C2 D9 cBRL;C2 D9 cBRL
+quatrocentos e dezesseis reais;True;C4 D1 U6 cBRL;C4 D1 U6 cBRL
+treze reais e dezesseis centavos;True;D1 U3 cBRL Y1 Z6;D1 U3 cBRL Y1 Z6
+cinquenta e cinco centavos;True;Y5 Z5 cBRL;Y5 Z5 cBRL
+mil e cem reais;False;THOUSAND C1 cBRL;C1 cBRL
+seiscentos e cinquenta reais;True;C6 D5 cBRL;C6 D5 cBRL
+cento e cinquenta reais;True;C1 D5 cBRL;C1 D5 cBRL
+oitenta e dois centavos;True;Y8 Z2 cBRL;Y8 Z2 cBRL
+dezesseis reais e onze centavos;True;D1 U6 cBRL Y1 Z1;D1 U6 cBRL Y1 Z1
+quatro reais e dezenove centavos;True;U4 cBRL Y1 Z9;U4 cBRL Y1 Z9
+cento e noventa e seis reais;True;C1 D9 U6 cBRL;C1 D9 U6 cBRL
+cinquenta e seis mil e cem reais;True;D5 U6 THOUSAND C1 cBRL;D5 U6 THOUSAND C1 cBRL
+quatrocentos e oitenta reais;True;C4 D8 cBRL;C4 D8 cBRL
+cento e sessenta e seis reais;True;C1 D6 U6 cBRL;C1 D6 U6 cBRL
+cento e dezenove reais;True;C1 D1 U9 cBRL;C1 D1 U9 cBRL
+sessenta e um centavos;True;Y6 Z1 cBRL;Y6 Z1 cBRL
+cento e trinta e seis reais;True;C1 D3 U6 cBRL;C1 D3 U6 cBRL
+oito centavos;True;Z8 cBRL;Z8 cBRL
+dois mil trezentos e treze reais;True;U2 THOUSAND C3 D1 U3 cBRL;U2 THOUSAND C3 D1 U3 cBRL
+sete mil trezentos e treze reais;True;U7 THOUSAND C3 D1 U3 cBRL;U7 THOUSAND C3 D1 U3 cBRL
+sessenta e quatro centavos;True;Y6 Z4 cBRL;Y6 Z4 cBRL
+nove reais e quinze centavos;True;U9 cBRL Y1 Z5;U9 cBRL Y1 Z5
+cento e sessenta e nove reais;True;C1 D6 U9 cBRL;C1 D6 U9 cBRL
+três reais e dezoito centavos;True;U3 cBRL Y1 Z8;U3 cBRL Y1 Z8

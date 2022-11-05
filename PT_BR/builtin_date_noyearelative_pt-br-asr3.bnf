@@ -1,0 +1,248 @@
+#ABNF 1.0 ISO8859-1;
+
+//  ---------------------------------------------------------------------------
+// Reconodimiento de fechas
+// 16/10/2003
+// Copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+  
+// ---------------------------------------------------------------------------
+// Gramática Principal
+// En función del tipo de fecha a detectar, activar o desactivar las
+// gramáticas públicas que procedan
+// ---------------------------------------------------------------------------
+public $date_noyear= $GARBAGE* $fecha $GARBAGE*;								// hoy 1 de enero
+public $date_relative = $GARBAGE* $relative $GARBAGE*;							// anteayer, ...
+public $date_special =	$GARBAGE* $special $GARBAGE*;							// reyes, navidad, ... 
+// ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// Gramáticas Auxiliares
+// ---------------------------------------------------------------------------
+$SIL = 
+	"[SIL]" {} 	|
+	"[H]"   {}	;
+
+$day_name =
+	segunda {W1}				|
+	terça 	{W2}					|
+	"terça feira" {W2}		|
+	quarta {W3}					|
+	"quarta feira" {W3}		|
+	quinta 	{W4}					|
+	"quinta feira" {W4}		|
+	sexta {W5}					|
+	"sexta feira" {W5}		|
+	sábado	{W6}					|
+	domingo	 {W7}	;
+
+
+$day_01_31 =
+ 	um {D01}					|
+	dois {D02}				|
+	três {D03}				|
+	quatro {D04}			|
+	cinco {D05}				|
+	seis {D06}				|
+	sete {D07}				|
+	oito {D08}				|
+	nove {D09}				|
+	dez	{D10}				|
+	onze	{D11}				|
+	doze	{D12}				|
+	treze {D13}				|
+	catorze	 {D14}			|
+	quinze {D15}			|
+	dezesseis {D16}		|
+	dezessete {D17}		|
+	dezoito {D18}		|
+	dezenove {D19}		|
+	vinte {D20}			|
+	"vinte e um" {D21} 			|
+	"vinte e dois" {D22} 		|
+	"vinte e três" {D23}		|
+	"vinte e quatro" {D24} 	|
+	"vinte e cinco" 	{D25}	|
+	"vinte e seis" {D26}		|
+	"vinte e sete" {D27}		|
+	"vinte e oito" {D28}		|
+	"vinte e nove" 	{D29}	|
+	trinta	 {D30}					|
+	"trinta e um"	{D31};
+
+$month_name =
+ 	janeiro {M01}			|
+	fevereiro	 {M02}		|
+	março {M03}			|
+	abril {M04}			|
+	maio	{M05}			|
+	junho {M06}			|
+	julho {M07}			|
+	agosto	{M08}		|
+	setembro {M09}	|
+	outubro	 {M10}		|
+	novembro	{M11}	|
+	dezembro	{M12};
+
+$month_01_12 = 
+	um {M01}					|
+	dois {M02}					|
+	três {M03}				|
+	quatro {M04}			|
+	cinco {M05}				|
+	seis {M06}				|
+	sete {M07}				|
+	oito {M08}				|
+	nove {M09}				|
+	dez	{M10}				|
+	onze	{M11}				|
+	doze	{M12};
+
+$redundancy=
+	(no | o) {} [( próximo {} | passado {} )] |
+	hoje {} | 
+	amanhã {};
+
+$day_expresion = 
+	[[$redundancy] $day_name] |
+	[[$redundancy] [$day_name]] [dia {}] $SIL* $day_01_31 ;
+
+$day_expresion_nomonth = 
+	[[$redundancy] $day_name] |
+	[[$redundancy] [$day_name]] [dia {}] $SIL* $day_01_31 ;
+
+$day_expresion_month = 
+	[[$redundancy] [$day_name]] [dia {}] $SIL* $day_01_31 ;
+
+$month_expresion =
+	$SIL* ( de {} $month_name | do {} $month_01_12 ) ;
+
+$special = ( [para {} | por {}] [o {} | em {}] ["o dia de" {}])
+	(
+	"primeiro de maio" {S0105}		|
+	"ano novo"	{S0101}			|
+	"são joão" {S2406}			|
+	"dia das crianças" {S1210}		|
+	"quinze de novembro" {S1511}		|
+	"véspera de natal" {S2412}		|
+	natal {S2512});
+
+$day_relative = 
+	dois {A02}					|
+	três {A03}				|
+	quatro {A04}			|
+	cinco {A05}				|
+	seis {A06}				|
+	sete {A07}				|
+	oito {A08}				|
+	nove {A09}				|
+	dez	{A10}				|
+	onze	{A11}				|
+	doze	{A12}				|
+	treze {A13}				|
+	catorze	 {A14}			|
+	quinze {A15};
+
+$day_increase =
+	segunda {B01}	|
+	"segunda feira" {B01}	|
+	terça 	{B02}	|
+	"terça feira" 	{B02}	|
+	quarta {B03}	|
+	"quarta feira" {B03}	|
+	quinta 	{B04}	|
+	"quinta feira" 	{B04}	|
+	sexta {B05}		|
+	"sexta feira" {B05}		|
+	sábado	{B06}	|
+	domingo	 {B07}	;
+
+$month_relative = 
+	dois {C02}					|
+	três {C03}				|
+	quatro {C04}			|
+	cinco {C05}				|
+	seis {C06}				|
+	sete {C07}				|
+	oito {C08}				|
+	nove {C09}				|
+	dez	{C10}				|
+	onze	{C11}				|
+	doze	{C12};
+
+$day_decrease =
+	segunda {E01}	|
+	"segunda feira" {E01}	|
+	terça 	{E02}	|
+	"terça feira" 	{E02}	|
+	quarta {E03}	|
+	"quarta feira" {E03}	|
+	quinta 	{E04}	|
+	"quinta feira" 	{E04}	|
+	sexta {E05}		|
+	"sexta feira" {E05}		|
+	sábado	{E06}	|
+	domingo	 {E07}	;
+
+$day_back = 
+	um {F01}					|
+	dois {F02}				|
+	três {F03}				|
+	quatro {F04}			|
+	cinco {F05}				|
+	seis {F06}				|
+	sete {F07}				|
+	oito {F08}				|
+	nove {F09}				|
+	dez	{F10}				|
+	onze	{F11}				|
+	doze	{F12}				|
+	treze {F13}				|
+	catorze	 {F14}			|
+	quinze {F15};
+
+$month_back = 
+	dois {G02}					|
+	três {G03}				|
+	quatro {G04}			|
+	cinco {G05}				|
+	seis {G06}				|
+	sete {G07}				|
+	oito {G08}				|
+	nove {G09}				|
+	dez	{G10}				|
+	onze	{G11}				|
+	doze	{G12};
+
+$relative = 	
+	"dentro de um dia" {A01}					|
+	(o{}|no{}) "dia seguinte" {A01}					|
+	dentro {} de {} $day_relative dias {}				|
+	"há um dia" {F01}						|
+	tem {} $day_back dias {}					|
+	"dentro de um mês" {C01}					|
+	(o{}|no{}) "mês seguinte"{C01}					|
+	dentro {} de {} $month_relative meses {}			|
+	"há um mês" {G01}						|
+	"tem um mês" {G01}                                              |
+	"o mês passado" {G01}						|
+	há {} $month_back meses {}					|
+	no {} mês {C01} $SIL* que {} vem {} 				|
+	na {} $day_increase $SIL* que{} vem {} 				|
+	na {} $day_decrease $SIL* passado {} 				|		
+	na {} [ próximo {} $SIL* ] $day_increase			|
+	"a semana" {B00} (que{} vem {} | próxima{})			|
+	"na próxima semana" {B00} 					|
+	"na semana passada" {E00} 					|	
+	o {} [(próximo {} | seguinte {})] ["mês de" {}] $month_name	|
+	amanhã {A01}							|
+	"depois de amanhã" {A02}					|
+	hoje	{A00}							|
+	ontem {F01}							|
+	"antes de ontem" {F02}						|
+	anteontem {F02};
+
+$fecha = 
+	$day_expresion_nomonth | $day_expresion_month $month_expresion;
+	
+// ---------------------------------------------------------------------------

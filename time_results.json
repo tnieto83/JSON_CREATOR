@@ -1,0 +1,479 @@
+[
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H06 TR",
+            "text": "seis horas da tarde"
+        },
+        "success": true,
+        "tags": "H06 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H02 M30",
+            "text": "duas e meia"
+        },
+        "success": true,
+        "tags": "H02 M30"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H19 M44",
+            "text": "dezenove e quarenta e quatro"
+        },
+        "success": true,
+        "tags": "H19 M44"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H17 M20",
+            "text": "dezessete horas e vinte minutos"
+        },
+        "success": true,
+        "tags": "H17 M20"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H16 M32",
+            "text": "dezesseis e trinta e dois"
+        },
+        "success": true,
+        "tags": "H16 M32"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H10 M17",
+            "text": "dez e dezessete"
+        },
+        "success": true,
+        "tags": "H10 M17"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H12 M05",
+            "text": "doze e cinco"
+        },
+        "success": true,
+        "tags": "H12 M05"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H05 M30 TR",
+            "text": "cinco e meia da tarde"
+        },
+        "success": true,
+        "tags": "H05 M30 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H10 M30 MR",
+            "text": "são dez e meia da manhã"
+        },
+        "success": true,
+        "tags": "H10 M30 MR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H06 TR",
+            "text": "seis horas da tarde"
+        },
+        "success": true,
+        "tags": "H06 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H02 M50 MR",
+            "text": "duas e cinquenta da manhã"
+        },
+        "success": true,
+        "tags": "H02 M50 MR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H02 M15 MR",
+            "text": "duas e quinze da manhã"
+        },
+        "success": true,
+        "tags": "H02 M15 MR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H07 M53 NT",
+            "text": "sete e cinquenta e três da noite"
+        },
+        "success": true,
+        "tags": "H07 M53 NT"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H10 MR",
+            "text": "são dez horas da manhã"
+        },
+        "success": true,
+        "tags": "H10 MR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M05 L H03",
+            "text": "cinco para as três"
+        },
+        "success": true,
+        "tags": "M05 L H03"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H01 M30 TR",
+            "text": "uma e meia da tarde"
+        },
+        "success": true,
+        "tags": "H01 M30 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H06 M10 TR",
+            "text": "seis e dez da tarde"
+        },
+        "success": true,
+        "tags": "H06 M10 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H11 M30 NT",
+            "text": "onze e meia da noite"
+        },
+        "success": true,
+        "tags": "H11 M30 NT"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H20 M15",
+            "text": "vinte horas e quinze minutos"
+        },
+        "success": true,
+        "tags": "H20 M15"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H19 M45",
+            "text": "dezenove e quarenta e cinco"
+        },
+        "success": true,
+        "tags": "H19 M45"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H18 M05",
+            "text": "dezoito horas e cinco minutos"
+        },
+        "success": true,
+        "tags": "H18 M05"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M20 L H04",
+            "text": "vinte pras quatro"
+        },
+        "success": true,
+        "tags": "M20 L H04"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "M10 L H01",
+            "text": "dez pra uma"
+        },
+        "success": false,
+        "tags": "H10"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H06 M30 TR",
+            "text": "seis e meia da tarde"
+        },
+        "success": true,
+        "tags": "H06 M30 TR"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "MN M03",
+            "text": "meia-noite e três"
+        },
+        "success": false,
+        "tags": "H03"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "MN",
+            "text": "meia-noite"
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H03 M30 TR",
+            "text": "três e meia da tarde"
+        },
+        "success": true,
+        "tags": "H03 M30 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H10 NT",
+            "text": "são dez horas da noite"
+        },
+        "success": true,
+        "tags": "H10 NT"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M15 L H08",
+            "text": "quinze pras oito"
+        },
+        "success": true,
+        "tags": "M15 L H08"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H18 M50",
+            "text": "dezoito e cinquenta"
+        },
+        "success": true,
+        "tags": "H18 M50"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H17 M35",
+            "text": "dezessete horas e trinta e cinco minutos"
+        },
+        "success": true,
+        "tags": "H17 M35"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "H22",
+            "text": "vinte e duas horas"
+        },
+        "success": false,
+        "tags": "H20 M02"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M10 L H07",
+            "text": "dez pras sete"
+        },
+        "success": true,
+        "tags": "M10 L H07"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M20 L H08",
+            "text": "vinte para as oito"
+        },
+        "success": true,
+        "tags": "M20 L H08"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M20 L H02",
+            "text": "vinte para as duas"
+        },
+        "success": true,
+        "tags": "M20 L H02"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "M14",
+            "text": "catorze minutos"
+        },
+        "success": false,
+        "tags": "H14"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "M19",
+            "text": "dezenove minutos"
+        },
+        "success": false,
+        "tags": "H19"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "H01 M06 TR",
+            "text": "umas e seis da tarde"
+        },
+        "success": false,
+        "tags": "H06 TR"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M10 L H11",
+            "text": "dez pras onze"
+        },
+        "success": true,
+        "tags": "M10 L H11"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H11 M15",
+            "text": "é onze horas e quinze minutos"
+        },
+        "success": true,
+        "tags": "H11 M15"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "M05 L H03",
+            "text": "cinco para as três"
+        },
+        "success": true,
+        "tags": "M05 L H03"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H06 M30",
+            "text": "seis e meia"
+        },
+        "success": true,
+        "tags": "H06 M30"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "H22 M34",
+            "text": "vinte e duas horas e trinta e quatro minutos"
+        },
+        "success": false,
+        "tags": "H02 M34"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H08 M20",
+            "text": "oito e vinte"
+        },
+        "success": true,
+        "tags": "H08 M20"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H08 M10",
+            "text": "oito hora oito e dez"
+        },
+        "success": true,
+        "tags": "H08 M10"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H19 M45",
+            "text": "dezenove e quarenta e cinco"
+        },
+        "success": true,
+        "tags": "H19 M45"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "M25",
+            "text": "vinte e cinco minutos"
+        },
+        "success": false,
+        "tags": "H20 M05"
+    },
+    {
+        "error_message": "FAILED (text does not match the grammar)",
+        "reference": {
+            "tags": "H15 M42",
+            "text": ""
+        },
+        "success": false,
+        "tags": ""
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H15 M42",
+            "text": "quinze e quarenta e dois"
+        },
+        "success": true,
+        "tags": "H15 M42"
+    },
+    {
+        "error_message": "FAILED (tags does not match): ",
+        "reference": {
+            "tags": "M18",
+            "text": "dezoito minutos"
+        },
+        "success": false,
+        "tags": "H18"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H13 M58",
+            "text": "treze horas e cinquenta e oito minutos"
+        },
+        "success": true,
+        "tags": "H13 M58"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H13 M45",
+            "text": "treze horas quarenta e cinco minutos"
+        },
+        "success": true,
+        "tags": "H13 M45"
+    },
+    {
+        "error_message": "",
+        "reference": {
+            "tags": "H11 M18",
+            "text": "onze horas e dezoito minutos"
+        },
+        "success": true,
+        "tags": "H11 M18"
+    }
+]

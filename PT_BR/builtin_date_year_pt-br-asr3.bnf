@@ -1,0 +1,175 @@
+#ABNF 1.0 ISO8859-1;
+ 
+// ---------------------------------------------------------------------------
+// Reconodimiento de fechas
+// 16/10/2003
+// Copyright: Applied Tecnologies on Language and Speech (ATLAS) S.L.
+// ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// Gramática Principal
+// En función del tipo de fecha a detectar, activar o desactivar las
+// gramáticas públicas que procedan
+// ---------------------------------------------------------------------------
+public $date_year = $GARBAGE*	[$fecha] [$year_expresion] $GARBAGE*;	// 1 de enero [del 83]
+// ---------------------------------------------------------------------------
+
+// ---------------------------------------------------------------------------
+// Gramáticas Auxiliares
+// ---------------------------------------------------------------------------
+$SIL = 
+	"[SIL]" {} 	|
+	"[H]"   {}	;
+
+$day_name =
+	segunda {W1}				|
+	"segunda feira" {W1}	|
+	terça 	{W2}					|
+	"terça feira" {W2}		|
+	quarta {W3}					|
+	"quarta feira" {W3}		|
+	quinta 	{W4}					|
+	"quinta feira" {W4}		|
+	sexta {W5}					|
+	"sexta feira" {W5}		|
+	sábado	{W6}					|
+	domingo	 {W7}	;
+
+$day_01_31 =
+ 	um {D01}					|
+	dois {D02}				|
+	três {D03}				|
+	quatro {D04}			|
+	cinco {D05}				|
+	seis {D06}				|
+	sete {D07}				|
+	oito {D08}				|
+	nove {D09}				|
+	dez	{D10}				|
+	onze	{D11}				|
+	doze	{D12}				|
+	treze {D13}				|
+	catorze	 {D14}			|
+	quinze {D15}			|
+	dezesseis {D16}		|
+	dezessete {D17}		|
+	dezoito {D18}			|
+	dezenove {D19}			|
+	vinte {D20}				|
+	"vinte e um" {D21} 			|
+	"vinte e dois" {D22} 		|
+	"vinte e três" {D23}		|
+	"vinte e quatro" {D24} 	|
+	"vinte e cinco" 	{D25}	|
+	"vinte e seis" {D26}		|
+	"vinte e sete" {D27}		|
+	"vinte e oito" {D28}		|
+	"vinte e nove" 	{D29}	|
+	trinta	 {D30}					|
+	"trinta e um"	{D31};
+
+$month_name =
+ 	janeiro {M01}		|
+	fevereiro	 {M02}	|
+	março {M03}			|
+	abril {M04}			|
+	maio	{M05}			|
+	junho {M06}			|
+	julho {M07}			|
+	agosto	{M08}		|
+	setembro {M09}		|
+	outubro	 {M10}		|
+	novembro	{M11}	|
+	dezembro	{M12};
+
+
+$month_01_12 = 
+	um {M01}					|
+	dois {M02}				|
+	três {M03}				|
+	quatro {M04}			|
+	cinco {M05}				|
+	seis {M06}				|
+	sete {M07}				|
+	oito {M08}				|
+	nove {M09}				|
+	dez	{M10}				|
+	onze	{M11}				|
+	doze	{M12};
+
+
+$number_01_09 =
+ 	um {u01}			|
+	dois {u02} 		|
+	três {u03} 		|
+	quatro {u04}	|
+	cinco {u05} 	|
+	seis {u06} 		|
+	sete {u07} 		|
+	oito {u08} 		|
+	nove {u09} 	;
+
+$number_10_20=
+	dez	{u10}			|
+	onze	{u11}			|
+	doze	{u12}			|
+	treze {u13}			|
+	catorze	 {u14}		|
+	quinze {u15}		|
+	dezesseis	{u16}	|
+	dezessete {u17}	|
+	dezoito	{u18}	|
+	dezenove {u19}	|
+	vinte {u20};
+
+$number_21_29 =
+	"vinte e um" {u21} 		|
+	"vinte e dois" {u22}		|
+	"vinte e três" {u23}		|
+	"vinte e quatro" {u24}	|
+	"vinte e cinco" {u25}	|
+	"vinte e seis" {u26}		|
+	"vinte e sete" {u27}	|
+	"vinte e oito" {u28}		|
+	"vinte e nove" {u29}	;
+
+$number_decenas_30_90=
+	trinta		{d03} $SIL	|
+	quarenta 	{d04}		|
+	cinqüenta	{d05}		|
+	sessenta	{d06}		|
+	setenta  	{d07} $SIL	|
+	oitenta 	{d08} 		|
+	noventa	 	{d09};
+
+$number_01_99 =
+	$number_01_09	|
+	$number_10_20	|
+	$number_21_29	|
+	$number_decenas_30_90 [e {} $number_01_09] ;
+
+$year_number =
+	 ("dois mil" {m02} | mil {m01} novecentos {c09}) [ e {} $number_01_99 ]  ;
+
+$redundancy=
+	o {} [( próximo {} | passado {} )] |
+	hoje {} | 
+	amanhã {};
+
+$day_expresion_nomonth = 
+	[[$redundancy] $day_name] |
+	[[$redundancy] [$day_name]] [dia {}] $SIL* $day_01_31 ;
+
+$day_expresion_month = 
+	[[$redundancy] [$day_name]] [dia {}] $SIL* $day_01_31 ;
+
+$month_expresion =
+	$SIL* ( de {} $month_name | do {} $month_01_12 ) ;
+
+$year_expresion = 
+	$SIL* [em {}] [o {} | de {} | do {} | no {}] [ano{}] $SIL* ( $year_number )  | 
+	$SIL* [em {}] [o {} | do {} | no {}] [ano{}] $number_01_99 ;
+
+$fecha =
+	$day_expresion_nomonth | $day_expresion_month $month_expresion;
+// ---------------------------------------------------------------------------

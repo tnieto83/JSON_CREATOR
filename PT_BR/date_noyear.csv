@@ -1,0 +1,371 @@
+text;success;reference;tags
+faz cinco anos;False;- YC05;D05
+há um mês;False;- MC01;D01
+três dias atrás;False;DC03 -;D03
+paguei na semana passada;False;- DC07;
+só depois de amanhã;False;+ DC02;
+amanhã;False;+ DC01;
+terça feira passada nove do onze;False;W2 D09 M11;D09 do M11
+terça feira passada nove do onze;False;W2 D09 M11;D09 do M11
+quinta que vem nove de novembro;False;W4 D09 M11;D09 M11
+quinta que vem nove de novembro;False;W4 D09 M11;D09 M11
+na última segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+na última segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+no próximo dia um de novembro;True;D01 M11;D01 M11
+no próximo dia um de novembro;True;D01 M11;D01 M11
+ontem;False;- DC01;
+onze de março;True;D11 M03;D11 M03
+onze de março;True;D11 M03;D11 M03
+treze de outubro;True;D13 M10;D13 M10
+treze de outubro;True;D13 M10;D13 M10
+vinte do oito;False;D20 M08;D20 do M08
+vinte do oito;False;D20 M08;D20 do M08
+sete do três;False;D07 M03;D07 do M03
+sete do três;False;D07 M03;D07 do M03
+seis do oito;False;D06 M08;D06 do M08
+seis do oito;False;D06 M08;D06 do M08
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+quinta um do doze;False;W4 D01 M12;W4 D01 do M12
+quinta um do doze;False;W4 D01 M12;W4 D01 do M12
+terça feira nove do onze;False;W2 D09 M11;W2 D09 do M11
+terça feira nove do onze;False;W2 D09 M11;W2 D09 do M11
+sábado seis de março;True;W6 D06 M03;W6 D06 M03
+sábado seis de março;True;W6 D06 M03;W6 D06 M03
+sexta-feira treze de outubro;False;W5 D13 M10;D13 M10
+sexta-feira treze de outubro;False;W5 D13 M10;D13 M10
+quinta nove de novembro;True;W4 D09 M11;W4 D09 M11
+quinta nove de novembro;True;W4 D09 M11;W4 D09 M11
+quarta-feira vinte e oito de setembro;False;W3 D28 M09;D28 M09
+quarta-feira vinte e oito de setembro;False;W3 D28 M09;D28 M09
+terça sete do sete;False;W2 D07 M07;W2 D07 do M07
+terça sete do sete;False;W2 D07 M07;W2 D07 do M07
+segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+domingo vinte de novembro;True;W7 D20 M11;W7 D20 M11
+domingo vinte de novembro;True;W7 D20 M11;W7 D20 M11
+quatorze do três;False;D14 M03;D03
+quatorze do três;False;D14 M03;D03
+no dia um de novembro;True;D01 M11;D01 M11
+no dia um de novembro;True;D01 M11;D01 M11
+primeiro de junho;False;D01 M06;
+primeiro de junho;False;D01 M06;
+catorze de fevereiro;True;D14 M02;D14 M02
+catorze de fevereiro;True;D14 M02;D14 M02
+dezessete de dezembro;True;D17 M12;D17 M12
+dezessete de dezembro;True;D17 M12;D17 M12
+dois de junho;True;D02 M06;D02 M06
+dois de junho;True;D02 M06;D02 M06
+cinco de outubro;True;D05 M10;D05 M10
+cinco de outubro;True;D05 M10;D05 M10
+sete de setembro;True;D07 M09;D07 M09
+sete de setembro;True;D07 M09;D07 M09
+três de agosto;True;D03 M08;D03 M08
+três de agosto;True;D03 M08;D03 M08
+no natal;False;D25 M12;
+no natal;False;D25 M12;
+vinte e sete de março;True;D27 M03;D27 M03
+vinte e sete de março;True;D27 M03;D27 M03
+um do dois;False;D01 M02;D01 do M02
+um do dois;False;D01 M02;D01 do M02
+trinta de janeiro;True;D30 M01;D30 M01
+trinta de janeiro;True;D30 M01;D30 M01
+trinta e um do doze;False;D31 M12;D31 do M12
+trinta e um do doze;False;D31 M12;D31 do M12
+vinte e nove do onze;False;D29 M11;D29 do M11
+vinte e nove do onze;False;D29 M11;D29 do M11
+vinte e oito do dez;False;D28 M10;D28 do M10
+vinte e oito do dez;False;D28 M10;D28 do M10
+vinte e sete do nove;False;D27 M09;D27 do M09
+vinte e sete do nove;False;D27 M09;D27 do M09
+vinte e seis do sete;False;D26 M07;D26 do M07
+vinte e seis do sete;False;D26 M07;D26 do M07
+vinte e cinco do oito;False;D25 M08;D25 do M08
+vinte e cinco do oito;False;D25 M08;D25 do M08
+vinte e quatro do seis;False;D24 M06;D24 do M06
+vinte e quatro do seis;False;D24 M06;D24 do M06
+vinte e três do quatro;False;D23 M04;D23 do M04
+vinte e três do quatro;False;D23 M04;D23 do M04
+vinte e um do dois;False;D21 M02;D21 do M02
+vinte e um do dois;False;D21 M02;D21 do M02
+vinte do um;False;D20 M01;D20 do M01
+vinte do um;False;D20 M01;D20 do M01
+dezenove do doze;False;D19 M12;D19 do M12
+dezenove do doze;False;D19 M12;D19 do M12
+dezoito de novembro;True;D18 M11;D18 M11
+dezoito de novembro;True;D18 M11;D18 M11
+dezessete de outubro;True;D17 M10;D17 M10
+dezessete de outubro;True;D17 M10;D17 M10
+dezesseis de setembro;True;D16 M09;D16 M09
+dezesseis de setembro;True;D16 M09;D16 M09
+quinze de agosto;True;D15 M08;D15 M08
+quinze de agosto;True;D15 M08;D15 M08
+catorze de julho;True;D14 M07;D14 M07
+catorze de julho;True;D14 M07;D14 M07
+treze de junho;True;D13 M06;D13 M06
+treze de junho;True;D13 M06;D13 M06
+doze de maio;True;D12 M05;D12 M05
+doze de maio;True;D12 M05;D12 M05
+primeiro de abril;False;D01 M04;
+primeiro de abril;False;D01 M04;
+onze de março;True;D11 M03;D11 M03
+onze de março;True;D11 M03;D11 M03
+treze de fevereiro;True;D13 M02;D13 M02
+treze de fevereiro;True;D13 M02;D13 M02
+nove de janeiro;True;D09 M01;D09 M01
+nove de janeiro;True;D09 M01;D09 M01
+oito de dezembro;True;D08 M12;D08 M12
+oito de dezembro;True;D08 M12;D08 M12
+ontem;False;- DC01;
+amanhã;False;+ DC01;
+no próximo ano;False;+ YC01;
+às terças-feiras;False;W2;
+às terças-feiras;False;W2;
+todo domingo;True;W7;W7
+todo domingo;True;W7;W7
+todo sábado;True;W6;W6
+todo sábado;True;W6;W6
+ontem à noite;False;- DC01;
+hoje cedo;False;DC00;
+ontem cedo;False;- DC01;
+depois do natal;False;D25 M12;
+depois do natal;False;D25 M12;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+ontem cedo;False;- DC01;
+aos sábados;False;W6;
+aos sábados;False;W6;
+ontem;False;- DC01;
+às sextas-feiras;False;W5;
+às sextas-feiras;False;W5;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+no natal;False;D25 M12;
+no natal;False;D25 M12;
+ontem de manhã;False;- DC01;
+todo sábado;True;W6;W6
+todo sábado;True;W6;W6
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+aos sábados;False;W6;
+aos sábados;False;W6;
+hoje à tarde;False;DC00;
+anteontem;False;- DC02;
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+ontem;False;- DC01;
+no mês passado;False;MC01 -;
+às quintas-feiras;False;W4;
+às quintas-feiras;False;W4;
+ontem à noite;False;- DC01;
+toda quarta;True;W3;W3
+toda quarta;True;W3;W3
+hoje à tarde;False;DC00;
+hoje cedo;False;DC00;
+amanhã;False;DC01 +;
+hoje cedo;False;DC00;
+toda sexta;True;W5;W5
+toda sexta;True;W5;W5
+às terças-feiras;False;W2;
+às terças-feiras;False;W2;
+toda quarta;True;W3;W3
+toda quarta;True;W3;W3
+amanhã;False;+ DC01;
+no mês passado;False;MC01 -;
+antes do natal;False;D25 M12;
+antes do natal;False;D25 M12;
+no ano passado;False;YC01 -;
+amanhã à noite;False;+ DC01;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+toda sexta;True;W5;W5
+toda sexta;True;W5;W5
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+no mês que vem;False;MC01 +;
+no mês passado;False;MC01 -;
+amanhã à noite;False;+ DC01;
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+toda segunda;True;W1;W1
+toda segunda;True;W1;W1
+aos sábados;False;W6;
+aos sábados;False;W6;
+no próximo mês;False;+ MC01;
+aos domingos;False;W7;
+aos domingos;False;W7;
+hoje cedo;False;DC00;
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+toda segunda;True;W1;W1
+toda segunda;True;W1;W1
+terça feira passada nove do onze;False;W2 D09 M11;D09 do M11
+terça feira passada nove do onze;False;W2 D09 M11;D09 do M11
+quinta que vem nove de novembro;False;W4 D09 M11;D09 M11
+quinta que vem nove de novembro;False;W4 D09 M11;D09 M11
+na última segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+na última segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+no próximo dia um de novembro;True;D01 M11;D01 M11
+no próximo dia um de novembro;True;D01 M11;D01 M11
+onze de março;True;D11 M03;D11 M03
+onze de março;True;D11 M03;D11 M03
+treze de outubro;True;D13 M10;D13 M10
+treze de outubro;True;D13 M10;D13 M10
+vinte do oito;False;D20 M08;D20 do M08
+vinte do oito;False;D20 M08;D20 do M08
+sete do três;False;D07 M03;D07 do M03
+sete do três;False;D07 M03;D07 do M03
+seis do oito;False;D06 M08;D06 do M08
+seis do oito;False;D06 M08;D06 do M08
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+quinta um do doze;False;W4 D01 M12;W4 D01 do M12
+quinta um do doze;False;W4 D01 M12;W4 D01 do M12
+terça feira nove do onze;False;W2 D09 M11;W2 D09 do M11
+terça feira nove do onze;False;W2 D09 M11;W2 D09 do M11
+sábado seis de março;True;W6 D06 M03;W6 D06 M03
+sábado seis de março;True;W6 D06 M03;W6 D06 M03
+sexta-feira treze de outubro;False;W5 D13 M10;D13 M10
+sexta-feira treze de outubro;False;W5 D13 M10;D13 M10
+quinta nove de novembro;True;W4 D09 M11;W4 D09 M11
+quinta nove de novembro;True;W4 D09 M11;W4 D09 M11
+quarta-feira vinte e oito de setembro;False;W3 D28 M09;D28 M09
+quarta-feira vinte e oito de setembro;False;W3 D28 M09;D28 M09
+terça sete do sete;False;W2 D07 M07;W2 D07 do M07
+terça sete do sete;False;W2 D07 M07;W2 D07 do M07
+segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+segunda-feira treze de agosto;False;W1 D13 M08;D13 M08
+domingo vinte de novembro;True;W7 D20 M11;W7 D20 M11
+domingo vinte de novembro;True;W7 D20 M11;W7 D20 M11
+quatorze do três;False;D14 M03;D03
+quatorze do três;False;D14 M03;D03
+no dia um de novembro;True;D01 M11;D01 M11
+no dia um de novembro;True;D01 M11;D01 M11
+primeiro de junho;False;D01 M06;
+primeiro de junho;False;D01 M06;
+catorze de fevereiro;True;D14 M02;D14 M02
+catorze de fevereiro;True;D14 M02;D14 M02
+dezessete de dezembro;True;D17 M12;D17 M12
+dezessete de dezembro;True;D17 M12;D17 M12
+dois de junho;True;D02 M06;D02 M06
+dois de junho;True;D02 M06;D02 M06
+cinco de outubro;True;D05 M10;D05 M10
+cinco de outubro;True;D05 M10;D05 M10
+sete de setembro;True;D07 M09;D07 M09
+sete de setembro;True;D07 M09;D07 M09
+três de agosto;True;D03 M08;D03 M08
+três de agosto;True;D03 M08;D03 M08
+no natal;False;D25 M12;
+no natal;False;D25 M12;
+vinte e sete de março;True;D27 M03;D27 M03
+vinte e sete de março;True;D27 M03;D27 M03
+um do dois;False;D01 M02;D01 do M02
+um do dois;False;D01 M02;D01 do M02
+trinta de janeiro;True;D30 M01;D30 M01
+trinta de janeiro;True;D30 M01;D30 M01
+trinta e um do doze;False;D31 M12;D31 do M12
+trinta e um do doze;False;D31 M12;D31 do M12
+vinte e nove do onze;False;D29 M11;D29 do M11
+vinte e nove do onze;False;D29 M11;D29 do M11
+vinte e oito do dez;False;D28 M10;D28 do M10
+vinte e oito do dez;False;D28 M10;D28 do M10
+vinte e sete do nove;False;D27 M09;D27 do M09
+vinte e sete do nove;False;D27 M09;D27 do M09
+vinte e seis do sete;False;D26 M07;D26 do M07
+vinte e seis do sete;False;D26 M07;D26 do M07
+vinte e cinco do oito;False;D25 M08;D25 do M08
+vinte e cinco do oito;False;D25 M08;D25 do M08
+vinte e quatro do seis;False;D24 M06;D24 do M06
+vinte e quatro do seis;False;D24 M06;D24 do M06
+vinte e três do quatro;False;D23 M04;D23 do M04
+vinte e três do quatro;False;D23 M04;D23 do M04
+vinte e um do dois;False;D21 M02;D21 do M02
+vinte e um do dois;False;D21 M02;D21 do M02
+vinte do um;False;D20 M01;D20 do M01
+vinte do um;False;D20 M01;D20 do M01
+dezenove do doze;False;D19 M12;D19 do M12
+dezenove do doze;False;D19 M12;D19 do M12
+dezoito de novembro;True;D18 M11;D18 M11
+dezoito de novembro;True;D18 M11;D18 M11
+dezessete de outubro;True;D17 M10;D17 M10
+dezessete de outubro;True;D17 M10;D17 M10
+dezesseis de setembro;True;D16 M09;D16 M09
+dezesseis de setembro;True;D16 M09;D16 M09
+quinze de agosto;True;D15 M08;D15 M08
+quinze de agosto;True;D15 M08;D15 M08
+catorze de julho;True;D14 M07;D14 M07
+catorze de julho;True;D14 M07;D14 M07
+treze de junho;True;D13 M06;D13 M06
+treze de junho;True;D13 M06;D13 M06
+doze de maio;True;D12 M05;D12 M05
+doze de maio;True;D12 M05;D12 M05
+primeiro de abril;False;D01 M04;
+primeiro de abril;False;D01 M04;
+onze de março;True;D11 M03;D11 M03
+onze de março;True;D11 M03;D11 M03
+treze de fevereiro;True;D13 M02;D13 M02
+treze de fevereiro;True;D13 M02;D13 M02
+nove de janeiro;True;D09 M01;D09 M01
+nove de janeiro;True;D09 M01;D09 M01
+oito de dezembro;True;D08 M12;D08 M12
+oito de dezembro;True;D08 M12;D08 M12
+às terças-feiras;False;W2;
+às terças-feiras;False;W2;
+todo domingo;True;W7;W7
+todo domingo;True;W7;W7
+todo sábado;True;W6;W6
+todo sábado;True;W6;W6
+depois do natal;False;D25 M12;
+depois do natal;False;D25 M12;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+aos sábados;False;W6;
+aos sábados;False;W6;
+às sextas-feiras;False;W5;
+às sextas-feiras;False;W5;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+no natal;False;D25 M12;
+no natal;False;D25 M12;
+todo sábado;True;W6;W6
+todo sábado;True;W6;W6
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+aos sábados;False;W6;
+aos sábados;False;W6;
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+às quintas-feiras;False;W4;
+às quintas-feiras;False;W4;
+toda quarta;True;W3;W3
+toda quarta;True;W3;W3
+toda sexta;True;W5;W5
+toda sexta;True;W5;W5
+às terças-feiras;False;W2;
+às terças-feiras;False;W2;
+toda quarta;True;W3;W3
+toda quarta;True;W3;W3
+antes do natal;False;D25 M12;
+antes do natal;False;D25 M12;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+toda sexta;True;W5;W5
+toda sexta;True;W5;W5
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+no ano novo;False;D01 M01;
+no ano novo;False;D01 M01;
+às segundas-feiras;False;W1;
+às segundas-feiras;False;W1;
+toda segunda;True;W1;W1
+toda segunda;True;W1;W1
+aos sábados;False;W6;
+aos sábados;False;W6;
+aos domingos;False;W7;
+aos domingos;False;W7;
+às quartas-feiras;False;W3;
+às quartas-feiras;False;W3;
+toda segunda;True;W1;W1
+toda segunda;True;W1;W1
